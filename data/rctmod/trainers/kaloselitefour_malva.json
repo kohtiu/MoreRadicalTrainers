@@ -1,0 +1,187 @@
+{
+  "name": "Kalos Elite Four Malva",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "moveBias": 0.9,
+      "statMoveBias": 0.2,
+      "switchBias": 0.7,
+      "itemBias": 0.8,
+      "maxSelectMargin": 0.2
+    }
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "pyroar",
+      "gender": "FEMALE",
+      "level": 100,
+      "nature": "timid",
+      "ability": "unnerve",
+      "moveset": [
+        "flamethrower",
+        "hypervoice",
+        "willowisp",
+        "darkpulse"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spa": 252,
+        "spe": 252,
+        "hp": 4
+      },
+      "heldItem": "cobblemon:choice_specs"
+    },
+    {
+      "species": "talonflame",
+      "gender": "MALE",
+      "level": 100,
+      "nature": "jolly",
+      "ability": "galewings",
+      "moveset": [
+        "bravebird",
+        "flareblitz",
+        "swordsdance",
+        "roost"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spe": 252,
+        "hp": 4
+      },
+      "heldItem": "cobblemon:life_orb"
+    },
+    {
+      "species": "blaziken",
+      "gender": "MALE",
+      "level": 100,
+      "nature": "jolly",
+      "ability": "speedboost",
+      "heldItem": "mega_showdown:blazikenite",
+      "moveset": [
+        "flareblitz",
+        "highjumpkick",
+        "swordsdance",
+        "protect"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spe": 252,
+        "hp": 4
+      }
+    },
+    {
+      "species": "chandelure",
+      "gender": "FEMALE",
+      "level": 100,
+      "nature": "modest",
+      "ability": "flashfire",
+      "moveset": [
+        "shadowball",
+        "flamethrower",
+        "energyball",
+        "psychic"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spa": 252,
+        "hp": 252,
+        "spd": 4
+      },
+      "heldItem": "cobblemon:focus_sash"
+    },
+    {
+      "species": "carkol",
+      "gender": "MALE",
+      "level": 100,
+      "nature": "adamant",
+      "ability": "flamebody",
+      "moveset": [
+        "stealthrock",
+        "flareblitz",
+        "stoneedge",
+        "spikes"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "hp": 252,
+        "def": 4
+      },
+      "heldItem": "cobblemon:heavy_duty_boots"
+    },
+    {
+      "species": "ceruledge",
+      "gender": "MALE",
+      "level": 100,
+      "nature": "jolly",
+      "ability": "weakarmor",
+      "moveset": [
+        "swordsdance",
+        "shadowclaw",
+        "closecombat",
+        "protect"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spe": 252,
+        "hp": 4
+      },
+      "heldItem": "cobblemon:ghost_gem"
+    }
+  ]
+}

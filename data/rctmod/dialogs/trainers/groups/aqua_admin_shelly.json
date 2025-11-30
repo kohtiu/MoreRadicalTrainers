@@ -1,0 +1,22 @@
+{
+    "battle_start": [
+      "Ahahahaha! Meddling again? Let’s see you swim in pain! ♪",
+      "Cute and clueless! Resign yourself to drowning!"
+    ],
+    "battle_lost": [
+      "Ahahahaha! Ouch! How… refreshing!",
+      "Slurp. ♪ Your strength… *fascinating*…"
+    ],
+    "battle_won": [
+      "Ahahahaha! Washed up and worthless! ♪",
+      "Your Pokémon beg for a better trainer!"
+    ],
+    "done_looser": [
+      "Ahaha… Temporary setbacks… The tide always returns!",
+      "Your persistence… amuses. But the sea’s unstoppable!"
+    ],
+    "done_winner": [
+      "Ahaha… Target acquired. Commencing… liquidation. ♪",
+      "Another experiment sunk. How… delightful!"
+    ]
+  }

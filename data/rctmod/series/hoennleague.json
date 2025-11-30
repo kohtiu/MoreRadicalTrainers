@@ -1,0 +1,12 @@
+{
+    "description": "Time to face the Elite Four from the Hoenn Region! Are you ready?",
+    "difficulty": 6,
+    "requiredSeries": [
+    [
+      "hoenngymchallenge"
+    ]
+  ],
+
+    "title": "Hoenn League Challenge"
+  }
+  

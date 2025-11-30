@@ -1,0 +1,31 @@
+{
+  "parent": "rctmod:trainers/defeat_kaloselitefour_drasna",
+  "display": {
+    "title": {
+      "text": "Kalos Champion Diantha"
+    },
+    "description": {
+      "text": "Defeat Kalos Champion Diantha"
+    },
+    "icon": {
+      "id": "cobblemon:master_ball"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": ["kaloschampion_diantha"]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

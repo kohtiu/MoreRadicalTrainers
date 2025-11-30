@@ -1,0 +1,13 @@
+{
+    "requiredDefeats": [
+        ["paldeaelitefour_larry"]
+         ],
+    "series": [
+      "paldeaelitefour"
+    ],  
+    "type": "elitefour_paldea",
+    "maxTrainerWins": 5,
+    "spawnWeightFactor": 0.25,
+    "biomeTagBlacklist": ["is_water"],
+    "biomeTagWhitelist": ["is_overworld"]
+  }

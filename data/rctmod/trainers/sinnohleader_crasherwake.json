@@ -1,0 +1,190 @@
+{
+  "name": "Leader Wake",
+  "identity": "Leader Wake",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleFormat": "GEN_9_DOUBLES",
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "gyarados",
+"level": 52,
+      "ability": "moxie",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "waterfall",
+        "earthquake",
+        "dragondance",
+        "dragontail"
+      ],
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "floatzel",
+"level": 52,
+      "ability": "swiftswim",
+      "evs": {
+        "hp": 1,
+        "atk": 252,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "flipturn",
+        "icepunch",
+        "crunch",
+        "protect"
+      ],
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "empoleon",
+"level": 50,
+      "ability": "torrent",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 4,
+        "spd": 252,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "surf",
+        "toxic",
+        "raindance",
+        "icebeam"
+      ],
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "gastrodon",
+"level": 52,
+      "ability": "stormdrain",
+      "evs": {
+        "hp": 252,
+        "atk": 4,
+        "def": 1,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "earthquake",
+        "toxic",
+        "surf",
+        "protect"
+      ],
+      "heldItem": "assault_vest"
+    },
+    {
+      "species": "ludicolo",
+"level": 50,
+      "ability": "swiftswim",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "surf",
+        "gigadrain",
+        "icebeam",
+        "raindance"
+      ],
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "palafin",
+"level": 54,
+      "ability": "zerotohero",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "hydropump",
+        "icebeam",
+        "surf",
+        "flipturn"
+      ],
+      "heldItem": "leftovers"
+    }
+  ]
+}

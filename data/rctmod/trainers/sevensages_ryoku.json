@@ -1,0 +1,70 @@
+{
+  "name": "Ryoku",
+  "ai": {
+    "type": "rct",
+    "data": { "maxSelectMargin": 0.05 }
+  },
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "darmanitan",
+      "level": 80,
+      "nature": "jolly",
+      "ability": "sheerforce",
+      "moveset": ["flareblitz", "earthquake", "uturn", "rockslide"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "choice_scarf"
+    },
+    {
+      "species": "volcarona",
+      "level": 80,
+      "nature": "timid",
+      "ability": "flamebody",
+      "moveset": ["fierydance", "bugbuzz", "quiverdance", "roost"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "heavy_duty_boots"
+    },
+    {
+      "species": "ferrothorn",
+      "level": 80,
+      "nature": "relaxed",
+      "ability": "ironbarbs",
+      "moveset": ["powerwhip", "gyroball", "leechseed", "stealthrock"],
+      "evs": { "hp": 252, "def": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "rocky_helmet"
+    },
+    {
+      "species": "durant",
+      "level": 80,
+      "nature": "jolly",
+      "ability": "hustle",
+      "moveset": ["ironhead", "xscissor", "rockslide", "superpower"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "beartic",
+      "level": 80,
+      "nature": "adamant",
+      "ability": "slushrush",
+      "moveset": ["iceshard", "liquidation", "superpower", "protect"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "never_melt_ice"
+    },
+    {
+      "species": "slitherwing",
+      "level": 80,
+      "nature": "adamant",
+      "ability": "protosynthesis",
+      "moveset": ["leechlife", "closecombat", "earthquake", "protect"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    }
+  ]
+}

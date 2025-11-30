@@ -1,0 +1,49 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "cobblemonpokemonbadges:fairy_badge_kalos",
+            "conditions": [
+              {
+                "condition": "rctmod:defeat_count",
+                  "count": 1
+                    }
+                ]
+              } 
+            ]
+          },
+          {
+            "rolls": 1,
+            "entries": [
+                  {
+                    "type": "minecraft:item",
+                    "name": "cobblemon:fairy_feather",
+                    "conditions": [
+                      {
+                        "condition": "rctmod:defeat_count",
+                          "count": 1
+                            }
+                        ]
+                      }
+                ]
+              },
+              {
+                "rolls": 1,
+                "entries": [
+                          {
+                            "type": "minecraft:item",
+                            "name": "simpletms:tm_dazzlinggleam",
+                            "conditions": [
+                              {
+                                "condition": "rctmod:defeat_count",
+                                  "count": 1
+                                    }
+                                ]
+                              }
+                    ]
+                  }
+        ]
+      }

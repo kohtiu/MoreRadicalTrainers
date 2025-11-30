@@ -1,0 +1,16 @@
+{
+  "requiredDefeats": [
+      ["plasmagrunt_male_3"]
+    ],
+    "series": [
+      "teamplasma"
+    ],  
+    "type": "teamplasma",
+    "maxTrainerWins": 5,
+    "spawnWeightFactor": 0.25,
+    "biomeTagBlacklist": ["is_water"],
+    "biomeTagWhitelist": 
+    ["has_structure/desert_pyramid",
+    "has_structure/village_desert" ]
+
+}

@@ -1,0 +1,125 @@
+{
+    "name": "Gym Leader Katy",
+  "identity": "Paldea Gym Leader",
+    "ai": {
+      "type": "rct",
+      "data": {
+        "maxSelectMargin": 0.15
+      }
+    },
+    "battleRules": {
+      "maxItemUses": 3
+    },
+    "bag": [
+      {
+        "item": "cobblemon:full_restore",
+        "quantity": 3
+      }
+    ],
+    "team": [
+      {
+        "species": "lokix",
+        "level": 95,
+        "moveset": ["axekick", "suckerpunch", "uturn", "bounce"],
+        "heldItem": "cobblemon:life_orb",
+        "nature": "adamant",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 4,
+          "atk": 252,
+          "spe": 252
+        }
+      },
+      {
+        "species": "forretress",
+        "level": 96,
+        "moveset": ["bugbite", "gyroball", "curse", "stoneedge"],
+        "heldItem": "cobblemon:leftovers",
+        "nature": "adamant",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "def": 4,
+          "atk": 252,
+          "hp": 252
+        }
+      },
+      {
+        "species": "spidops",
+        "level": 95,
+        "moveset": ["skittersmack", "throatchop", "brickbreak", "silktrap"],
+        "heldItem": "cobblemon:focus_sash",
+        "nature": "adamant",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "def": 4,
+          "atk": 252,
+          "hp": 252
+        }
+      },
+      {
+        "species": "heracross",
+        "level": 99,
+        "moveset": ["megahorn", "closecombat", "stoneedge", "nightslash"],
+        "heldItem": "cobblemon:choice_scarf",
+        "nature": "jolly",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 4,
+          "atk": 252,
+          "spe": 252
+        }
+      },
+      {
+        "species": "ursaring",
+        "level": 100,
+        "moveset": ["furycutter", "highhorsepower", "playrough", "crunch"],
+        "heldItem": "cobblemon:flame_orb",
+        "nature": "adamant",
+        "gimmicks": {
+        "tera": "bug"
+      }, 
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "def": 4,
+          "atk": 252,
+          "hp": 252
+        }
+      }
+    ],
+    "battleFormat": "GEN_9_SINGLES"
+  }

@@ -1,0 +1,201 @@
+{
+  "name": "Brycen",
+  "identity": "Unova Leader Brycen",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+ "team": [
+    {
+      "species": "cryogonal",
+"level": 64,
+      "ability": "levitate",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 4,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "rapidspin",
+        "freezedry",
+        "recover",
+        "haze"
+      ],
+      "heldItem": "heavy_duty_boots",
+      "nature": "timid"
+    },
+    {
+      "species": "sandslash",
+"level": 66,
+      "ability": "slushrush",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 204,
+        "spe": 52
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "rapidspin",
+        "tripleaxel",
+        "knockoff",
+        "spikes"
+      ],
+      "aspects": [
+        "alolan"
+      ],
+      "heldItem": "leftovers",
+      "nature": "careful"
+    },
+    {
+      "species": "beartic",
+"level": 66,
+      "ability": "swiftswim",
+      "evs": {
+        "hp": 132,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 124
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "bulkup",
+        "substitute",
+        "iciclecrash",
+        "lowkick"
+      ],
+      "heldItem": "leftovers",
+      "nature": "adamant"
+    },
+    {
+      "species": "vanilluxe",
+"level": 64,
+      "ability": "weakarmor",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "icebeam",
+        "freezedry",
+        "protect",
+        "flashcannon"
+      ],
+      "heldItem": "choice_specs",
+      "nature": "timid"
+    },
+    {
+      "species": "ninetales",
+"level": 64,
+      "ability": "snowwarning",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "auroraveil",
+        "encore",
+        "freezedry",
+        "moonblast"
+      ],
+      "aspects": [
+        "alolan"
+      ],
+      "heldItem": "light_clay",
+      "nature": "timid"
+    },
+    {
+      "species": "baxcalibur",
+"level": 68,
+      "ability": "thermalexchange",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "iciclespear",
+        "glaiverush",
+        "earthquake",
+        "dragondance"
+      ],
+      "heldItem": "loaded_dice",
+      "nature": "adamant"
+    }
+  ]
+}

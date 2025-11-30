@@ -1,0 +1,142 @@
+{
+  "name": "Magma Grunt Sandy",
+  "identity": "Team Magma Grunt",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:hyper_potion",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "coalossal",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "brave",
+      "ability": "steamengine",
+      "moveset": [
+        "earthquake",
+        "curse",
+        "bodypress",
+        "gyroball"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "gliscor",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "",
+      "ability": "hypercutter",
+      "moveset": [
+        "substitute",
+        "toxic",
+        "swordsdance",
+        "earthquake"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "heldItem": "toxic_orb"
+    },
+    {
+      "species": "salazzle",
+      "gender": "FEMALE",
+      "level": 70,
+      "nature": "timid",
+      "ability": "corrosion",
+      "moveset": [
+        "nastyplot",
+        "fireblast",
+        "sludgebomb",
+        "terablast"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "donphan",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "adamant",
+      "ability": "sturdy",
+      "moveset": [
+        "earthquake",
+        "knockoff",
+        "rapidspin",
+        "icespinner"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 92,
+        "def": 144,
+        "spa": 0,
+        "spd": 0,
+        "spe": 20
+      },
+      "heldItem": "assault_vest"
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

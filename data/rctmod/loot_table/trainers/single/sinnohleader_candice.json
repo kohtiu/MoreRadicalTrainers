@@ -1,0 +1,64 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemonpokemonbadges:icicle_badge",
+          "conditions": [
+            {
+              "condition": "rctmod:defeat_count",
+                "count": 1
+                  }
+              ]
+            } 
+          ]
+        },
+        {
+          "rolls": 30,
+          "entries": [
+                {
+                  "type": "minecraft:item",
+                  "name": "minecraft:blue_ice",
+                  "conditions": [
+                    {
+                      "condition": "rctmod:defeat_count",
+                        "count": 1
+                          }
+                      ]
+                    }
+              ]
+            },
+            {
+              "rolls": 1,
+              "entries": [
+                    {
+                      "type": "minecraft:item",
+                      "name": "cobblemon:never_melt_ice",
+                      "conditions": [
+                        {
+                          "condition": "rctmod:defeat_count",
+                            "count": 1
+                              }
+                          ]
+                        }
+                  ]
+                },
+            {
+              "rolls": 1,
+              "entries": [
+                        {
+                          "type": "minecraft:item",
+                          "name": "simpletms:tm_avalanche",
+                          "conditions": [
+                            {
+                              "condition": "rctmod:defeat_count",
+                                "count": 1
+                                  }
+                              ]
+                            }
+                  ]
+                }
+      ]
+    }

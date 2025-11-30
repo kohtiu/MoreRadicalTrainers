@@ -1,0 +1,8 @@
+{
+  "maxTrainerWins": 5,
+  "spawnWeightFactor": 0.25,
+  "type": "team_magma",
+  "series": ["teammagma"],
+  "biomeTagBlacklist": ["is_water"],
+  "biomeTagWhitelist": ["is_nether"]
+}

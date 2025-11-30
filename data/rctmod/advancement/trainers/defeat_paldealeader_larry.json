@@ -1,0 +1,31 @@
+{
+  "parent": "rctmod:trainers/defeat_paldealeader_kofu",
+  "display": {
+    "title": {
+      "text": "Normal Badge"
+    },
+    "description": {
+      "text": "Defeat Leader Larry"
+    },
+    "icon": {
+      "id": "cobblemon:poke_ball"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": ["paldealeader_larry"]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "name": "Emerald",
+  "identity": "PokeSpe Trainer",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "sceptile",
+      "gender": "MALE",
+      "level": 80,
+      "nature": "timid",
+      "ability": "lightningrod",
+      "heldItem": "mega_showdown:sceptilite",
+      "moveset": [
+        "leafstorm",
+        "dragonpulse",
+        "focusblast",
+        "protect"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "dusclops",
+      "gender": "MALE",
+      "level": 80,
+      "nature": "calm",
+      "ability": "pressure",
+      "moveset": [
+        "nightshade",
+        "willowisp",
+        "rest",
+        "sleeptalk"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 252,
+        "spe": 4
+      },
+      "heldItem": "eviolite"
+    },
+    {
+      "species": "sudowoodo",
+      "gender": "MALE",
+      "level": 80,
+      "nature": "adamant",
+      "ability": "rockhead",
+      "moveset": [
+        "stealthrock",
+        "headsmash",
+        "woodhammer",
+        "suckerpunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "latias",
+      "gender": "FEMALE",
+      "level": 80,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "calmmind",
+        "agility",
+        "storedpower",
+        "aurasphere"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 232,
+        "spa": 0,
+        "spd": 0,
+        "spe": 24
+      },
+      "heldItem": "weakness_policy"
+    },
+    {
+      "species": "latios",
+      "gender": "MALE",
+      "level": 80,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "dracometeor",
+        "psychicnoise",
+        "calmmind",
+        "recover"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "hoopa",
+      "gender": "GENDERLESS",
+      "level": 80,
+      "nature": "timid",
+      "ability": "magician",
+      "moveset": [
+        "psyshock",
+        "shadowball",
+        "focusblast",
+        "trick"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": "choice_scarf"
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

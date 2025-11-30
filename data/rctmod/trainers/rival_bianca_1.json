@@ -1,0 +1,176 @@
+{
+  "name": "Rival Bianca",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "moveBias": 0.9,
+      "statMoveBias": 0.2,
+      "switchBias": 0.7,
+      "itemBias": 0.8
+    }
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "bag": [
+    {
+      "item": "cobblemon:potion",
+      "quantity": 2
+    },
+    {
+      "item": "cobblemon:oran_berry",
+      "quantity": 1
+    }
+  ],
+  "team": [
+    {
+      "species": "oshawott",
+      "gender": "MALE",
+      "level": 13,
+      "nature": "modest",
+      "ability": "torrent",
+      "moveset": [
+        "watersport",
+        "tackle",
+        "tailwhip",
+        "watergun"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 20,
+        "spa": 24,
+        "spd": 21,
+        "spe": 20
+      },
+      "evs": {
+        "spa": 16,
+        "spd": 12,
+        "hp": 12
+      }
+    },
+    {
+      "species": "patrat",
+      "gender": "FEMALE",
+      "level": 11,
+      "nature": "adamant",
+      "ability": "keeneye",
+      "moveset": [
+        "tackle",
+        "leer",
+        "bite",
+        "detect"
+      ],
+      "ivs": {
+        "hp": 18,
+        "atk": 22,
+        "def": 18,
+        "spa": 18,
+        "spd": 18,
+        "spe": 20
+      },
+      "evs": {
+        "atk": 12,
+        "spe": 12
+      }
+    },
+    {
+      "species": "woobat",
+      "gender": "FEMALE",
+      "level": 11,
+      "nature": "timid",
+      "ability": "unaware",
+      "moveset": [
+        "confusion",
+        "odorsleuth",
+        "aircutter",
+        "heartstamp"
+      ],
+      "ivs": {
+        "hp": 19,
+        "atk": 16,
+        "def": 16,
+        "spa": 22,
+        "spd": 18,
+        "spe": 22
+      },
+      "evs": {
+        "spa": 12,
+        "spe": 12
+      }
+    },
+    {
+      "species": "sewaddle",
+      "gender": "FEMALE",
+      "level": 12,
+      "nature": "adamant",
+      "ability": "swarm",
+      "moveset": [
+        "tackle",
+        "stringshot",
+        "bugbite",
+        "razorleaf"
+      ],
+      "ivs": {
+        "hp": 18,
+        "atk": 21,
+        "def": 20,
+        "spa": 18,
+        "spd": 20,
+        "spe": 16
+      },
+      "evs": {
+        "atk": 12,
+        "def": 12
+      }
+    },
+    {
+      "species": "munna",
+      "gender": "FEMALE",
+      "level": 12,
+      "nature": "bold",
+      "ability": "synchronize",
+      "moveset": [
+        "psywave",
+        "defensecurl",
+        "yawn",
+        "luckychant"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 16,
+        "def": 22,
+        "spa": 20,
+        "spd": 21,
+        "spe": 15
+      },
+      "evs": {
+        "hp": 12,
+        "def": 12
+      }
+    },
+    {
+      "species": "pansear",
+      "gender": "MALE",
+      "level": 12,
+      "nature": "modest",
+      "ability": "gluttony",
+      "moveset": [
+        "scratch",
+        "leer",
+        "lick",
+        "incinerate"
+      ],
+      "ivs": {
+        "hp": 19,
+        "atk": 18,
+        "def": 17,
+        "spa": 22,
+        "spd": 18,
+        "spe": 21
+      },
+      "evs": {
+        "spa": 12,
+        "spe": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "name": "Magma Grunt Lithio",
+  "identity": "Team Magma Grunt",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:hyper_potion",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "raticate",
+      "gender": "MALE",
+      "level": 71,
+      "nature": "careful",
+      "ability": "thickfat",
+      "moveset": [
+        "superfang",
+        "protect",
+        "zenheadbutt",
+        "suckerpunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 4,
+        "def": 0,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "aspects": [
+        "alolan"
+      ],
+      "heldItem": "assault_vest"
+    },
+    {
+      "species": "centiskorch",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "adamant",
+      "ability": "flamebody",
+      "moveset": [
+        "leechlife",
+        "firelash",
+        "protect",
+        "coil"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "magcargo",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "brave",
+      "ability": "flamebody",
+      "moveset": [
+        "earthquake",
+        "gyroball",
+        "curse",
+        "flareblitz"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 248,
+        "atk": 248,
+        "def": 0,
+        "spa": 0,
+        "spd": 8,
+        "spe": 0
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "klawf",
+      "gender": "MALE",
+      "level": 73,
+      "nature": "adamant",
+      "ability": "angershell",
+      "moveset": [
+        "crabhammer",
+        "highhorsepower",
+        "shadowclaw",
+        "rockslide"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 248,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 8,
+        "spe": 0
+      },
+      "heldItem": "assault_vest"
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

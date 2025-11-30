@@ -1,0 +1,199 @@
+{
+  "name": "Green",
+  "identity": "PokeSpe Trainer",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "wigglytuff",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "careful",
+      "ability": "frisk",
+      "moveset": [
+        "wish",
+        "teleport",
+        "knockoff",
+        "protect"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "granbull",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "playrough",
+        "earthquake",
+        "firepunch",
+        "closecombat"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "heldItem": "choice_band"
+    },
+    {
+      "species": "blastoise",
+      "heldItem": "mega_showdown:blastoisinite",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "modest",
+      "ability": "megalauncher",
+      "moveset": [
+        "waterpulse",
+        "aurasphere",
+        "darkpulse",
+        "dragonpulse"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      }
+    },
+    {
+      "species": "ditto",
+      "gender": "GENDERLESS",
+      "level": 90,
+      "nature": "relaxed",
+      "ability": "imposter",
+      "moveset": [
+        "transform"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 4,
+        "def": 252,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "heldItem": "choice_scarf"
+    },
+    {
+      "species": "clefable",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "bold",
+      "ability": "magicguard",
+      "moveset": [
+        "stealthrock",
+        "moonblast",
+        "moonlight",
+        "knockoff"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "nidoqueen",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "timid",
+      "ability": "sheerforce",
+      "moveset": [
+        "stealthrock",
+        "earthpower",
+        "sludgewave",
+        "icebeam"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 48,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 208
+      },
+      "heldItem": "life_orb"
+    }
+  ],
+  "battleFormat": "GEN_9_TRIPLES"
+}

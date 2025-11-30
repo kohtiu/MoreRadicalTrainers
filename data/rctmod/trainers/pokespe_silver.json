@@ -1,0 +1,203 @@
+{
+  "name": "Silver",
+  "identity": "PokeSpe Trainer",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "feraligatr",
+      "gender": "MALE",
+      "level": 80,
+      "nature": "jolly",
+      "ability": "sheerforce",
+      "moveset": [
+        "dragondance",
+        "liquidation",
+        "icepunch",
+        "crunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "weavile",
+      "gender": "MALE",
+      "level": 80,
+      "nature": "jolly",
+      "ability": "pickpocket",
+      "moveset": [
+        "swordsdance",
+        "tripleaxel",
+        "knockoff",
+        "lowkick"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": "heavy_duty_boots"
+    },
+    {
+      "species": "kingdra",
+      "gender": "MALE",
+      "level": 80,
+      "nature": "timid",
+      "ability": "sniper",
+      "moveset": [
+        "focusenergy",
+        "agility",
+        "dracometeor",
+        "hydropump"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": "scope_lens"
+    },
+    {
+      "species": "honchkrow",
+      "gender": "MALE",
+      "level": 80,
+      "nature": "jolly",
+      "ability": "moxie",
+      "moveset": [
+        "bravebird",
+        "suckerpunch",
+        "superpower",
+        "taunt"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "heldItem": "dark_gem"
+    },
+    {
+      "species": "gyarados",
+      "aspects": ["shiny"],
+      "gender": "MALE",
+      "level": 80,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "dragondance",
+        "waterfall",
+        "crunch",
+        "earthquake"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "ursaluna",
+      "gender": "MALE",
+      "level": 80,
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": [
+        "swordsdance",
+        "facade",
+        "headlongrush",
+        "firepunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "heldItem": "flame_orb"
+    }
+  ],
+  "battleFormat": "GEN_9_SINGLES"
+}

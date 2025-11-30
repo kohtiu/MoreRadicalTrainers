@@ -1,0 +1,46 @@
+{
+    "missing_pokemon": [
+      "Hah! Where's your squad? Even Digletts dig deeper than you!",
+      "No Pokémon? Team Magma’s volcanoes don’t burn for weaklings!"
+    ],
+    "low_level_cap": [
+      "Your Pokémon couldn’t melt a snow cone! Train in Magma’s heat!",
+      "Pathetic. Come back when your team’s as fiery as our ambition!"
+    ],
+    "over_level_cap": [
+      "Rebellious Pokémon? We’ll bury them under molten rock!",
+      "Control your beasts—or Team Magma’s lava will!"
+    ],
+    "battle_start": [
+      "Feel the heat of Magma’s vision! Burn to ash!",
+      "You’re just kindling for our glorious future!"
+    ],
+    "battle_lost": [
+      "Ngh…! The land will still rise!",
+      "This is a setback… Leader Maxie will crush you!"
+    ],
+    "battle_won": [
+      "Hah! Reduced to cinders!",
+      "Team Magma’s fire can’t be quenched!"
+    ],
+    "on_cooldown": [
+      "Buzz off. My Pokémon are busy reshaping continents.",
+      "Come back when you’re worth the magma."
+    ],
+    "is_busy": [
+      "Can’t you see I’m terraforming?! Scram!",
+      "Interrupting sacred work? You’re volcanic dust!"
+    ],
+    "done_looser": [
+      "Enjoy your petty win. The land will still rise!",
+      "Leader Maxie’s plans can’t be stopped by ants!"
+    ],
+    "done_winner": [
+      "Another failure for the magma pits. Good riddance.",
+      "Your ashes will fertilize our new world."
+    ],
+    "done_generic": [
+      "Enough. My Pokémon need lava baths.",
+      "Boring. Go play in a sandbox."
+    ]
+  }

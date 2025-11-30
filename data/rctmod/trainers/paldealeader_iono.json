@@ -1,0 +1,145 @@
+{
+    "name": "Gym Leader Iono",
+  "identity": "Paldea Gym Leader",
+    "ai": {
+      "type": "rct",
+      "data": {
+        "maxSelectMargin": 0.15
+      }
+    },
+    "battleRules": {
+      "maxItemUses": 3
+    },
+    "bag": [
+      {
+        "item": "cobblemon:full_restore",
+        "quantity": 3
+      }
+    ],
+    "team": [
+      {
+        "species": "kilowattrel",
+        "level": 93,
+        "moveset": ["hurricane", "endeavor", "discharge", "tailwind"],
+        "heldItem": "cobblemon:heavy_duty_boots",
+        "nature": "timid",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "spa": 252,
+          "hp": 4,
+          "spe": 252
+        }
+      },
+      {
+        "species": "electrode",
+        "level": 94,
+        "moveset": ["foulplay", "raindance", "thunder", "electricterrain"],
+        "heldItem": "cobblemon:light_clay",
+        "nature": "timid",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "spa": 4,
+          "spe": 252
+        }
+      },
+      {
+        "species": "bellibolt",
+        "level": 96,
+        "moveset": ["waterpulse", "thunder", "reflect", "acidspray"],
+        "heldItem": "cobblemon:assault_vest",
+        "nature": "modest",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "spa": 252,
+          "spd": 4
+        }
+      },
+      {
+        "species": "luxray",
+        "level": 97,
+        "moveset": ["crunch", "wildcharge", "psychicfangs", "icefang"],
+        "heldItem": "cobblemon:expert_belt",
+        "nature": "jolly",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        }
+      },
+      {
+        "species": "electivire",
+        "level": 95,
+        "moveset": ["brickbreak", "trailblaze", "icepunch", "supercellslam"],
+        "heldItem": "cobblemon:life_orb",
+        "nature": "jolly",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        }
+      },
+      {
+        "species": "mismagius",
+        "level": 100,
+        "moveset": ["thunderbolt", "shadowball", "mysticalfire", "dazzlinggleam"],
+        "heldItem": "cobblemon:colbur_berry",
+        "nature": "timid",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "gimmicks": {
+          "tera": "ghost"
+        },
+        "evs": {
+          "spa": 252,
+          "hp": 4,
+          "spe": 252
+        }
+      }
+    ],
+    "battleFormat": "GEN_9_SINGLES"
+  }

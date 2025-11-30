@@ -1,0 +1,127 @@
+{
+    "name": "Magma Grunt Ember",
+    "identity": "Team Magma Grunt",
+    "ai": {
+      "type": "rct",
+      "data": {
+        "moveBias": 1,
+        "statMoveBias": 0.1,
+        "switchBias": 0.65,
+        "itemBias": 1,
+        "maxSelectMargin": 0.15
+      }
+    },
+    "battleFormat": "GEN_9_DOUBLES",
+    "bag": [
+      {
+        "item": "cobblemon:hyper_potion",
+        "quantity": 2
+      }
+    ],
+    "team": [
+      {
+        "species": "cacturne",
+        "gender": "MALE",
+        "level": 62,
+        "nature": "naughty",
+        "ability": "waterabsorb",
+        "moveset": [
+          "knockoff",
+          "suckerpunch",
+          "leafstorm",
+          "spikes"
+        ],
+        "evs": {
+          "hp": 0,
+          "atk": 252,
+          "def": 0,
+          "spa": 4,
+          "spd": 0,
+          "spe": 252
+        },
+        "heldItem": "cobblemon:life_orb"
+      },
+      {
+        "species": "magmortar",
+        "gender": "MALE",
+        "level": 63,
+        "nature": "timid",
+        "ability": "flamebody",
+        "moveset": [
+          "fireblast",
+          "scorchingsands",
+          "thunderbolt",
+          "knockoff"
+        ],
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 4,
+          "spa": 252,
+          "spd": 0,
+          "spe": 252
+        },
+        "heldItem": "cobblemon:heavy_duty_boots"
+      },
+      {
+        "species": "sableye",
+        "gender": "MALE",
+        "level": 61,
+        "nature": "impish",
+        "ability": "prankster",
+        "moveset": [
+          "nightshade",
+          "willowisp",
+          "encore",
+          "recover"
+        ],
+        "ivs": {
+          "hp": 31,
+          "atk": 0,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "atk": 0,
+          "def": 252,
+          "spa": 0,
+          "spd": 4,
+          "spe": 0
+        },
+        "heldItem": "cobblemon:heavy_duty_boots"
+      },
+      {
+        "species": "scovillain",
+        "gender": "MALE",
+        "level": 65,
+        "nature": "modest",
+        "ability": "moody",
+        "moveset": [
+          "leechseed",
+          "fireblast",
+          "energyball",
+          "gigadrain"
+        ],
+        "ivs": {
+          "hp": 31,
+          "atk": 0,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "heldItem": "cobblemon:life_orb"
+      }
+    ]
+  }

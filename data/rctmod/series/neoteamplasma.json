@@ -1,0 +1,11 @@
+{
+    "description": "Battle and defeat a reorganized Team Plasma!",
+    "difficulty": 6,
+    "requiredSeries": [
+      [
+        "teamplasmasevensages"
+      ]
+    ],
+    "title": "Neo Team Plasma"
+  }
+  

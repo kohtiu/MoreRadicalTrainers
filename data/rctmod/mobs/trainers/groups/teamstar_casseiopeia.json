@@ -1,0 +1,17 @@
+{
+  "requiredDefeats": [
+      ["teamstar_ortega"],
+      ["teamstar_mela"], 
+      ["teamstar_eri"],
+      ["teamstar_giacomo"],
+      ["teamstar_atticus"]
+       ],
+  "series": [
+    "starfallstreet"
+  ],  
+  "type": "teamstar",
+  "maxTrainerWins": 5,
+  "spawnWeightFactor": 0.25,
+  "biomeTagBlacklist": ["is_water"],
+  "biomeTagWhitelist": ["is_overworld"]
+}

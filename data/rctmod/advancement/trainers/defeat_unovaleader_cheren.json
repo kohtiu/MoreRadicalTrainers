@@ -1,0 +1,31 @@
+{
+  "parent": "rctmod:trainers/defeat_unovaleader_drayden",
+  "display": {
+    "title": {
+      "text": "Aspertia Basic Badge"
+    },
+    "description": {
+      "text": "Defeat Leader Cheren"
+    },
+    "icon": {
+      "id": "cobblemonpokemonbadges:basic_badge"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": ["unovaleader_cheren"]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

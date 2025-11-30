@@ -1,0 +1,142 @@
+{
+  "name": "Aqua Grunt Manta",
+  "identity": "Team Aqua Grunt",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:hyper_potion",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "obstagoon",
+      "gender": "MALE",
+      "level": 71,
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": [
+        "knockoff",
+        "facade",
+        "icepunch",
+        "switcheroo"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": "flame_orb"
+    },
+    {
+      "species": "araquanid",
+      "gender": "MALE",
+      "level": 74,
+      "nature": "brave",
+      "ability": "waterbubble",
+      "moveset": [
+        "stickyweb",
+        "liquidation",
+        "leechlife",
+        "toxic"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 4,
+        "spd": 0,
+        "spe": 0
+      },
+      "heldItem": "assault_vest"
+    },
+    {
+      "species": "overqwil",
+      "gender": "FEMALE",
+      "level": 72,
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "spikes",
+        "barbbarrage",
+        "throatchop",
+        "haze"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "veluza",
+      "gender": "FEMALE",
+      "level": 74,
+      "nature": "adamant",
+      "ability": "moldbreaker",
+      "moveset": [
+        "filletaway",
+        "psychocut",
+        "aquajet",
+        "nightslash"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "heldItem": "sitrus_berry"
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

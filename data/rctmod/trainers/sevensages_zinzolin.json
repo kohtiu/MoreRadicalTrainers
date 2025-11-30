@@ -1,0 +1,70 @@
+{
+  "name": "Zinzolin",
+  "ai": {
+    "type": "rct",
+    "data": { "maxSelectMargin": 0.05 }
+  },
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "cryogonal",
+      "level": 80,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": ["freezedry", "recover", "haze", "rapidspin"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "never_melt_ice"
+    },
+    {
+      "species": "weavile",
+      "level": 80,
+      "nature": "jolly",
+      "ability": "pressure",
+      "moveset": ["iceshard", "knockoff", "iceshard", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "focus_band"
+    },
+    {
+      "species": "cetitan",
+      "level": 80,
+      "nature": "adamant",
+      "ability": "slushrush",
+      "moveset": ["icepunch", "earthquake", "bellydrum", "protect"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "sitrus_berry"
+    },
+    {
+      "species": "klinklang",
+      "level": 80,
+      "nature": "adamant",
+      "ability": "clearbody",
+      "moveset": ["geargrind", "voltswitch", "shiftgear", "wildcharge"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "metal_coat"
+    },
+    {
+      "species": "cobalion",
+      "level": 80,
+      "nature": "jolly",
+      "ability": "justified",
+      "moveset": ["closecombat", "ironhead", "stoneedge", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "greattusk",
+      "level": 80,
+      "nature": "adamant",
+      "ability": "protosynthesis",
+      "moveset": ["headlongrush", "icespinner", "closecombat", "protect"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "name": "Hoenn Elite Four Drake",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "moveBias": 0.95,
+      "statMoveBias": 0.8,
+      "switchBias": 0.7,
+      "itemBias": 0.9,
+      "maxSelectMargin": 0.05
+    }
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "flygon",
+      "gender": "MALE",
+      "level": 88,
+      "nature": "jolly",
+      "ability": "levitate",
+      "moveset": [
+        "earthquake",
+        "outrage",
+        "stoneedge",
+        "uturn"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 28,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": "cobblemon:choice_scarf"
+    },
+    {
+      "species": "salamence",
+      "gender": "MALE",
+      "heldItem": "mega_showdown:salamencite",
+      "level": 89,
+      "nature": "jolly",
+      "ability": "aerilate",
+      "moveset": [
+        "dragondance",
+        "outrage",
+        "earthquake",
+        "stoneedge"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 28,
+        "spd": 28,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "altaria",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "modest",
+      "ability": "naturalcure",
+      "moveset": [
+        "dracometeor",
+        "fireblast",
+        "roost",
+        "hurricane"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 28,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spa": 252,
+        "spd": 4
+      },
+      "heldItem": "cobblemon:expert_belt"
+    },
+    {
+      "species": "kingdra",
+      "gender": "FEMALE",
+      "level": 91,
+      "nature": "modest",
+      "ability": "swiftswim",
+      "moveset": [
+        "hydropump",
+        "dracometeor",
+        "icebeam",
+        "raindance"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 28,
+        "def": 31,
+        "spa": 31,
+        "spd": 28,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": "cobblemon:life_orb"
+    },
+    {
+      "species": "haxorus",
+      "gender": "MALE",
+      "level": 92,
+      "nature": "jolly",
+      "ability": "moldbreaker",
+      "moveset": [
+        "outrage",
+        "closecombat",
+        "poisonjab",
+        "earthquake"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 28,
+        "spd": 28,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": "cobblemon:choice_band"
+    },
+    {
+      "species": "kommoo",
+      "gender": "MALE",
+      "level": 93,
+      "nature": "adamant",
+      "ability": "bulletproof",
+      "moveset": [
+        "closecombat",
+        "dragondance",
+        "earthquake",
+        "poisonjab"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 28,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": "cobblemon:life_orb"
+    }
+  ]
+}

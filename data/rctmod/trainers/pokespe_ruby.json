@@ -1,0 +1,202 @@
+{
+  "name": "Ruby",
+  "identity": "PokeSpe Trainer",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "swampert",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "jolly",
+      "heldItem": "mega_showdown:swampertite",
+      "ability": "swiftswim",
+      "moveset": [
+        "waterfall",
+        "earthquake",
+        "flipturn",
+        "stealthrock"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "milotic",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "bold",
+      "ability": "marvelscale",
+      "moveset": [
+        "scald",
+        "recover",
+        "raindance",
+        "icebeam"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "heldItem": "damp_rock"
+    },
+    {
+      "species": "mightyena",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "adamant",
+      "ability": "moxie",
+      "moveset": [
+        "suckerpunch",
+        "crunch",
+        "substitute",
+        "taunt"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": "black_glasses"
+    },
+    {
+      "species": "castform",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "modest",
+      "ability": "forecast",
+      "moveset": [
+        "raindance",
+        "weatherball",
+        "thunderbolt",
+        "icebeam"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "heldItem": "damp_rock"
+    },
+    {
+      "species": "gardevoir",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "timid",
+      "ability": "trace",
+      "moveset": [
+        "moonblast",
+        "psychic",
+        "trick",
+        "healingwish"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "heldItem": "choice_scarf"
+    },
+    {
+      "species": "delcatty",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "jolly",
+      "ability": "normalize",
+      "moveset": [
+        "fakeout",
+        "suckerpunch",
+        "return",
+        "thunderwave"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "heldItem": "silk_scarf"
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

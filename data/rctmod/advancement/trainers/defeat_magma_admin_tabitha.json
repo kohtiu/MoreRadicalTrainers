@@ -1,0 +1,31 @@
+{
+  "parent": "rctmod:trainers/defeat_magma_admin_courtney",
+  "display": {
+    "title": {
+      "text": "Defeat Magma Admin Tabitha"
+    },
+    "description": {
+      "text": "Defeat Magma Admin Tabitha"
+    },
+    "icon": {
+      "id": "cobblemon:fast_ball"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": ["magma_admin_tabitha"]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

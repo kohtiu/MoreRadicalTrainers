@@ -1,0 +1,204 @@
+{
+  "name": "Aqua Admin Amber",
+  "identity": "Team Aqua Admin",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "sharpedo",
+      "aspects": [
+        "mega"
+      ],
+      "gender": "FEMALE",
+      "level": 80,
+      "nature": "jolly",
+      "ability": "strongjaw",
+      "moveset": [
+        "closecombat",
+        "crunch",
+        "psychicfangs",
+        "icefang"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "pelipper",
+      "gender": "MALE",
+      "level": 76,
+      "nature": "modest",
+      "ability": "drizzle",
+      "moveset": [
+        "hurricane",
+        "hydropump",
+        "tailwind",
+        "protect"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "heldItem": "damp_rock"
+    },
+    {
+      "species": "gorebyss",
+      "gender": "MALE",
+      "level": 78,
+      "nature": "modest",
+      "ability": "swiftswim",
+      "moveset": [
+        "shellsmash",
+        "hydropump",
+        "icebeam",
+        "substitute"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "heldItem": "white_herb"
+    },
+    {
+      "species": "shedinja",
+      "gender": "GENDERLESS",
+      "level": 77,
+      "nature": "timid",
+      "ability": "wonderguard",
+      "moveset": [
+        "protect",
+        "willowisp",
+        "toxic",
+        "hex"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "heldItem": "heavy_duty_boots"
+    },
+    {
+      "species": "ninjask",
+      "gender": "MALE",
+      "level": 76,
+      "nature": "adamant",
+      "ability": "speedboost",
+      "moveset": [
+        "leechlife",
+        "uturn",
+        "aerialace",
+        "nightslash"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "heldItem": "choice_band"
+    },
+    {
+      "species": "wugtrio",
+      "gender": "FEMALE",
+      "level": 73,
+      "nature": "jolly",
+      "ability": "rattled",
+      "moveset": [
+        "liquidation",
+        "aquajet",
+        "suckerpunch",
+        "stompingtantrum"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 8,
+        "spe": 248
+      },
+      "heldItem": "leftovers"
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

@@ -1,0 +1,202 @@
+{
+  "name": "Sapphire",
+  "identity": "PokeSpe Trainer",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "blaziken",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "adamant",
+      "heldItem": "mega_showdown:blazikenite",
+      "ability": "speedboost",
+      "moveset": [
+        "flareblitz",
+        "protect",
+        "highjumpkick",
+        "swordsdance"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "tropius",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "bold",
+      "ability": "harvest",
+      "moveset": [
+        "leechseed",
+        "substitute",
+        "airslash",
+        "protect"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 248,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 8,
+        "spe": 0
+      },
+      "heldItem": "sitrus_berry"
+    },
+    {
+      "species": "aggron",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "careful",
+      "ability": "sturdy",
+      "moveset": [
+        "stealthrock",
+        "heavyslam",
+        "bodypress",
+        "toxic"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "donphan",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "adamant",
+      "ability": "sturdy",
+      "moveset": [
+        "earthquake",
+        "knockoff",
+        "rapidspin",
+        "icespinner"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 92,
+        "def": 144,
+        "spa": 0,
+        "spd": 0,
+        "spe": 20
+      },
+      "heldItem": "assault_vest"
+    },
+    {
+      "species": "gallade",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "jolly",
+      "ability": "sharpness",
+      "moveset": [
+        "swordsdance",
+        "sacredsword",
+        "psychocut",
+        "nightslash"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": "lum_berry"
+    },
+    {
+      "species": "relicanth",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "impish",
+      "ability": "rockhead",
+      "moveset": [
+        "stealthrock",
+        "headsmash",
+        "toxic",
+        "protect"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 248,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 8,
+        "spe": 0
+      },
+      "heldItem": "leftovers"
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

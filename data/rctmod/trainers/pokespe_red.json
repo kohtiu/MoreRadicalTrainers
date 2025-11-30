@@ -1,0 +1,202 @@
+{
+  "name": "Red",
+  "identity": "PokeSpe Trainer",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+"team": [
+    {
+      "species": "poliwrath",
+      "gender": "MALE",
+      "level": 95,
+      "nature": "bold",
+      "ability": "waterabsorb",
+      "moveset": [
+        "circlethrow",
+        "scald",
+        "rest",
+        "sleeptalk"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 160,
+        "spa": 0,
+        "spd": 0,
+        "spe": 96
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "venusaur",
+      "gender": "MALE",
+      "level": 95,
+      "nature": "timid",
+      "heldItem": "mega_showdown:venusaurite",
+      "ability": "thickfat",
+      "moveset": [
+        "frenzyplant",
+        "sludgebomb",
+        "earthpower",
+        "synthesis"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "pikachu",
+      "gender": "MALE",
+      "level": 95,
+      "nature": "hasty",
+      "ability": "static",
+      "moveset": [
+        "thunderbolt",
+        "voltswitch",
+        "knockoff",
+        "surf"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "heldItem": "light_ball"
+    },
+    {
+      "species": "snorlax",
+      "gender": "MALE",
+      "level": 95,
+      "nature": "careful",
+      "ability": "thickfat",
+      "moveset": [
+        "curse",
+        "bodyslam",
+        "heatcrash",
+        "rest"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 252,
+        "spe": 4
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "gyarados",
+      "gender": "MALE",
+      "level": 95,
+      "nature": "jolly",
+      "ability": "moxie",
+      "moveset": [
+        "dragondance",
+        "waterfall",
+        "earthquake",
+        "icefang"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "heldItem": "heavy_duty_boots"
+    },
+    {
+      "species": "aerodactyl",
+      "gender": "MALE",
+      "level": 95,
+      "nature": "jolly",
+      "ability": "pressure",
+      "moveset": [
+        "stoneedge",
+        "earthquake",
+        "roost",
+        "stealthrock"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": "heavy_duty_boots"
+    }
+  ],
+  "battleFormat": "GEN_9_SINGLES"
+}

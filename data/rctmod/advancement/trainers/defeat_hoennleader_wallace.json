@@ -1,0 +1,31 @@
+{
+  "parent": "rctmod:trainers/defeat_hoennleader_liza",
+  "display": {
+    "title": {
+      "text": "Rain Badge"
+    },
+    "description": {
+      "text": "Defeat Leader Wallace"
+    },
+    "icon": {
+      "id": "cobblemonpokemonbadges:rain_badge"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": ["hoennleader_wallace"]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

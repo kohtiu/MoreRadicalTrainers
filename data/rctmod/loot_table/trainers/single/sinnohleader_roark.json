@@ -1,0 +1,49 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemonpokemonbadges:coal_badge",
+          "conditions": [
+            {
+              "condition": "rctmod:defeat_count",
+                "count": 1
+                  }
+              ]
+            } 
+          ]
+        },
+        {
+          "rolls": 1,
+          "entries": [
+                {
+                  "type": "minecraft:item",
+                  "name": "cobblemon:rocky_helmet",
+                  "conditions": [
+                    {
+                      "condition": "rctmod:defeat_count",
+                        "count": 1
+                          }
+                      ]
+                    }
+              ]
+            },
+            {
+              "rolls": 1,
+              "entries": [
+                        {
+                          "type": "minecraft:item",
+                          "name": "simpletms:tm_stealthrock",
+                          "conditions": [
+                            {
+                              "condition": "rctmod:defeat_count",
+                                "count": 1
+                                  }
+                              ]
+                            }
+                  ]
+                }
+      ]
+    }

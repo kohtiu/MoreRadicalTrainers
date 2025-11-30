@@ -1,0 +1,72 @@
+{
+  "name": "N",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1
+    }
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "team": [
+    {
+      "species": "ferrothorn",
+      "level": 53,
+      "nature": "relaxed",
+      "ability": "ironbarbs",
+      "moveset": ["powerwhip", "ironhead", "leechseed", "stealthrock"],
+      "evs": { "hp": 252, "def": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "rocky_helmet"
+    },
+    {
+      "species": "klinklang",
+      "level": 53,
+      "nature": "adamant",
+      "ability": "clearbody",
+      "moveset": ["geargrind", "wildcharge", "shiftgear", "voltswitch"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "metal_coat"
+    },
+    {
+      "species": "galvantula",
+      "level": 53,
+      "nature": "timid",
+      "ability": "compoundeyes",
+      "moveset": ["thunder", "bugbuzz", "stickyweb", "energyball"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "magnet"
+    },
+    {
+      "species": "zoroark",
+      "level": 53,
+      "nature": "timid",
+      "ability": "illusion",
+      "moveset": ["nightdaze", "flamethrower", "nastyplot", "uturn"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "focus_band"
+    },
+    {
+      "species": "archeops",
+      "level": 53,
+      "nature": "jolly",
+      "ability": "defeatist",
+      "moveset": ["acrobatics", "stoneedge", "earthquake", "uturn"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "flying_gem"
+    },
+    {
+      "species": "carracosta",
+      "level": 53,
+      "nature": "adamant",
+      "ability": "solidrock",
+      "moveset": ["aquajet", "stoneedge", "earthquake", "shellsmash"],
+      "evs": { "atk": 252, "def": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "white_herb"
+    }
+  ]
+}

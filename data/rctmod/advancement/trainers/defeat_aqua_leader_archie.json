@@ -1,0 +1,31 @@
+{
+  "parent": "rctmod:trainers/defeat_aqua_admin_shelly",
+  "display": {
+    "title": {
+      "text": "Team Aqua Stopped!"
+    },
+    "description": {
+      "text": "Defeat Aqua Leader Archie"
+    },
+    "icon": {
+      "id": "cobblemon:dive_ball"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": ["aqua_leader_archie"]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

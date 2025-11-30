@@ -1,0 +1,142 @@
+{
+  "name": "Aqua Grunt Ray",
+  "identity": "Team Aqua Grunt",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:hyper_potion",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "drednaw",
+      "gender": "FEMALE",
+      "level": 67,
+      "nature": "adamant",
+      "ability": "strongjaw",
+      "moveset": [
+        "icefang",
+        "crunch",
+        "liquidation",
+        "megahorn"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "heldItem": "assault_vest"
+    },
+    {
+      "species": "mightyena",
+      "gender": "MALE",
+      "level": 65,
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "crunch",
+        "icefang",
+        "suckerpunch",
+        "toxic"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "whiscash",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "sassy",
+      "ability": "oblivious",
+      "moveset": [
+        "stealthrock",
+        "earthpower",
+        "stoneedge",
+        "surf"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 248,
+        "atk": 0,
+        "def": 8,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "scrafty",
+      "gender": "MALE",
+      "level": 69,
+      "nature": "adamant",
+      "ability": "shedskin",
+      "moveset": [
+        "dragondance",
+        "knockoff",
+        "drainpunch",
+        "poisonjab"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 176,
+        "atk": 100,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 232
+      },
+      "heldItem": "leftovers"
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

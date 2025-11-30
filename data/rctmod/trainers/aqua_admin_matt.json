@@ -1,0 +1,201 @@
+{
+  "name": "Aqua Admin Matt",
+  "identity": "Team Aqua Admin",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "politoed",
+      "gender": "MALE",
+      "level": 76,
+      "nature": "modest",
+      "ability": "drizzle",
+      "moveset": [
+        "whirlpool",
+        "perishsong",
+        "icebeam",
+        "encore"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "barraskewda",
+      "gender": "FEMALE",
+      "level": 77,
+      "nature": "adamant",
+      "ability": "swiftswim",
+      "moveset": [
+        "flipturn",
+        "liquidation",
+        "closecombat",
+        "aquajet"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 248,
+        "def": 0,
+        "spa": 0,
+        "spd": 12,
+        "spe": 248
+      },
+      "heldItem": "choice_band"
+    },
+    {
+      "species": "basculegion",
+      "gender": "MALE",
+      "level": 79,
+      "nature": "adamant",
+      "ability": "swiftswim",
+      "moveset": [
+        "wavecrash",
+        "psychicfangs",
+        "flipturn",
+        "aquajet"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": "choice_band"
+    },
+    {
+      "species": "slowbro",
+      "gender": "FEMALE",
+      "level": 78,
+      "nature": "bold",
+      "ability": "regenerator",
+      "moveset": [
+        "calmmind",
+        "scald",
+        "slackoff",
+        "psyshock"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 80,
+        "spa": 0,
+        "spd": 176,
+        "spe": 0
+      }
+    },
+    {
+      "species": "tatsugiri",
+      "gender": "MALE",
+      "level": 76,
+      "nature": "timid",
+      "ability": "commander",
+      "moveset": [
+        "muddywater",
+        "dracometeor",
+        "icywind",
+        "dragonpulse"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 0,
+        "def": 140,
+        "spa": 76,
+        "spd": 4,
+        "spe": 244
+      },
+      "heldItem": "choice_scarf"
+    },
+    {
+      "species": "dondozo",
+      "gender": "FEMALE",
+      "level": 78,
+      "nature": "adamant",
+      "ability": "unaware",
+      "moveset": [
+        "wavecrash",
+        "orderup",
+        "earthquake",
+        "protect"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 156,
+        "def": 20,
+        "spa": 0,
+        "spd": 76,
+        "spe": 252
+      },
+      "heldItem": "rocky_helmet"
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

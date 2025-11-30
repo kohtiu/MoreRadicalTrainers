@@ -1,0 +1,71 @@
+{
+  "name": "Roxie",
+  "ai": {
+    "type": "rct",
+    "data": { "maxSelectMargin": 0.05 }
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "team": [
+    {
+      "species": "toxtricity",
+      "level": 86,
+      "nature": "modest",
+      "ability": "punkrock",
+      "moveset": ["overdrive", "sludgebomb", "boomburst", "voltswitch"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "throat_spray"
+    },
+    {
+      "species": "weezing",
+      "level": 86,
+      "nature": "bold",
+      "ability": "levitate",
+      "moveset": ["sludgebomb", "willowisp", "painsplit", "toxicspikes"],
+      "evs": { "hp": 252, "def": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "black_sludge"
+    },
+    {
+      "species": "grafaiai",
+      "level": 86,
+      "nature": "jolly",
+      "ability": "prankster",
+      "moveset": ["poisonjab", "knockoff", "uturn", "partingshot"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "focus_band"
+    },
+    {
+      "species": "scolipede",
+      "level": 86,
+      "nature": "jolly",
+      "ability": "speedboost",
+      "moveset": ["megahorn", "poisonjab", "earthquake", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "toxicroak",
+      "level": 86,
+      "nature": "adamant",
+      "ability": "dryskin",
+      "moveset": ["gunkshot", "drainpunch", "suckerpunch", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "black_sludge"
+    },
+    {
+      "species": "muk",
+      "level": 86,
+      "nature": "careful",
+      "ability": "poisontouch",
+      "aspects": ["alolan"],
+      "moveset": ["gunkshot", "knockoff", "firepunch", "curse"],
+      "evs": { "hp": 252, "spd": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "assault_vest"
+    }
+  ]
+}

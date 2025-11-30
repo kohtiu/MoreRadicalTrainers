@@ -1,0 +1,49 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemonpokemonbadges:relic_badge",
+          "conditions": [
+            {
+              "condition": "rctmod:defeat_count",
+                "count": 1
+                  }
+              ]
+            } 
+          ]
+        },
+        {
+          "rolls": 1,
+          "entries": [
+                {
+                  "type": "minecraft:item",
+                  "name": "minecraft:totem_of_undying",
+                  "conditions": [
+                    {
+                      "condition": "rctmod:defeat_count",
+                        "count": 1
+                          }
+                      ]
+                    }
+              ]
+            },
+            {
+              "rolls": 1,
+              "entries": [
+                        {
+                          "type": "minecraft:item",
+                          "name": "simpletms:tm_shadowclaw",
+                          "conditions": [
+                            {
+                              "condition": "rctmod:defeat_count",
+                                "count": 1
+                                  }
+                              ]
+                            }
+                  ]
+                }
+      ]
+    }

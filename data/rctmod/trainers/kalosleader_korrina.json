@@ -1,0 +1,199 @@
+{
+    "name": "Korrina",
+  "identity": "Kalos Leader Korrina",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "machamp",
+      "level": 93,
+      "ability": "guts",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "closecombat",
+        "knockoff",
+        "facade",
+        "bulletpunch"
+      ],
+      "heldItem": "flame_orb",
+      "nature": "adamant"
+    },
+    {
+      "species": "hawlucha",
+      "level": 93,
+      "ability": "unburden",
+      "evs": {
+        "hp": 80,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 176
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "swordsdance",
+        "acrobatics",
+        "closecombat",
+        "substitute"
+      ],
+      "heldItem": "grassy_seed",
+      "nature": "adamant"
+    },
+    {
+      "species": "mienshao",
+      "level": 93,
+      "ability": "regenerator",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "closecombat",
+        "knockoff",
+        "uturn",
+        "fakeout"
+      ],
+      "heldItem": "life_orb",
+      "nature": "jolly"
+    },
+    {
+      "species": "lucario",
+      "level": 95,
+      "heldItem": "mega_showdown:lucarionite",
+      "ability": "adaptability",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "swordsdance",
+        "meteormash",
+        "closecombat",
+        "bulletpunch"
+      ],
+      "nature": "jolly"
+    },
+    {
+      "species": "chesnaught",
+      "level": 95,
+      "ability": "bulletproof",
+      "evs": {
+        "hp": 248,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 8,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "spikes",
+        "bodypress",
+        "grassyterrain",
+        "woodhammer"
+      ],
+      "heldItem": "leftovers",
+      "nature": "impish"
+    },
+    {
+      "species": "lilligant",
+      "level": 94,
+      "ability": "hustle",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "victorydance",
+        "leafblade",
+        "closecombat",
+        "grassyterrain"
+      ],
+      "aspects": [
+        "hisuian"
+      ],
+      "heldItem": "wide_lens",
+      "nature": "jolly"
+    }
+  ],
+  "battleFormat": "GEN_9_SINGLES"
+}

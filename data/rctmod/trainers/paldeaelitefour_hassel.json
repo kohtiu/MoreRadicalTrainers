@@ -1,0 +1,145 @@
+{
+    "name": "Elite Four Hassel",
+  "identity": "Paldea Elite Four",
+    "ai": {
+      "type": "rct",
+      "data": {
+        "maxSelectMargin": 0.15
+      }
+    },
+    "battleRules": {
+      "maxItemUses": 3
+    },
+    "bag": [
+      {
+        "item": "cobblemon:full_restore",
+        "quantity": 3
+      }
+    ],
+    "team": [
+      {
+        "species": "duraludon",
+        "level": 100,
+        "moveset": ["stealthrock", "bodypress", "thunderbolt", "dracometeor"],
+        "heldItem": "cobblemon:assault_vest",
+        "nature": "modest",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "spa": 252,
+          "spd": 4
+        }
+      },
+      {
+        "species": "noivern",
+        "level": 100,
+        "moveset": ["airslash", "dragonpulse", "superfang", "boomburst"],
+        "heldItem": "cobblemon:life_orb",
+        "nature": "timid",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "spa": 252,
+          "hp": 4,
+          "spe": 252
+        }
+      },
+      {
+        "species": "haxorus",
+        "level": 100,
+        "moveset": ["breakingswipe", "crunch", "ironhead", "rocktomb"],
+        "heldItem": "cobblemon:choice_band",
+        "nature": "jolly",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        }
+      },
+      {
+        "species": "dragalge",
+        "level": 100,
+        "moveset": ["sludgebomb", "dragonpulse", "hydropump", "thunderbolt"],
+        "heldItem": "cobblemon:black_sludge",
+        "nature": "modest",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "spa": 252,
+          "spd": 4
+        }
+      },
+      {
+        "species": "dragonite",
+        "level": 100,
+        "moveset": ["extremespeed", "dragonrush", "earthquake", "stoneedge"],
+        "heldItem": "cobblemon:weakness_policy",
+        "nature": "adamant",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        }
+      },
+      {
+        "species": "baxcalibur",
+        "level": 100,
+        "moveset": ["ironhead", "earthquake", "glaiverush", "iceshard"],
+        "heldItem": "cobblemon:heavy_duty_boots",
+        "gimmicks": {
+        "tera": "dragon"
+      },
+        "nature": "jolly",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        }
+      }
+    ],
+    "battleFormat": "GEN_9_SINGLES"
+  }

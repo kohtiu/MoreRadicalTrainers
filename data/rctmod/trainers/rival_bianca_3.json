@@ -1,0 +1,72 @@
+{
+  "name": "Bianca",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "team": [
+    {
+      "species": "samurott",
+      "level": 44,
+      "nature": "adamant",
+      "ability": "torrent",
+      "moveset": ["razorshell", "aquajet", "slash", "revenge"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "mystic_water"
+    },
+    {
+      "species": "watchog",
+      "level": 44,
+      "nature": "jolly",
+      "ability": "analytic",
+      "moveset": ["hyperfang", "crunch", "thunderwave", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "kings_rock"
+    },
+    {
+      "species": "swoobat",
+      "level": 44,
+      "nature": "timid",
+      "ability": "simple",
+      "moveset": ["airslash", "psychic", "calmmind", "heatwave"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "wise_glasses"
+    },
+    {
+      "species": "leavanny",
+      "level": 44,
+      "nature": "jolly",
+      "ability": "swarm",
+      "moveset": ["leafblade", "xscissor", "shadowclaw", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "miracle_seed"
+    },
+    {
+      "species": "musharna",
+      "level": 44,
+      "nature": "modest",
+      "ability": "forewarn",
+      "moveset": ["psychic", "moonlight", "shadowball", "calmmind"],
+      "evs": { "spa": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "twisted_spoon"
+    },
+    {
+      "species": "darmanitan",
+      "level": 44,
+      "nature": "adamant",
+      "ability": "sheerforce",
+      "moveset": ["flareblitz", "superpower", "earthquake", "uturn"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "charcoal_stick"
+    }
+  ]
+}

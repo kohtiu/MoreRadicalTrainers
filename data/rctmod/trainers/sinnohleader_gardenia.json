@@ -1,0 +1,191 @@
+{
+  "name": "Leader Gardenia",
+  "identity": "Leader Gardenia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleFormat": "GEN_9_DOUBLES",
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:hyper_potion",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "torterra",
+"level": 36,
+      "ability": "overgrow",
+      "evs": {
+        "hp": 100,
+        "atk": 4,
+        "def": 40,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "curse",
+        "earthquake",
+        "woodhammer",
+        "rockslide"
+      ],
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "cherrim",
+"level": 32,
+      "ability": "flowergift",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 100,
+        "spd": 0,
+        "spe": 30
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "solarbeam",
+        "weatherball",
+        "dazzlinggleam",
+        "sunnyday"
+      ],
+      "heldItem": "heat_rock"
+    },
+    {
+      "species": "roserade",
+"level": 33,
+      "ability": "poisonpoint",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 60,
+        "spd": 0,
+        "spe": 100
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "leafstorm",
+        "sludgebomb",
+        "shadowball",
+        "synthesis"
+      ],
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "meowscarada",
+"level": 33,
+      "ability": "protean",
+      "evs": {
+        "hp": 0,
+        "atk": 100,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 40
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "flowertrick",
+        "knockoff",
+        "uturn",
+        "tripleaxel"
+      ],
+      "heldItem": "expert_belt",
+      "nature": "jolly"
+    },
+    {
+      "species": "trevenant",
+"level": 33,
+      "ability": "harvest",
+      "evs": {
+        "hp": 100,
+        "atk": 4,
+        "def": 0,
+        "spa": 0,
+        "spd": 60,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "shadowclaw",
+        "woodhammer",
+        "earthquake",
+        "hornleech"
+      ],
+      "heldItem": "assault_vest"
+    },
+    {
+      "species": "lilligant",
+"level": 32,
+      "ability": "chlorophyll",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 100,
+        "spd": 0,
+        "spe": 40
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "leafstorm",
+        "petaldance",
+        "sleeppowder",
+        "sunnyday"
+      ],
+      "heldItem": "heat_rock"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "name": "Crystal",
+  "identity": "PokeSpe Trainer",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "meganium",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "calm",
+      "ability": "overgrow",
+      "moveset": [
+        "aromatherapy",
+        "gigadrain",
+        "synthesis",
+        "dragontail"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "xatu",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "bold",
+      "ability": "magicbounce",
+      "moveset": [
+        "psychic",
+        "foulplay",
+        "roost",
+        "teleport"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "heldItem": "rocky_helmet"
+    },
+    {
+      "species": "hitmonchan",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "adamant",
+      "ability": "ironfist",
+      "moveset": [
+        "drainpunch",
+        "icepunch",
+        "machpunch",
+        "rapidspin"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 248,
+        "atk": 16,
+        "def": 0,
+        "spa": 0,
+        "spd": 244,
+        "spe": 0
+      },
+      "heldItem": "assault_vest"
+    },
+    {
+      "species": "parasect",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "careful",
+      "ability": "dryskin",
+      "moveset": [
+        "spore",
+        "leechlife",
+        "knockoff",
+        "synthesis"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 248,
+        "atk": 0,
+        "def": 8,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "arcanine",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "curse",
+        "extremespeed",
+        "flareblitz",
+        "morningsun"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 160,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 96
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "jynx",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "timid",
+      "ability": "dryskin",
+      "moveset": [
+        "icebeam",
+        "psychic",
+        "focusblast",
+        "trick"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "heldItem": "choice_specs"
+    }
+  ],
+  "battleFormat": "GEN_9_SINGLES"
+}

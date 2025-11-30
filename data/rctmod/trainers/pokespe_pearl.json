@@ -1,0 +1,202 @@
+{
+  "name": "Pearl",
+  "identity": "PokeSpe Trainer",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "infernape",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "jolly",
+      "ability": "ironfist",
+      "moveset": [
+        "flareblitz",
+        "closecombat",
+        "uturn",
+        "thunderpunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": "choice_scarf"
+    },
+    {
+      "species": "luxray",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": [
+        "facade",
+        "wildcharge",
+        "superpower",
+        "crunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "heldItem": "flame_orb"
+    },
+    {
+      "species": "chatot",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "timid",
+      "ability": "tangledfeet",
+      "moveset": [
+        "boomburst",
+        "chatter",
+        "heatwave",
+        "uturn"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": "choice_scarf"
+    },
+    {
+      "species": "floatzel",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "adamant",
+      "ability": "waterveil",
+      "moveset": [
+        "wavecrash",
+        "flipturn",
+        "icespinner",
+        "liquidation"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": "choice_scarf"
+    },
+    {
+      "species": "dugtrio",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "adamant",
+      "ability": "arenatrap",
+      "moveset": [
+        "earthquake",
+        "stoneedge",
+        "memento",
+        "toxic"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 244,
+        "def": 0,
+        "spa": 0,
+        "spd": 140,
+        "spe": 124
+      },
+      "heldItem": "choice_scarf"
+    },
+    {
+      "species": "tauros",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "doubleedge",
+        "earthquake",
+        "stoneedge",
+        "pursuit"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "heldItem": "choice_scarf"
+    }
+  ],
+  "battleFormat": "GEN_9_SINGLES"
+}

@@ -1,0 +1,204 @@
+{
+  "name": "Leader Liza",
+  "identity": "Leader Liza",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+"battleFormat": "GEN_9_DOUBLES",
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "solrock",
+"level": 62,
+      "ability": "levitate",
+      "evs": {
+        "hp": 252,
+        "atk": 76,
+        "def": 176,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "reflect",
+        "earthquake",
+        "rockslide",
+        "explosion"
+      ],
+      "heldItem": "leftovers",
+      "nature": "impish"
+    },
+    {
+      "species": "lunatone",
+"level": 62,
+      "ability": "levitate",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 240,
+        "spa": 0,
+        "spd": 0,
+        "spe": 16
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "batonpass",
+        "calmmind",
+        "hypnosis",
+        "psychic"
+      ],
+      "heldItem": "leftovers",
+      "nature": "modest"
+    },
+    {
+      "species": "slowbro",
+"level": 64,
+      "ability": "regenerator",
+      "evs": {
+        "hp": 228,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 28
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "shellsidearm",
+        "psyshock",
+        "flamethrower",
+        "icebeam"
+      ],
+      "aspects": [
+        "galarian"
+      ],
+      "heldItem": "assault_vest",
+      "nature": "modest"
+    },
+    {
+      "species": "slowking",
+"level": 64,
+      "ability": "regenerator",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "sludgebomb",
+        "icebeam",
+        "slackoff",
+        "toxicspikes"
+      ],
+      "aspects": [
+        "galarian"
+      ],
+      "heldItem": "heavy_duty_boots",
+      "nature": "calm"
+    },
+    {
+      "species": "meowstic",
+"gender": "MALE",
+"level": 63,
+      "ability": "prankster",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "reflect",
+        "lightscreen",
+        "psychicterrain",
+        "thunderbolt"
+      ],
+      "heldItem": "terrain_extender",
+      "nature": "bold"
+    },
+    {
+      "species": "meowstic",
+"gender": "FEMALE",
+"level": 63,
+      "ability": "competitive",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "psyshock",
+        "signalbeam",
+        "expandingforce",
+        "calmmind"
+      ],
+      "heldItem": "life_orb",
+      "nature": "timid"
+    }
+  ]
+}

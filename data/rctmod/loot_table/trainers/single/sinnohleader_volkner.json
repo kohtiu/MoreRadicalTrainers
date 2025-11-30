@@ -1,0 +1,94 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemonpokemonbadges:beacon_badge",
+          "conditions": [
+            {
+              "condition": "rctmod:defeat_count",
+                "count": 1
+                  }
+              ]
+            } 
+          ]
+        },
+        {
+          "rolls": 4,
+          "entries": [
+                {
+                  "type": "minecraft:item",
+                  "name": "minecraft:comparator",
+                  "conditions": [
+                    {
+                      "condition": "rctmod:defeat_count",
+                        "count": 1
+                          }
+                      ]
+                    }
+              ]
+            },
+            {
+              "rolls": 4,
+              "entries": [
+                    {
+                      "type": "minecraft:item",
+                      "name": "minecraft:repeater",
+                      "conditions": [
+                        {
+                          "condition": "rctmod:defeat_count",
+                            "count": 1
+                              }
+                          ]
+                        }
+                  ]
+                },
+                {
+                  "rolls": 4,
+                  "entries": [
+                        {
+                          "type": "minecraft:item",
+                          "name": "minecraft:redstone_lamp",
+                          "conditions": [
+                            {
+                              "condition": "rctmod:defeat_count",
+                                "count": 1
+                                  }
+                              ]
+                            }
+                      ]
+                    },
+                    {
+                      "rolls": 30,
+                      "entries": [
+                            {
+                              "type": "minecraft:item",
+                              "name": "minecraft:redstone",
+                              "conditions": [
+                                {
+                                  "condition": "rctmod:defeat_count",
+                                    "count": 1
+                                      }
+                                  ]
+                                }
+                          ]
+                        },
+            {
+              "rolls": 1,
+              "entries": [
+                        {
+                          "type": "minecraft:item",
+                          "name": "simpletms:tm_chargebeam",
+                          "conditions": [
+                            {
+                              "condition": "rctmod:defeat_count",
+                                "count": 1
+                                  }
+                              ]
+                            }
+                  ]
+                }
+      ]
+    }

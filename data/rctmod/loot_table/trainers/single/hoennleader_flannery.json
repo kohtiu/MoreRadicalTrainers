@@ -1,0 +1,49 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "cobblemonpokemonbadges:heat_badge",
+            "conditions": [
+              {
+                "condition": "rctmod:defeat_count",
+                  "count": 1
+                    }
+                ]
+              } 
+            ]
+          },
+          {
+            "rolls": 1,
+            "entries": [
+                  {
+                    "type": "minecraft:item",
+                    "name": "minecraft:magma_cream",
+                    "conditions": [
+                      {
+                        "condition": "rctmod:defeat_count",
+                          "count": 1
+                            }
+                        ]
+                      }
+                ]
+              },
+              {
+                "rolls": 1,
+                "entries": [
+                          {
+                            "type": "minecraft:item",
+                            "name": "simpletms:tm_overheat",
+                            "conditions": [
+                              {
+                                "condition": "rctmod:defeat_count",
+                                  "count": 1
+                                    }
+                                ]
+                              }
+                    ]
+                  }
+        ]
+      }

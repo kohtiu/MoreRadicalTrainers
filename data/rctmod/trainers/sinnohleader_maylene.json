@@ -1,0 +1,190 @@
+{
+  "name": "Leader Maylene",
+  "identity": "Leader Maylene",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleFormat": "GEN_9_DOUBLES",
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:hyper_potion",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "lucario",
+"level": 48,
+      "ability": "justified",
+      "evs": {
+        "hp": 0,
+        "atk": 200,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 120
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "closecombat",
+        "meteormash",
+        "extremespeed",
+        "swordsdance"
+      ],
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "medicham",
+"level": 46,
+      "ability": "purepower",
+      "evs": {
+        "hp": 0,
+        "atk": 120,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 120
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "closecombat",
+        "zenheadbutt",
+        "aurasphere",
+        "icepunch"
+      ],
+      "heldItem": "choice_band"
+    },
+    {
+      "species": "annihilape",
+"level": 46,
+      "ability": "vitalspirit",
+      "evs": {
+        "hp": 0,
+        "atk": 160,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 120
+      },
+      "ivs": {
+        "hp": 0,
+        "atk": 31,
+        "def": 0,
+        "spa": 31,
+        "spd": 0,
+        "spe": 31
+      },
+      "moveset": [
+        "closecombat",
+        "ragefist",
+        "earthquake",
+        "shadowclaw"
+      ],
+      "heldItem": "choice_scarf"
+    },
+    {
+      "species": "toxicroak",
+"level": 44,
+      "ability": "dryskin",
+      "evs": {
+        "hp": 40,
+        "atk": 60,
+        "def": 40,
+        "spa": 0,
+        "spd": 40,
+        "spe": 40
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "closecombat",
+        "bulletpunch",
+        "knockoff",
+        "suckerpunch"
+      ],
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "gallade",
+"level": 46,
+      "ability": "justified",
+      "evs": {
+        "hp": 0,
+        "atk": 100,
+        "def": 40,
+        "spa": 0,
+        "spd": 40,
+        "spe": 60
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "closecombat",
+        "psychocut",
+        "knockoff",
+        "swordsdance"
+      ],
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "infernape",
+"level": 46,
+      "ability": "blaze",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 120,
+        "spd": 0,
+        "spe": 120
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "bulkup",
+        "earthquake",
+        "machpunch",
+        "flareblitz"
+      ],
+      "heldItem": "choice_band"
+    }
+  ]
+}

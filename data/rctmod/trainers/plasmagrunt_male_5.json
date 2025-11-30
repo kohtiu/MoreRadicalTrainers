@@ -1,0 +1,75 @@
+{
+  "name": "Plasma Grunt",
+  "identity": "Plasma Fighter",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1
+    }
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "team": [
+    {
+      "species": "raticate",
+      "level": 64,
+      "nature": "jolly",
+      "ability": "hustle",
+      "aspects": ["alolan"],
+      "moveset": ["suckerpunch", "uturn", "doubleedge", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "muk",
+      "level": 64,
+      "nature": "careful",
+      "ability": "poisontouch",
+      "aspects": ["alolan"],
+      "moveset": ["gunkshot", "knockoff", "firepunch", "curse"],
+      "evs": { "hp": 252, "spd": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "black_sludge"
+    },
+    {
+      "species": "bombirdier",
+      "level": 64,
+      "nature": "adamant",
+      "ability": "rockypayload",
+      "moveset": ["bravebird", "stoneedge", "uturn", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "sharp_beak"
+    },
+    {
+      "species": "fearow",
+      "level": 64,
+      "nature": "jolly",
+      "ability": "sniper",
+      "moveset": ["drillpeck", "uturn", "doubleedge", "roost"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "scope_lens"
+    },
+    {
+      "species": "heatmor",
+      "level": 64,
+      "nature": "modest",
+      "ability": "flashfire",
+      "moveset": ["flamethrower", "gigadrain", "focusblast", "nastyplot"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "charcoal_stick"
+    },
+    {
+      "species": "durant",
+      "level": 64,
+      "nature": "jolly",
+      "ability": "hustle",
+      "moveset": ["ironhead", "xscissor", "rockslide", "superpower"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    }
+  ]
+}

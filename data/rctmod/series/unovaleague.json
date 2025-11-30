@@ -1,0 +1,11 @@
+{
+    "description": "Battle the Elite Four and Champion from the Unova Region! Are you ready?",
+    "difficulty": 5,
+    "requiredSeries":[
+    [
+      "unovagymchallenge"
+    ]
+  ],
+    "title": "Unova League Challenge"
+  }
+  

@@ -1,0 +1,46 @@
+{
+    "battle_start": [
+      "Fascinating! In this blocky realm, even Pokémon battles obey new laws of physics. Let’s test them.",
+      "Observing how your Pokémon interact with cubic matter… Hypothesis: their strength is amplified by 12.5%."
+    ],
+    "battle_lost": [
+      "Unanticipated variable: your pickaxe-sharp resolve. Data logged for further study.",
+      "Defeat… A glitch in the simulation? Or a flaw in my calculations?"
+    ],
+    "battle_won": [
+      "Result: Cobblemon’s code favors those who exploit its crafting mechanics. Marvelous!",
+      "Victory! Your Pokémon’s AI pathfinding couldn’t adapt to my redstone traps."
+    ],
+    "done_looser": [
+      "Your persistence… like a creeper’s fuse. Eventually, it will *click*. Until next update.",
+      "This world’s seed is unpredictable. But I’ll debug your strategies eventually."
+    ],
+    "done_winner": [
+      "Another entity erased from the chunk. How… efficient.",
+      "Your defeat is a resource drop. Valuable, but replaceable."
+    ],
+    "done_generic": [
+      "Enough. My lab’s chunk needs rendering. Farewell, Player.",
+      "Return to mining cobblestone. I’ll be optimizing the overworld."
+    ],
+    "on_cooldown": [
+      "Cooldown? How primitive. In my lab, I bypass tick delays with command blocks.",
+      "Patience. My Pokémon are recalibrating their hitboxes."
+    ],
+    "is_busy": [
+      "Can’t you see I’m terraforming this biome? Priorities, Trainer.",
+      "Interrupting a nether portal ritual? How… *Java Edition* of you."
+    ],
+    "missing_pokemon": [
+      "No Pokémon? Even a dirt block has more utility.",
+      "Your inventory lacks battle-ready entities. Gather resources and return."
+    ],
+    "low_level_cap": [
+      "Your team’s enchantment levels are insufficient. Grind XP or be crushed.",
+      "Weakness: your Pokémon haven’t been smithed with netherite resolve."
+    ],
+    "over_level_cap": [
+      "Overleveled? How curious. This world’s bedrock layer limits growth. Adapt.",
+      "Your Pokémon rebel? They sense the code’s artificial ceiling. A flaw I’ll exploit."
+    ]
+  }

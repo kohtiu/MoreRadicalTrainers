@@ -1,0 +1,202 @@
+{
+  "name": "Yellow",
+  "identity": "PokeSpe Trainer",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "pikachu",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "jolly",
+      "ability": "static",
+      "moveset": [
+        "substitute",
+        "fly",
+        "volttackle",
+        "sing"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": "light_ball"
+    },
+    {
+      "species": "butterfree",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "calm",
+      "ability": "compoundeyes",
+      "moveset": [
+        "sleeppowder",
+        "quiverdance",
+        "psychic",
+        "hurricane"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 252,
+        "spe": 4
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "raticate",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "careful",
+      "ability": "guts",
+      "moveset": [
+        "superfang",
+        "doubleedge",
+        "rest",
+        "sleeptalk"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "golem",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "impish",
+      "ability": "sturdy",
+      "moveset": [
+        "bodypress",
+        "bodyslam",
+        "curse",
+        "rest"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "dodrio",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "jolly",
+      "ability": "tangledfeet",
+      "moveset": [
+        "swordsdance",
+        "bravebird",
+        "lowkick",
+        "quickattack"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": "heavy_duty_boots"
+    },
+    {
+      "species": "omastar",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "modest",
+      "ability": "weakarmor",
+      "moveset": [
+        "shellsmash",
+        "hydropump",
+        "icebeam",
+        "earthpower"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 252,
+        "spd": 0,
+        "spe": 0
+      },
+      "heldItem": "air_balloon"
+    }
+  ],
+  "battleFormat": "GEN_9_TRIPLES"
+}

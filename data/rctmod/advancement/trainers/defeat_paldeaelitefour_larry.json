@@ -1,0 +1,31 @@
+{
+  "parent": "rctmod:trainers/defeat_paldeaelitefour_poppy",
+  "display": {
+    "title": {
+      "text": "Defeat Elite Four"
+    },
+    "description": {
+      "text": "Defeat Elite Four Larry"
+    },
+    "icon": {
+      "id": "cobblemon:great_ball"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": ["paldeaelitefour_larry"]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

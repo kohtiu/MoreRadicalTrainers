@@ -1,0 +1,192 @@
+{
+  "name": "Elesa",
+  "identity": "Unova Leader Elesa",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "emolga",
+"level": 46,
+      "ability": "motordrive",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 60,
+        "spa": 180,
+        "spd": 0,
+        "spe": 180
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "voltswitch",
+        "airslash",
+        "thunderbolt",
+        "roost"
+      ],
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "eelektross",
+"level": 46,
+      "ability": "levitate",
+      "evs": {
+        "hp": 160,
+        "atk": 4,
+        "def": 0,
+        "spa": 0,
+        "spd": 160,
+        "spe": 80
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "thunderbolt",
+        "voltswitch",
+        "gigaimpact",
+        "knockoff"
+      ],
+      "heldItem": "assault_vest"
+    },
+    {
+      "species": "zebstrika",
+"level": 47,
+      "ability": "lightningrod",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 120,
+        "spd": 0,
+        "spe": 120
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "thunderbolt",
+        "voltswitch",
+        "wildcharge",
+        "overheat"
+      ],
+      "heldItem": "choice_specs"
+    },
+    {
+      "species": "stunfisk",
+"level": 46,
+      "ability": "static",
+      "evs": {
+        "hp": 200,
+        "atk": 0,
+        "def": 100,
+        "spa": 0,
+        "spd": 200,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 0,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "earthpower",
+        "stealthrock",
+        "discharge",
+        "thunderbolt"
+      ],
+      "heldItem": "rocky_helmet"
+    },
+    {
+      "species": "raichu",
+"level": 48,
+      "ability": "surgesurfer",
+      "evs": {
+        "hp": 0,
+        "atk": 40,
+        "def": 4,
+        "spa": 180,
+        "spd": 0,
+        "spe": 120
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "psychic",
+        "thunderbolt",
+        "focusblast",
+        "voltswitch"
+      ],
+      "aspects": [
+        "alolan"
+      ],
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "pawmot",
+"level": 50,
+      "ability": "naturalcure",
+      "evs": {
+        "hp": 0,
+        "atk": 100,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 120
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "voltswitch",
+        "closecombat",
+        "icepunch",
+        "revivalblessing"
+      ],
+      "heldItem": "leftovers"
+    }
+  ]
+}

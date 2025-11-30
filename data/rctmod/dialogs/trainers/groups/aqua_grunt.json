@@ -1,0 +1,46 @@
+{
+    "missing_pokemon": [
+      "No Pokémon? Even Magikarp flop harder than you!",
+      "Where’s your squad? Team Aqua’s tides don’t wait for landlubbers!"
+    ],
+    "low_level_cap": [
+      "Your Pokémon couldn’t fill a puddle! Train in the open sea!",
+      "Weaklings! Come back when your team’s as deep as our ambition!"
+    ],
+    "over_level_cap": [
+      "Rebellious Pokémon? We’ll sink ’em to the abyss!",
+      "Control your beasts—or Team Aqua’s currents will!"
+    ],
+    "battle_start": [
+      "Drown in the tide of Aqua’s vision!",
+      "You’re just driftwood in our oceanic future!"
+    ],
+    "battle_lost": [
+      "Blubbering barnacles… The sea still rises!",
+      "This ain’t over! Captain Archie’ll flood you!"
+    ],
+    "battle_won": [
+      "Hah! Washed away like beach trash!",
+      "Team Aqua’s waves can’t be dammed!"
+    ],
+    "on_cooldown": [
+      "Scram. My Pokémon are charting new oceans.",
+      "Come back when you’re worth the salt."
+    ],
+    "is_busy": [
+      "Can’t you see I’m storming continents?! Beat it!",
+      "Interrupting sacred tides? You’re shark bait!"
+    ],
+    "done_looser": [
+      "Enjoy your soggy win. The sea’s still ours!",
+      "Captain Archie’s tide’ll swallow you whole!"
+    ],
+    "done_winner": [
+      "Another loser for the briny depths. Good riddance.",
+      "Your corpse’ll feed the coral reefs."
+    ],
+    "done_generic": [
+      "Enough. My Pokémon need a tidal nap.",
+      "Boring. Go play in a kiddie pool."
+    ]
+  }

@@ -1,0 +1,72 @@
+{
+  "name": "Marlon",
+  "ai": {
+    "type": "rct",
+    "data": { "maxSelectMargin": 0.05 }
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "team": [
+    {
+      "species": "jellicent",
+      "level": 92,
+      "nature": "calm",
+      "ability": "waterabsorb",
+      "moveset": ["scald", "shadowball", "recover", "toxic"],
+      "evs": { "hp": 252, "spd": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "wailord",
+      "level": 92,
+      "nature": "modest",
+      "ability": "waterveil",
+      "moveset": ["hydropump", "icebeam", "rest", "sleeptalk"],
+      "evs": { "spa": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "chesto_berry"
+    },
+    {
+      "species": "carracosta",
+      "level": 92,
+      "nature": "adamant",
+      "ability": "solidrock",
+      "moveset": ["liquidation", "stoneedge", "earthquake", "shellsmash"],
+      "evs": { "atk": 252, "def": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "white_herb"
+    },
+    {
+      "species": "basculegion",
+      "level": 92,
+      "nature": "adamant",
+      "ability": "adaptability",
+      "aspects": ["male"],
+      "moveset": ["wavecrash", "shadowball", "psychicfangs", "aquajet"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "mystic_water"
+    },
+    {
+      "species": "palafin",
+      "level": 92,
+      "nature": "adamant",
+      "ability": "zerotohero",
+      "aspects": ["hero_form"],
+      "moveset": ["jetpunch", "wavecrash", "closecombat", "icepunch"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "choice_scarf"
+    },
+    {
+      "species": "quaquaval",
+      "level": 92,
+      "nature": "jolly",
+      "ability": "moxie",
+      "moveset": ["aquastep", "closecombat", "icepunch", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    }
+  ]
+}

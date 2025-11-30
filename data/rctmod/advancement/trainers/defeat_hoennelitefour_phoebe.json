@@ -1,0 +1,31 @@
+{
+  "parent": "rctmod:trainers/defeat_hoennelitefour_sidney",
+  "display": {
+    "title": {
+      "text": "Hoenn Elite Four Phoebe"
+    },
+    "description": {
+      "text": "Defeat Hoenn Elite Four Phoebe"
+    },
+    "icon": {
+      "id": "cobblemon:ultra_ball"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": ["hoennelitefour_phoebe"]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

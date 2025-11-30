@@ -1,0 +1,146 @@
+{
+    "name": "Elite Four Larry",
+  "identity": "Paldea Elite Four",
+    "ai": {
+      "type": "rct",
+      "data": {
+        "maxSelectMargin": 0.15
+      }
+    },
+    "battleRules": {
+      "maxItemUses": 3
+    },
+    "bag": [
+      {
+        "item": "cobblemon:full_restore",
+        "quantity": 3
+      }
+    ],
+    "team": [
+      {
+        "species": "oinkologne",
+        "level": 100,
+        "moveset": ["bodyslam", "trailblaze", "playrough", "ironhead"],
+        "heldItem": "cobblemon:leftovers",
+        "nature": "adamant",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "atk": 252,
+          "def": 4
+        }
+      },
+      {
+        "species": "tauros",
+        "level": 100,
+        "aspects": ["combat-breed"],
+        "moveset": ["ragingbull", "earthquake", "stoneedge", "zenheadbutt"],
+        "heldItem": "cobblemon:choice_scarf",
+        "nature": "jolly",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        }
+      },
+      {
+        "species": "dudunsparce",
+        "level": 100,
+        "moveset": ["hyperdrill", "earthquake", "glare", "rockslide"],
+        "heldItem": "cobblemon:leftovers",
+        "nature": "adamant",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "atk": 252,
+          "def": 4
+        }
+      },
+      {
+        "species": "altaria",
+        "level": 100,
+        "moveset": ["moonblast", "flamethrower", "icebeam", "dualwingbeat"],
+        "heldItem": "cobblemon:throat_spray",
+        "nature": "modest",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "spa": 252,
+          "spd": 4
+        }
+      },
+      {
+        "species": "flamigo",
+        "level": 100,
+        "moveset": ["bravebird", "closecombat", "throatchop", "liquidation"],
+        "heldItem": "cobblemon:flying_gem",
+        "nature": "jolly",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        }
+      },
+      {
+        "species": "staraptor",
+        "level": 100,
+        "moveset": ["facade", "bravebird", "closecombat", "thief"],
+        "heldItem": "cobblemon:choice_band",
+        "gimmicks": {
+        "tera": "normal"
+      },
+        "nature": "jolly",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        }
+      }
+    ],
+    "battleFormat": "GEN_9_SINGLES"
+  }

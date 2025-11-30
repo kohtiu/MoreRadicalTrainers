@@ -1,0 +1,22 @@
+{
+    "battle_start": [
+      "You dare defy the tide? The sea’s expansion is inevitable!",
+      "Witness Kyogre’s might—a world reborn in waves!"
+    ],
+    "battle_lost": [
+      "Impossible… The sea… rejects me?",
+      "Kyogre’s power… misunderstood…"
+    ],
+    "battle_won": [
+      "Your extinction fuels the oceanic rebirth!",
+      "The sea swallows all weakness. Even yours."
+    ],
+    "done_looser": [
+      "Farewell. The tide… always returns…",
+      "A flawed current… but Team Aqua’s storm rages on."
+    ],
+    "done_winner": [
+      "Another landrat drowned. The sea claims all.",
+      "Your existence… a ripple in our tsunami."
+    ]
+  }

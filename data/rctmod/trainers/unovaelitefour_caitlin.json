@@ -1,0 +1,70 @@
+{
+  "name": "Caitlin",
+  "ai": {
+    "type": "rct",
+    "data": { "maxSelectMargin": 0.05 }
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "team": [
+    {
+      "species": "delphox",
+      "level": 84,
+      "nature": "timid",
+      "ability": "magician",
+      "moveset": ["mysticalfire", "psychic", "shadowball", "nastyplot"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "wise_glasses"
+    },
+    {
+      "species": "musharna",
+      "level": 83,
+      "nature": "calm",
+      "ability": "forewarn",
+      "moveset": ["psychic", "moonlight", "shadowball", "calmmind"],
+      "evs": { "hp": 252, "spd": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "reuniclus",
+      "level": 84,
+      "nature": "bold",
+      "ability": "magicguard",
+      "moveset": ["psychic", "focusblast", "recover", "calmmind"],
+      "evs": { "hp": 252, "def": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "gothitelle",
+      "level": 83,
+      "nature": "modest",
+      "ability": "shadowtag",
+      "moveset": ["psychic", "thunderbolt", "energyball", "calmmind"],
+      "evs": { "spa": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "twisted_spoon"
+    },
+    {
+      "species": "hatterene",
+      "level": 85,
+      "nature": "quiet",
+      "ability": "magicbounce",
+      "moveset": ["psychic", "dazzlinggleam", "mysticalfire", "trickroom"],
+      "evs": { "hp": 252, "spa": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "cresselia",
+      "level": 85,
+      "nature": "bold",
+      "ability": "levitate",
+      "moveset": ["moonblast", "moonlight", "calmmind", "psychic"],
+      "evs": { "hp": 252, "def": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "leftovers"
+    }
+  ]
+}

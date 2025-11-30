@@ -1,0 +1,196 @@
+{
+    "name": "Viola",
+  "identity": "Kalos Leader Viola",
+    "ai": {
+      "type": "rct",
+      "data": {
+        "maxSelectMargin": 0.15
+      }
+    },
+    "battleRules": {
+      "maxItemUses": 3
+    },
+    "bag": [
+      {
+        "item": "cobblemon:full_restore",
+        "quantity": 3
+      }
+    ],
+    "team": [
+      {
+        "species": "vivillon",
+        "level": 90,
+        "ability": "compoundeyes",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {
+          "hp": 31,
+          "atk": 0,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "moveset": [
+          "sleeppowder",
+          "substitute",
+          "quiverdance",
+          "hurricane"
+        ],
+        "heldItem": "leftovers",
+        "nature": "modest"
+      },
+      {
+        "species": "masquerain",
+        "level": 90,
+        "ability": "intimidate",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "moveset": [
+          "stickyweb",
+          "bugbuzz",
+          "hydropump",
+          "quiverdance"
+        ],
+        "heldItem": "focus_sash",
+        "nature": "timid"
+      },
+      {
+        "species": "frosmoth",
+        "level": 90,
+        "ability": "icescales",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 4,
+          "spa": 252,
+          "spd": 0,
+          "spe": 252
+        },
+        "ivs": {
+          "hp": 31,
+          "atk": 0,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "moveset": [
+          "quiverdance",
+          "icebeam",
+          "substitute",
+          "gigadrain"
+        ],
+        "heldItem": "heavy_duty_boots",
+        "nature": "timid"
+      },
+      {
+        "species": "ribombee",
+        "level": 90,
+        "ability": "shielddust",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {
+          "hp": 31,
+          "atk": 0,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "moveset": [
+          "stickyweb",
+          "moonblast",
+          "stunspore",
+          "psychicnoise"
+        ],
+        "heldItem": "focus_sash",
+        "nature": "timid"
+      },
+      {
+        "species": "volcarona",
+        "level": 90,
+        "ability": "flamebody",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 4,
+          "spa": 252,
+          "spd": 0,
+          "spe": 252
+        },
+        "ivs": {
+          "hp": 31,
+          "atk": 0,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "moveset": [
+          "quiverdance",
+          "flamethrower",
+          "psychic",
+          "morningsun"
+        ],
+        "heldItem": "heavy_duty_boots",
+        "nature": "timid"
+      },
+      {
+        "species": "pheromosa",
+        "level": 90,
+        "ability": "beastboost",
+        "evs": {
+          "hp": 0,
+          "atk": 252,
+          "def": 0,
+          "spa": 0,
+          "spd": 4,
+          "spe": 252
+        },
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "moveset": [
+          "closecombat",
+          "tripleaxel",
+          "uturn",
+          "rapidspin"
+        ],
+        "heldItem": "choice_band",
+        "nature": "jolly"
+      }
+    ],
+    "battleFormat": "GEN_9_SINGLES"
+  }

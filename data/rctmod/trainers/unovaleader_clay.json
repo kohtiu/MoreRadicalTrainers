@@ -1,0 +1,194 @@
+{
+  "name": "Clay",
+  "identity": "Unova Leader Clay",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+"team": [
+    {
+      "species": "excadrill",
+"level": 54,
+      "ability": "sandrush",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "earthquake",
+        "ironhead",
+        "protect",
+        "poisonjab"
+      ],
+      "heldItem": "air_balloon",
+      "nature": "jolly"
+    },
+    {
+      "species": "ursaluna",
+"level": 56,
+      "ability": "guts",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "facade",
+        "earthquake",
+        "swordsdance",
+        "drainpunch"
+      ],
+      "heldItem": "flame_orb",
+      "nature": "adamant"
+    },
+    {
+      "species": "seismitoad",
+"level": 52,
+      "ability": "waterabsorb",
+      "evs": {
+        "hp": 112,
+        "atk": 168,
+        "def": 124,
+        "spa": 0,
+        "spd": 0,
+        "spe": 104
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "protect",
+        "powerwhip",
+        "earthquake",
+        "knockoff"
+      ],
+      "heldItem": "leftovers",
+      "nature": "adamant"
+    },
+    {
+      "species": "krookodile",
+"level": 52,
+      "ability": "intimidate",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "earthquake",
+        "knockoff",
+        "closecombat",
+        "protect"
+      ],
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "mudsdale",
+"level": 54,
+      "ability": "stamina",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "stealthrock",
+        "earthquake",
+        "bodypress",
+        "protect"
+      ],
+      "heldItem": "leftovers",
+      "nature": "impish"
+    },
+    {
+      "species": "hippowdon",
+"level": 54,
+      "ability": "sandstream",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "earthquake",
+        "slackoff",
+        "stealthrock",
+        "whirlwind"
+      ],
+      "heldItem": "eject_button",
+      "nature": "impish"
+    }
+  ]
+}

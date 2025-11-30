@@ -1,0 +1,31 @@
+{
+    "parent": "rctmod:trainers/defeat_unovaelitefour_grimsley",
+    "display": {
+      "title": {
+        "text": "Unova Elite Four Caitlin"
+      },
+      "description": {
+        "text": "Defeat Unova Elite Four Caitlin"
+      },
+      "icon": {
+        "id": "cobblemon:ultra_ball"
+      },
+      "announce_to_chat": true,
+      "show_toast": true,
+      "hidden": false,
+      "frame": "goal"
+    },
+    "criteria": {
+      "first_defeat": {
+        "conditions": {
+          "trainer_ids": ["unovaelitefour_caitlin"]
+        },
+        "trigger": "rctmod:defeat_count"
+      }
+    },
+    "requirements": [
+      [
+        "first_defeat"
+      ]
+    ]
+  }

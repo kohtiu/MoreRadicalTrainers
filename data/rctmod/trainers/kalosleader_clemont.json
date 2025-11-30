@@ -1,0 +1,196 @@
+{
+    "name": "Clemont",
+  "identity": "Kalos Leader Clemont",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "ampharos",
+      "level": 97,
+      "heldItem": "mega_showdown:ampharosite",
+      "ability": "moldbreaker",
+      "evs": {
+        "hp": 248,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 8,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "dragonpulse",
+        "voltswitch",
+        "focusblast",
+        "thunderbolt"
+      ],
+      "nature": "modest"
+    },
+    {
+      "species": "magnezone",
+      "level": 95,
+      "ability": "analytic",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 252,
+        "spd": 0,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 0
+      },
+      "moveset": [
+        "risingvoltage",
+        "electricterrain",
+        "flashcannon",
+        "reflect"
+      ],
+      "heldItem": "air_balloon",
+      "nature": "quiet"
+    },
+    {
+      "species": "heliolisk",
+      "level": 96,
+      "ability": "dryskin",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "risingvoltage",
+        "hypervoice",
+        "voltswitch",
+        "darkpulse"
+      ],
+      "heldItem": "choice_specs",
+      "nature": "timid"
+    },
+    {
+      "species": "boltund",
+      "level": 96,
+      "ability": "strongjaw",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 4,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "risingvoltage",
+        "thunderfang",
+        "psychicfangs",
+        "crunch"
+      ],
+      "heldItem": "assault_vest",
+      "nature": "hasty"
+    },
+    {
+      "species": "pincurchin",
+      "level": 96,
+      "ability": "electricsurge",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "risingvoltage",
+        "scald",
+        "spikes",
+        "recover"
+      ],
+      "heldItem": "terrain_extender",
+      "nature": "bold"
+    },
+    {
+      "species": "dedenne",
+      "level": 96,
+      "ability": "cheekpouch",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "substitute",
+        "recycle",
+        "risingvoltage",
+        "grassknot"
+      ],
+      "heldItem": "petaya_berry",
+      "nature": "timid"
+    }
+  ],
+  "battleFormat": "GEN_9_SINGLES"
+}

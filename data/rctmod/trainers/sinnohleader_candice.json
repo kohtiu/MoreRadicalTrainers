@@ -1,0 +1,196 @@
+{
+  "name": "Leader Candice",
+  "identity": "Leader Candice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleFormat": "GEN_9_DOUBLES",
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "abomasnow",
+"level": 62,
+      "ability": "snowwarning",
+      "evs": {
+        "hp": 248,
+        "atk": 0,
+        "def": 0,
+        "spa": 8,
+        "spd": 252,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "auroraveil",
+        "blizzard",
+        "earthpower",
+        "gigadrain"
+      ],
+      "heldItem": "icy_rock",
+      "nature": "modest"
+    },
+    {
+      "species": "cloyster",
+"level": 66,
+      "ability": "skilllink",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "iciclespear",
+        "rockblast",
+        "iceshard",
+        "shellsmash"
+      ],
+      "heldItem": "white_herb",
+      "nature": "adamant"
+    },
+    {
+      "species": "froslass",
+"level": 63,
+      "ability": "cursedbody",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "tripleaxel",
+        "poltergeist",
+        "taunt",
+        "spikes"
+      ],
+      "heldItem": "heavy_duty_boots",
+      "nature": "jolly"
+    },
+    {
+      "species": "mamoswine",
+"level": 63,
+      "ability": "thickfat",
+      "evs": {
+        "hp": 208,
+        "atk": 220,
+        "def": 64,
+        "spa": 0,
+        "spd": 0,
+        "spe": 16
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "earthquake",
+        "iceshard",
+        "smackdown",
+        "stealthrock"
+      ],
+      "heldItem": "leftovers",
+      "nature": "adamant"
+    },
+    {
+      "species": "glaceon",
+"level": 63,
+      "ability": "icebody",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "icebeam",
+        "freezedry",
+        "shadowball",
+        "waterpulse"
+      ],
+      "heldItem": "choice_specs",
+      "nature": "modest"
+    },
+    {
+      "species": "weavile",
+"level": 66,
+      "ability": "pressure",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "tripleaxel",
+        "knockoff",
+        "lowkick",
+        "iceshard"
+      ],
+      "heldItem": "heavy_duty_boots",
+      "nature": "jolly"
+    }
+  ]
+}

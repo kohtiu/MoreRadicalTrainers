@@ -1,0 +1,187 @@
+{
+  "name": "Hoenn Champion Steven",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "moveBias": 0.95,
+      "statMoveBias": 0.3,
+      "switchBias": 0.8,
+      "itemBias": 0.9,
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "skarmory",
+      "gender": "MALE",
+      "level": 100,
+      "nature": "impish",
+      "ability": "sturdy",
+      "moveset": [
+        "bravebird",
+        "roost",
+        "spikes",
+        "whirlwind"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "def": 252,
+        "spd": 4
+      },
+      "heldItem": "cobblemon:rocky_helmet"
+    },
+    {
+      "species": "aggron",
+      "gender": "MALE",
+      "level": 100,
+      "nature": "adamant",
+      "ability": "rockhead",
+      "moveset": [
+        "headsmash",
+        "heavyslam",
+        "earthquake",
+        "thunderwave"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 4
+      },
+      "heldItem": "cobblemon:focus_sash"
+    },
+    {
+      "species": "cradily",
+      "gender": "MALE",
+      "level": 100,
+      "nature": "calm",
+      "ability": "stormdrain",
+      "moveset": [
+        "gigadrain",
+        "recover",
+        "toxic",
+        "stoneedge"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spd": 252,
+        "def": 4
+      },
+      "heldItem": "cobblemon:leftovers"
+    },
+    {
+      "species": "claydol",
+      "gender": "GENDERLESS",
+      "level": 100,
+      "nature": "bold",
+      "ability": "levitate",
+      "moveset": [
+        "earthpower",
+        "psychic",
+        "icebeam",
+        "rapidspin"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "def": 252,
+        "spa": 4
+      },
+      "heldItem": "cobblemon:light_clay"
+    },
+    {
+      "species": "copperajah",
+      "gender": "MALE",
+      "level": 100,
+      "nature": "brave",
+      "ability": "heavymetal",
+      "moveset": [
+        "heavyslam",
+        "earthquake",
+        "stoneedge",
+        "heatcrash"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 4
+      },
+      "heldItem": "cobblemon:assault_vest"
+    },
+    {
+      "species": "metagross",
+      "gender": "GENDERLESS",
+      "level": 100,
+      "nature": "adamant",
+      "ability": "toughclaws",
+      "heldItem": "mega_showdown:metagrossite",
+      "moveset": [
+        "meteormash",
+        "zenheadbutt",
+        "earthquake",
+        "icepunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "spe": 4
+      }
+    }
+  ]
+}

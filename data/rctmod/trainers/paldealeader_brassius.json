@@ -1,0 +1,110 @@
+{
+    "name": "Gym Leader Brassius",
+  "identity": "Paldea Gym Leader",
+    "ai": {
+      "type": "rct",
+      "data": {
+        "maxSelectMargin": 0.15
+      }
+    },
+    "battleRules": {
+      "maxItemUses": 3
+    },
+    "bag": [
+      {
+        "item": "cobblemon:full_restore",
+        "quantity": 3
+      }
+    ],
+  "team": [
+    {
+      "species": "breloom",
+      "level": 95,
+      "moveset": [
+        "machpunch",
+        "spore",
+        "seedbomb",
+        "rocktomb"
+      ],
+      "heldItem": "cobblemon:heavy_duty_boots",
+      "nature": "adamant"
+    },
+    {
+      "species": "arboliva",
+      "level": 93,
+      "moveset": [
+        "terrainpulse",
+        "gigadrain",
+        "dazzlinggleam",
+        "strengthsap"
+      ],
+      "heldItem": "cobblemon:heavy_duty_boots",
+      "nature": "adamant"
+    },
+    {
+      "species": "vileplume",
+      "level": 95,
+      "moveset": [
+        "petaldance",
+        "moonblast",
+        "sludgebomb",
+        "stunspore"
+      ],
+      "heldItem": "cobblemon:choice_scarf",
+      "nature": "jolly"
+    },
+    {
+      "species": "tsareena",
+      "level": 97,
+      "moveset": [
+        "tropkick",
+        "stomp",
+        "trailblaze",
+        "tripleaxel"
+      ],
+      "heldItem": "cobblemon:life_orb",
+      "nature": "adamant"
+    },
+    {
+      "species": "lilligant",
+      "level": 94,
+      "moveset": [
+        "petaldance",
+        "quiverdance",
+        "pollenpuff",
+        "energyball"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 220,
+        "spa": 252,
+        "spd": 36
+      },
+      "heldItem": "cobblemon:choice_scarf",
+      "nature": "jolly"
+    },
+    {
+      "species": "sudowoodo",
+      "level": 100,
+      "moveset": [
+        "trailblaze",
+        "headsmash",
+        "woodhammer",
+        "lowkick"
+      ],
+      "heldItem": "cobblemon:choice_scarf",
+      "gimmicks": {
+        "tera": "grass"
+      },
+      "nature": "serious"
+    }
+  ],
+    "battleFormat": "GEN_9_SINGLES"
+  }

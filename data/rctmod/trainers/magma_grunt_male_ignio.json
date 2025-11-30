@@ -1,0 +1,142 @@
+{
+  "name": "Magma Grunt Ignio",
+  "identity": "Team Magma Grunt",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:hyper_potion",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "mightyena",
+      "gender": "MALE",
+      "level": 65,
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "crunch",
+        "firefang",
+        "suckerpunch",
+        "toxic"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "palossand",
+      "gender": "MALE",
+      "level": 68,
+      "nature": "modest",
+      "ability": "watercompaction",
+      "moveset": [
+        "scorchingsands",
+        "gigadrain",
+        "hex",
+        "toxic"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 248,
+        "spd": 8,
+        "spe": 0
+      },
+      "heldItem": "assault_vest"
+    },
+    {
+      "species": "darmanitan",
+      "gender": "MALE",
+      "level": 69,
+      "nature": "jolly",
+      "ability": "sheerforce",
+      "moveset": [
+        "flareblitz",
+        "uturn",
+        "rockslide",
+        "earthquake"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": "choice_scarf"
+    },
+    {
+      "species": "aggron",
+      "gender": "MALE",
+      "level": 67,
+      "nature": "careful",
+      "ability": "sturdy",
+      "moveset": [
+        "stealthrock",
+        "heavyslam",
+        "bodypress",
+        "toxic"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "heldItem": "leftovers"
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

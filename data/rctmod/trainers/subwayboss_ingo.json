@@ -1,0 +1,70 @@
+{
+  "name": "Ingo",
+  "ai": {
+    "type": "rct",
+    "data": { "maxSelectMargin": 0.05 }
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "team": [
+    {
+      "species": "steelix",
+      "level": 90,
+      "nature": "impish",
+      "ability": "sturdy",
+      "moveset": ["earthquake", "ironhead", "stealthrock", "curse"],
+      "evs": { "hp": 252, "def": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "excadrill",
+      "level": 90,
+      "nature": "jolly",
+      "ability": "moldbreaker",
+      "moveset": ["earthquake", "ironhead", "rockslide", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "aggron",
+      "level": 90,
+      "nature": "adamant",
+      "ability": "sturdy",
+      "moveset": ["heavyslam", "earthquake", "headsmash", "autotomize"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "air_balloon"
+    },
+    {
+      "species": "bronzong",
+      "level": 90,
+      "nature": "relaxed",
+      "ability": "levitate",
+      "moveset": ["gyroball", "earthquake", "trickroom", "stealthrock"],
+      "evs": { "hp": 252, "def": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "light_clay"
+    },
+    {
+      "species": "klinklang",
+      "level": 90,
+      "nature": "adamant",
+      "ability": "clearbody",
+      "moveset": ["geargrind", "wildcharge", "shiftgear", "voltswitch"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "metal_coat"
+    },
+    {
+      "species": "lucario",
+      "level": 90,
+      "nature": "timid",
+      "ability": "justified",
+      "moveset": ["aurasphere", "flashcannon", "nastyplot", "vacuumwave"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "focus_sash"
+    }
+  ]
+}

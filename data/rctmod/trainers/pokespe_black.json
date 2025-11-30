@@ -1,0 +1,70 @@
+{
+  "name": "Black",
+  "ai": {
+    "type": "rct",
+    "data": { "maxSelectMargin": 0.05 }
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "team": [
+    {
+      "species": "emboar",
+      "level": 90,
+      "nature": "adamant",
+      "ability": "reckless",
+      "moveset": ["flareblitz", "wildcharge", "headsmash", "superpower"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "charcoal_stick"
+    },
+    {
+      "species": "reshiram",
+      "level": 90,
+      "nature": "modest",
+      "ability": "turboblaze",
+      "moveset": ["blueflare", "dracometeor", "earthpower", "fusionflare"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "braviary",
+      "level": 85,
+      "nature": "jolly",
+      "ability": "defiant",
+      "moveset": ["bravebird", "closecombat", "uturn", "bulkup"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "sharp_beak"
+    },
+    {
+      "species": "musharna",
+      "level": 85,
+      "nature": "calm",
+      "ability": "forewarn",
+      "moveset": ["psychic", "moonlight", "shadowball", "calmmind"],
+      "evs": { "hp": 252, "spd": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "galvantula",
+      "level": 80,
+      "nature": "timid",
+      "ability": "compoundeyes",
+      "moveset": ["thunder", "bugbuzz", "stickyweb", "energyball"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "carracosta",
+      "level": 80,
+      "nature": "adamant",
+      "ability": "solidrock",
+      "moveset": ["aquajet", "stoneedge", "earthquake", "shellsmash"],
+      "evs": { "atk": 252, "def": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "white_herb"
+    }
+  ]
+}

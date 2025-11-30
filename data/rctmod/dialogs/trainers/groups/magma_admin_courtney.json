@@ -1,0 +1,22 @@
+{
+    "battle_start": [
+      "Ahahahaha! You’re either fearless or foolish! Let’s analyze your pain! ♪",
+      "Meddling again? Resign yourself to incineration! ♪"
+    ],
+    "battle_lost": [
+      "Ahahahaha! Ouchie! How… unexpected!",
+      "Slurp. ♪ Your strength… intriguing…"
+    ],
+    "battle_won": [
+      "Ahahahaha! Disgustingly weak! ♪",
+      "Your Pokémon weep for such a pitiful trainer!"
+    ],
+    "done_looser": [
+      "Ahaha… Unanticipated variables… But Magma’s vision burns eternal!",
+      "Your persistence… amuses. But the land will still rise!"
+    ],
+    "done_winner": [
+      "Ahaha… Target locked. Commencing… deletion. ♪",
+      "Another experiment concluded. How… delightful."
+    ]
+  }

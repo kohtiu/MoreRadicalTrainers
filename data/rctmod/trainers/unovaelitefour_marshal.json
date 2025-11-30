@@ -1,0 +1,70 @@
+{
+  "name": "Marshal",
+  "ai": {
+    "type": "rct",
+    "data": { "maxSelectMargin": 0.05 }
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "team": [
+    {
+      "species": "chesnaught",
+      "level": 85,
+      "nature": "impish",
+      "ability": "bulletproof",
+      "moveset": ["woodhammer", "hammerarm", "spikyshield", "leechseed"],
+      "evs": { "hp": 252, "def": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "sawk",
+      "level": 83,
+      "nature": "jolly",
+      "ability": "sturdy",
+      "moveset": ["closecombat", "knockoff", "poisonjab", "earthquake"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "choice_scarf"
+    },
+    {
+      "species": "throh",
+      "level": 83,
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": ["stormthrow", "bulkup", "rest", "sleeptalk"],
+      "evs": { "hp": 252, "atk": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "flame_orb"
+    },
+    {
+      "species": "mienshao",
+      "level": 84,
+      "nature": "jolly",
+      "ability": "regenerator",
+      "moveset": ["highjumpkick", "uturn", "poisonjab", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "conkeldurr",
+      "level": 85,
+      "nature": "brave",
+      "ability": "guts",
+      "moveset": ["drainpunch", "icepunch", "thunderpunch", "machpunch"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "assault_vest"
+    },
+    {
+      "species": "urshifu",
+      "level": 85,
+      "nature": "adamant",
+      "ability": "unseenfist",
+      "moveset": ["wickedblow", "surgingstrikes", "uturn", "suckerpunch"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "choice_band"
+    }
+  ]
+}

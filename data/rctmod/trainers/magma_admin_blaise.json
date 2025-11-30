@@ -1,0 +1,202 @@
+{
+  "name": "Magma Admin Blaise",
+  "identity": "Team Magma Admin",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:hyper_potion",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "ninetales",
+      "gender": "FEMALE",
+      "level": 74,
+      "nature": "timid",
+      "ability": "drought",
+      "moveset": [
+        "weatherball",
+        "encore",
+        "healingwish",
+        "willowisp"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "heldItem": "heat_rock"
+    },
+    {
+      "species": "magcargo",
+      "gender": "MALE",
+      "level": 76,
+      "nature": "bold",
+      "ability": "flamebody",
+      "moveset": [
+        "stealthrock",
+        "lavaplume",
+        "toxic",
+        "recover"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 248,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 8,
+        "spe": 0
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "armaldo",
+      "gender": "MALE",
+      "level": 74,
+      "nature": "jolly",
+      "ability": "battlearmor",
+      "moveset": [
+        "swordsdance",
+        "xscissor",
+        "stoneedge",
+        "earthquake"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "swellow",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "timid",
+      "ability": "scrappy",
+      "moveset": [
+        "boomburst",
+        "uturn",
+        "heatwave",
+        "airslash"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "heldItem": "choice_specs"
+    },
+    {
+      "species": "talonflame",
+      "gender": "FEMALE",
+      "level": 76,
+      "nature": "jolly",
+      "ability": "flamebody",
+      "moveset": [
+        "bravebird",
+        "willowisp",
+        "uturn",
+        "roost"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 248,
+        "atk": 8,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "heldItem": "heavy_duty_boots"
+    },
+    {
+      "species": "camerupt",
+      "gender": "MALE",
+      "heldItem": "mega_showdown:cameruptite",
+      "level": 78,
+      "nature": "calm",
+      "ability": "sheerforce",
+      "moveset": [
+        "fireblast",
+        "earthpower",
+        "stealthrock",
+        "toxic"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 4,
+        "spd": 252,
+        "spe": 0
+      }
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

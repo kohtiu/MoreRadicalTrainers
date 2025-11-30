@@ -1,0 +1,72 @@
+{
+  "name": "Cheren",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1
+    }
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "team": [
+    {
+      "species": "serperior",
+      "level": 66,
+      "nature": "timid",
+      "ability": "overgrow",
+      "moveset": ["leafstorm", "dracometeor", "gigadrain", "glare"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "miracle_seed"
+    },
+    {
+      "species": "unfezant",
+      "level": 66,
+      "nature": "jolly",
+      "ability": "superluck",
+      "moveset": ["bravebird", "return", "uturn", "tailwind"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "sharp_beak"
+    },
+    {
+      "species": "stoutland",
+      "level": 66,
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": ["retaliate", "crunch", "wildcharge", "workup"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "muscle_band"
+    },
+    {
+      "species": "gigalith",
+      "level": 66,
+      "nature": "brave",
+      "ability": "sandstream",
+      "moveset": ["stoneedge", "earthquake", "stealthrock", "explosion"],
+      "evs": { "atk": 252, "def": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "hard_stone"
+    },
+    {
+      "species": "conkeldurr",
+      "level": 66,
+      "nature": "brave",
+      "ability": "guts",
+      "moveset": ["drainpunch", "icepunch", "thunderpunch", "bulkup"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "flame_orb"
+    },
+    {
+      "species": "jellicent",
+      "level": 66,
+      "nature": "calm",
+      "ability": "waterabsorb",
+      "moveset": ["scald", "shadowball", "recover", "willowisp"],
+      "evs": { "hp": 252, "spd": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "leftovers"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Emmet",
+  "ai": {
+    "type": "rct",
+    "data": { "maxSelectMargin": 0.05 }
+  },
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "eelektross",
+      "level": 96,
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": ["thunderbolt", "flamethrower", "gigadrain", "voltswitch"],
+      "evs": { "spa": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "assault_vest"
+    },
+    {
+      "species": "galvantula",
+      "level": 96,
+      "nature": "timid",
+      "ability": "compoundeyes",
+      "moveset": ["thunder", "bugbuzz", "stickyweb", "energyball"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "magnezone",
+      "level": 96,
+      "nature": "modest",
+      "ability": "magnetpull",
+      "moveset": ["thunderbolt", "flashcannon", "voltswitch", "triattack"],
+      "evs": { "spa": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "choice_specs"
+    },
+    {
+      "species": "electivire",
+      "level": 96,
+      "nature": "jolly",
+      "ability": "motordrive",
+      "moveset": ["wildcharge", "icepunch", "earthquake", "crosschop"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "expert_belt"
+    },
+    {
+      "species": "vikavolt",
+      "level": 96,
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": ["thunderbolt", "bugbuzz", "energyball", "voltswitch"],
+      "evs": { "spa": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "choice_scarf"
+    },
+    {
+      "species": "zapdos",
+      "level": 96,
+      "nature": "timid",
+      "ability": "pressure",
+      "moveset": ["thunderbolt", "hurricane", "roost", "uturn"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "heavy_duty_boots"
+    }
+  ]
+}

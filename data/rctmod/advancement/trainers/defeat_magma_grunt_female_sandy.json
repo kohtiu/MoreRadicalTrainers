@@ -1,0 +1,31 @@
+{
+  "parent": "rctmod:trainers/defeat_magma_grunt_male_ignio",
+  "display": {
+    "title": {
+      "text": "Defeat Magma Grunt Sandy"
+    },
+    "description": {
+      "text": "Defeat Magma Grunt Sandy"
+    },
+    "icon": {
+      "id": "cobblemon:fast_ball"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": ["magma_grunt_female_sandy"]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

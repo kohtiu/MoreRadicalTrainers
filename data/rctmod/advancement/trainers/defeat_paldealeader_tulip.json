@@ -1,0 +1,31 @@
+{
+  "parent": "rctmod:trainers/defeat_paldealeader_ryme",
+  "display": {
+    "title": {
+      "text": "Psychic Badge"
+    },
+    "description": {
+      "text": "Defeat Leader Tulip"
+    },
+    "icon": {
+      "id": "cobblemon:poke_ball"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": ["paldealeader_tulip"]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

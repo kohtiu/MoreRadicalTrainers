@@ -1,0 +1,70 @@
+{
+  "name": "Giallo",
+  "ai": {
+    "type": "rct",
+    "data": { "maxSelectMargin": 0.05 }
+  },
+  "battleFormat": "GEN_9_TRIPLES",
+  "team": [
+    {
+      "species": "tornadus",
+      "level": 80,
+      "nature": "timid",
+      "ability": "prankster",
+      "moveset": ["hurricane", "uturn", "taunt", "tailwind"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "damp_rock"
+    },
+    {
+      "species": "thundurus",
+      "level": 80,
+      "nature": "timid",
+      "ability": "prankster",
+      "moveset": ["thunderbolt", "grassknot", "nastyplot", "taunt"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "magnet"
+    },
+    {
+      "species": "landorus",
+      "level": 80,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": ["earthquake", "stoneedge", "uturn", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "sandyshocks",
+      "level": 80,
+      "nature": "modest",
+      "ability": "protosynthesis",
+      "moveset": ["thunderbolt", "earthpower", "flashcannon", "protect"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "heatmor",
+      "level": 80,
+      "nature": "modest",
+      "ability": "flashfire",
+      "moveset": ["flamethrower", "focusblast", "gigadrain", "nastyplot"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "charcoal_stick"
+    },
+    {
+      "species": "stunfisk",
+      "level": 80,
+      "nature": "bold",
+      "ability": "static",
+      "moveset": ["earthpower", "discharge", "scald", "stealthrock"],
+      "evs": { "hp": 252, "def": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "rocky_helmet"
+    }
+  ]
+}

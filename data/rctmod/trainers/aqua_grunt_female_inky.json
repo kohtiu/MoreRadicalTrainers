@@ -1,0 +1,142 @@
+{
+  "name": "Aqua Grunt Inky",
+  "identity": "Team Aqua Grunt",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:hyper_potion",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "ludicolo",
+      "gender": "FEMALE",
+      "level": 72,
+      "nature": "calm",
+      "ability": "raindish",
+      "moveset": [
+        "scald",
+        "gigadrain",
+        "synthesis",
+        "leechseed"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 248,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 204,
+        "spe": 56
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "wailord",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "calm",
+      "ability": "pressure",
+      "moveset": [
+        "substitute",
+        "aquaring",
+        "protect",
+        "block"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 252,
+        "spa": 4,
+        "spd": 252,
+        "spe": 0
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "seaking",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "adamant",
+      "ability": "lightningrod",
+      "moveset": [
+        "waterfall",
+        "knockoff",
+        "drillrun",
+        "megahorn"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 64,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 192
+      },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "malamar",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "careful",
+      "ability": "contrary",
+      "moveset": [
+        "superpower",
+        "knockoff",
+        "rest",
+        "sleeptalk"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 252,
+        "spe": 4
+      },
+      "heldItem": "leftovers"
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

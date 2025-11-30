@@ -1,0 +1,70 @@
+{
+  "name": "Shauntal",
+  "ai": {
+    "type": "rct",
+    "data": { "maxSelectMargin": 0.05 }
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "team": [
+    {
+      "species": "runerigus",
+      "level": 85,
+      "nature": "bold",
+      "ability": "wanderingspirit",
+      "moveset": ["shadowball", "earthquake", "willowisp", "stealthrock"],
+      "evs": { "hp": 252, "def": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "cofagrigus",
+      "level": 84,
+      "nature": "calm",
+      "ability": "mummy",
+      "moveset": ["shadowball", "toxic", "painsplit", "hex"],
+      "evs": { "hp": 252, "spd": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "black_sludge"
+    },
+    {
+      "species": "golurk",
+      "level": 83,
+      "nature": "adamant",
+      "ability": "ironfist",
+      "moveset": ["poltergeist", "earthquake", "icepunch", "dynamicpunch"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "choice_band"
+    },
+    {
+      "species": "chandelure",
+      "level": 85,
+      "nature": "timid",
+      "ability": "flashfire",
+      "moveset": ["shadowball", "flamethrower", "energyball", "trick"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "choice_scarf"
+    },
+    {
+      "species": "gholdengo",
+      "level": 85,
+      "nature": "modest",
+      "ability": "goodasgold",
+      "moveset": ["makeitrain", "shadowball", "recover", "nastyplot"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "air_balloon"
+    },
+    {
+      "species": "marshadow",
+      "level": 85,
+      "nature": "jolly",
+      "ability": "technician",
+      "moveset": ["spectralthief", "closecombat", "shadowpunch", "bulkup"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    }
+  ]
+}

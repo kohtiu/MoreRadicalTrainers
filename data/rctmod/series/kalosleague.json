@@ -1,0 +1,11 @@
+{
+    "description": "Time to face the Elite Four and Champion from the Kalos Region! Are you ready?",
+    "difficulty": 6,
+    "requiredSeries":[
+    [
+      "kalosgymchallenge"
+    ]
+  ],
+    "title": "Kalos League Challenge"
+  }
+  

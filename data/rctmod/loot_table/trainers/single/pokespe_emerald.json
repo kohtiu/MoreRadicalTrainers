@@ -1,0 +1,140 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 2,
+        "max": 4
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_aerialace"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_avalanche"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_acrobatics"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_bulldoze"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_brine"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_bulkup"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_calmmind"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_chargebeam"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_dazzlinggleam"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_dragontail"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_drainpunch"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_energyball"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_facade"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_flashcannon"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_frostbreath"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_grassknot"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_icebeam"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_infestation"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_overheat"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_poweruppunch"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_psychic"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_retaliate"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_risingvoltage"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_rockclimb"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_rocktomb"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_shadowclaw"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_shockwave"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_stealthrock"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_strugglebug"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_voltswitch"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_waterpulse"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "simpletms:tm_workup"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemonpokemonbadges:quake_badge",
+          "conditions": [
+            {
+              "condition": "rctmod:defeat_count",
+                "count": 1
+                  }
+              ]
+            } 
+          ]
+        },
+        {
+          "rolls": 1,
+          "entries": [
+                {
+                  "type": "minecraft:item",
+                  "name": "minecraft:netherite_upgrade_smithing_template",
+                  "conditions": [
+                    {
+                      "condition": "rctmod:defeat_count",
+                        "count": 1
+                          }
+                      ]
+                    }
+              ]
+            },
+            {
+              "rolls": 1,
+              "entries": [
+                    {
+                      "type": "minecraft:item",
+                      "name": "minecraft:sentry_armor_trim_smithing_template",
+                      "conditions": [
+                        {
+                          "condition": "rctmod:defeat_count",
+                            "count": 1
+                              }
+                          ]
+                        }
+                  ]
+                },
+                {
+                  "rolls": 1,
+                  "entries": [
+                        {
+                          "type": "minecraft:item",
+                          "name": "minecraft:vex_armor_trim_smithing_template",
+                          "conditions": [
+                            {
+                              "condition": "rctmod:defeat_count",
+                                "count": 1
+                                  }
+                              ]
+                            }
+                      ]
+                    },
+                    {
+                      "rolls": 1,
+                      "entries": [
+                            {
+                              "type": "minecraft:item",
+                              "name": "minecraft:dune_armor_trim_smithing_template",
+                              "conditions": [
+                                {
+                                  "condition": "rctmod:defeat_count",
+                                    "count": 1
+                                      }
+                                  ]
+                                }
+                          ]
+                        },
+            {
+              "rolls": 1,
+              "entries": [
+                        {
+                          "type": "minecraft:item",
+                          "name": "simpletms:tm_bulldoze",
+                          "conditions": [
+                            {
+                              "condition": "rctmod:defeat_count",
+                                "count": 1
+                                  }
+                              ]
+                            }
+                  ]
+                }
+      ]
+    }

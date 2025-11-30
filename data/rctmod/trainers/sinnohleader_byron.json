@@ -1,0 +1,194 @@
+{
+  "name": "Leader Byron",
+  "identity": "Leader Byron",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+"battleFormat": "GEN_9_DOUBLES",
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+   "team": [
+    {
+      "species": "bastiodon",
+"level": 58,
+      "ability": "sturdy",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "stealthrock",
+        "rockslide",
+        "metalburst",
+        "toxic"
+      ],
+      "heldItem": "leftovers",
+      "nature": "careful"
+    },
+    {
+      "species": "magnezone",
+"level": 58,
+      "ability": "magnetpull",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 30,
+        "spd": 31,
+        "spe": 30
+      },
+      "moveset": [
+        "thunderbolt",
+        "flashcannon",
+        "voltswitch",
+        "triattack"
+      ],
+      "heldItem": "choice_specs"
+    },
+    {
+      "species": "bronzong",
+"level": 56,
+      "ability": "levitate",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 0
+      },
+      "moveset": [
+        "gyroball",
+        "psychic",
+        "stealthrock",
+        "protect"
+      ],
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "steelix",
+"level": 58,
+      "ability": "sturdy",
+      "evs": {
+        "hp": 252,
+        "atk": 4,
+        "def": 0,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "stealthrock",
+        "earthquake",
+        "heavyslam",
+        "toxic"
+      ],
+      "heldItem": "leftovers",
+      "nature": "careful"
+    },
+    {
+      "species": "melmetal",
+"level": 58,
+      "ability": "ironfist",
+      "evs": {
+        "hp": 220,
+        "atk": 96,
+        "def": 0,
+        "spa": 0,
+        "spd": 176,
+        "spe": 16
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "doubleironbash",
+        "earthquake",
+        "toxic",
+        "protect"
+      ],
+      "heldItem": "leftovers",
+      "nature": "adamant"
+    },
+    {
+      "species": "kingambit",
+"level": 60,
+      "ability": "supremeoverlord",
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "swordsdance",
+        "knockoff",
+        "suckerpunch",
+        "lowkick"
+      ],
+      "heldItem": "black_glasses",
+      "nature": "adamant"
+    }
+  ]
+}

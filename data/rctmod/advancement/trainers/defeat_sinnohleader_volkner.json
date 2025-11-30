@@ -1,0 +1,31 @@
+{
+  "parent": "rctmod:trainers/defeat_sinnohleader_candice",
+  "display": {
+    "title": {
+      "text": "Beacon Badge"
+    },
+    "description": {
+      "text": "Defeat Leader Volkner"
+    },
+    "icon": {
+      "id": "cobblemonpokemonbadges:beacon_badge"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": ["sinnohleader_volkner"]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

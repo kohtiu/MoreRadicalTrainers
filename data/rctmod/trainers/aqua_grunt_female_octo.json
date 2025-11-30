@@ -1,0 +1,142 @@
+{
+  "name": "Aqua Grunt Octo",
+  "identity": "Team Aqua Grunt",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:hyper_potion",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "jellicent",
+      "gender": "FEMALE",
+      "level": 68,
+      "nature": "calm",
+      "ability": "waterabsorb",
+      "moveset": [
+        "toxic",
+        "hex",
+        "painsplit",
+        "sludgewave"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 248,
+        "atk": 0,
+        "def": 0,
+        "spa": 8,
+        "spd": 248,
+        "spe": 4
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "milotic",
+      "gender": "FEMALE",
+      "level": 68,
+      "nature": "bold",
+      "ability": "marvelscale",
+      "moveset": [
+        "scald",
+        "recover",
+        "flipturn",
+        "icebeam"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 0,
+        "spe": 4
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "grapploct",
+      "gender": "MALE",
+      "level": 69,
+      "nature": "adamant",
+      "ability": "limber",
+      "moveset": [
+        "octolock",
+        "drainpunch",
+        "icepunch",
+        "substitute"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "octillery",
+      "gender": "MALE",
+      "level": 69,
+      "nature": "modest",
+      "ability": "sniper",
+      "moveset": [
+        "hydropump",
+        "energyball",
+        "fireblast",
+        "icebeam"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      },
+      "heldItem": "choice_specs"
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

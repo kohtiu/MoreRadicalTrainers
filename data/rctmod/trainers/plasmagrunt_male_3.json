@@ -1,0 +1,75 @@
+{
+  "name": "Plasma Grunt",
+  "identity": "Plasma Warrior",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "scrafty",
+      "level": 56,
+      "nature": "careful",
+      "ability": "intimidate",
+      "moveset": ["drainpunch", "knockoff", "fakeout", "icepunch"],
+      "evs": { "hp": 252, "spd": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "assault_vest"
+    },
+    {
+      "species": "garbodor",
+      "level": 56,
+      "nature": "impish",
+      "ability": "aftermath",
+      "moveset": ["gunkshot", "spikes", "toxicspikes", "explosion"],
+      "evs": { "def": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "black_sludge"
+    },
+    {
+      "species": "swoobat",
+      "level": 56,
+      "nature": "timid",
+      "ability": "simple",
+      "moveset": ["airslash", "psychic", "heatwave", "calmmind"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "wise_glasses"
+    },
+    {
+      "species": "persian",
+      "level": 56,
+      "nature": "jolly",
+      "ability": "furcoat",
+      "aspects": ["alolan"],
+      "moveset": ["darkpulse", "uturn", "fakeout", "hypnosis"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "basculin",
+      "level": 56,
+      "nature": "adamant",
+      "ability": "adaptability",
+      "aspects": ["blue_stripe"],
+      "moveset": ["aquajet", "liquidation", "crunch", "psychicfangs"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "mystic_water"
+    },
+    {
+      "species": "diggersby",
+      "level": 56,
+      "nature": "adamant",
+      "ability": "hugepower",
+      "moveset": ["earthquake", "return", "quickattack", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "soft_sand"
+    }
+  ]
+}

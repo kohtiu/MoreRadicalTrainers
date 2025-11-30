@@ -1,0 +1,358 @@
+{
+    "pools": [
+      {
+        "rolls": {
+          "min": 1,
+          "max": 3
+        },
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:twisted_spoon"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:blunder_policy"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:fairy_feather"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:wise_glasses"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:bright_powder"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:magnet"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:iron_ball"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:heavy_duty_boots"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:quick_claw"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:charcoal_stick"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:protector"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:hard_stone"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:black_glasses"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:cell_battery"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:float_stone"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:metal_powder"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:smooth_rock"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:quick_powder"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:mystic_water"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:binding_band"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:icy_rock"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:blue_mint_leaf"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:coarse_mulch"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:cyan_mint_leaf"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:energy_root"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:fine_remedy",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            ],
+            "conditions": [
+              {
+                "condition": "rctmod:level_range",
+                "range": {
+                  "min": 16,
+                  "max": 37
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:green_mint_leaf"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:humid_mulch"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:loamy_mulch"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:medicinal_leek"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:mental_herb",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:mirror_herb",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:pink_apricorn"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:pink_mint_leaf"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:power_herb",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:red_apricorn"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:red_mint_leaf"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:rich_mulch"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:sandy_mulch"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:white_apricorn"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:white_herb",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:white_mint_leaf"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:apple"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:carrot"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:melon_slice"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:potato"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:pumpkin_pie"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:smoke_ball"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:poison_barb"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:ability_shield"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:air_balloon"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:sharp_beak"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:dragon_fang"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:heat_rock"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:destiny_knot"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:silk_scarf"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:spell_tag"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:dragon_gem"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:miracle_seed"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:safety_goggles"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:never_melt_ice"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:soft_sand"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:damp_rock"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:black_belt"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:silver_powder"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:big_root"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:covert_cloak"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:light_ball"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:ring_target"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:eviolite"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:shell_bell"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:loaded_dice"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:weakness_policy"
+          }
+        ]
+      }
+    ]
+}

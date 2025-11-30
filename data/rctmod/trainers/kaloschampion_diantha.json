@@ -1,0 +1,186 @@
+{
+  "name": "Kalos Champion Diantha",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "moveBias": 0.95,
+      "statMoveBias": 0.3,
+      "switchBias": 0.8,
+      "itemBias": 0.9,
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "hawlucha",
+      "gender": "MALE",
+      "level": 100,
+      "nature": "jolly",
+      "ability": "unburden",
+      "moveset": [
+        "acrobatics",
+        "closecombat",
+        "swordsdance",
+        "roost"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spe": 252,
+        "def": 4
+      },
+      "heldItem": "cobblemon:power_herb"
+    },
+    {
+      "species": "aurorus",
+      "gender": "FEMALE",
+      "level": 100,
+      "nature": "modest",
+      "ability": "refrigerate",
+      "moveset": [
+        "hypervoice",
+        "earthpower",
+        "freezedry",
+        "ancientpower"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spa": 252,
+        "spd": 4
+      },
+      "heldItem": "cobblemon:life_orb"
+    },
+    {
+      "species": "gourgeist",
+      "gender": "FEMALE",
+      "level": 100,
+      "nature": "impish",
+      "ability": "frisk",
+      "moveset": [
+        "phantomforce",
+        "leechseed",
+        "willowisp",
+        "synthesis"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "def": 252,
+        "spd": 4
+      },
+      "heldItem": "cobblemon:leftovers"
+    },
+    {
+      "species": "goodra",
+      "gender": "FEMALE",
+      "level": 100,
+      "nature": "modest",
+      "ability": "sapsipper",
+      "moveset": [
+        "dracometeor",
+        "fireblast",
+        "thunderbolt",
+        "sludgebomb"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spa": 252,
+        "spd": 4
+      },
+      "heldItem": "cobblemon:assault_vest"
+    },
+    {
+      "species": "ironvaliant",
+      "gender": "GENDERLESS",
+      "level": 100,
+      "nature": "naive",
+      "ability": "quarkdrive",
+      "moveset": [
+        "closecombat",
+        "psychocut",
+        "leafblade",
+        "swordsdance"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spe": 252,
+        "hp": 4
+      }
+      },
+    {
+      "species": "gardevoir",
+      "gender": "FEMALE",
+      "level": 100,
+      "nature": "timid",
+      "ability": "pixilate",
+      "heldItem": "mega_showdown:gardevoirite",
+      "moveset": [
+        "hypervoice",
+        "psychic",
+        "mysticalfire",
+        "thunderbolt"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spa": 252,
+        "spe": 252,
+        "hp": 4
+      }
+    }
+  ]
+}

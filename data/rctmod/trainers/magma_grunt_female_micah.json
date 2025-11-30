@@ -1,0 +1,142 @@
+{
+  "name": "Magma Grunt Micah",
+  "identity": "Team Magma Grunt",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:hyper_potion",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "sandslash",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "adamant",
+      "ability": "sandveil",
+      "moveset": [
+        "swordsdance",
+        "earthquake",
+        "knockoff",
+        "leechlife"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 248,
+        "atk": 248,
+        "def": 0,
+        "spa": 0,
+        "spd": 8,
+        "spe": 4
+      },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "toedscruel",
+      "gender": "MALE",
+      "level": 72,
+      "nature": "",
+      "ability": "myceliummight",
+      "moveset": [
+        "leafstorm",
+        "earthpower",
+        "sludgebomb",
+        "knockoff"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "heldItem": "assault_vest"
+    },
+    {
+      "species": "pangoro",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "adamant",
+      "ability": "ironfist",
+      "moveset": [
+        "closecombat",
+        "knockoff",
+        "ironhead",
+        "bulletpunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "heldItem": "choice_band"
+    },
+    {
+      "species": "magmortar",
+      "gender": "MALE",
+      "level": 73,
+      "nature": "timid",
+      "ability": "flamebody",
+      "moveset": [
+        "fireblast",
+        "scorchingsands",
+        "thunderbolt",
+        "focusblast"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 248
+      },
+      "heldItem": "choice_specs"
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

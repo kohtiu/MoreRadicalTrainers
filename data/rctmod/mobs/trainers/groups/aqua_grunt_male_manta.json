@@ -1,0 +1,20 @@
+{
+  "requiredDefeats": [
+    ["aqua_grunt_male_ray"]
+  ],
+    "maxTrainerWins": 1,
+    "type": "team_aqua",
+    "series": ["teamaqua"],
+    "spawnWeightFactor": 0.25,
+    "biomeTagBlacklist": [
+    "is_void",
+    "is_underground",
+    "is_nether",
+    "is_end"
+  ],
+  "biomeTagWhitelist": [
+      "is_wet",
+      "is_water",
+      "is_river",
+      "is_beach"
+    ]}

@@ -1,0 +1,43 @@
+{
+  "name": "Plasma Grunt",
+  "identity": "Plasma Liberator",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.2
+    }
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "team": [
+    {
+      "species": "watchog",
+      "level": 50,
+      "nature": "jolly",
+      "ability": "analytic",
+      "moveset": ["hyperfang", "crunch", "swordsdance", "thunderwave"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "kings_rock"
+    },
+    {
+      "species": "stoutland",
+      "level": 50,
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": ["retaliate", "crunch", "wildcharge", "workup"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "muscle_band"
+    },
+    {
+      "species": "diggersby",
+      "level": 50,
+      "nature": "adamant",
+      "ability": "hugepower",
+      "moveset": ["earthquake", "return", "quickattack", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "soft_sand"
+    }
+  ]
+}

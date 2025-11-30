@@ -1,0 +1,190 @@
+{
+  "name": "Skyla",
+  "identity": "Unova Leader Skyla",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "unfezant",
+"level": 58,
+      "ability": "superluck",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 248
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "return",
+        "aircutter",
+        "steelwing",
+        "nightslash"
+      ],
+      "heldItem": "choice_band",
+      "nature": "naive"
+    },
+    {
+      "species": "swanna",
+"level": 58,
+      "ability": "hydration",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "hurricane",
+        "surf",
+        "icebeam",
+        "roost"
+      ],
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "archeops",
+"level": 60,
+      "ability": "defeatist",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "stoneedge",
+        "acrobatics",
+        "earthquake",
+        "roost"
+      ],
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "mandibuzz",
+"level": 58,
+      "ability": "overcoat",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "bravebird",
+        "roost",
+        "defog",
+        "toxic"
+      ],
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "swoobat",
+"level": 58,
+      "ability": "unaware",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "calmmind",
+        "airslash",
+        "shadowball",
+        "storedpower"
+      ],
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "gliscor",
+"level": 62,
+      "ability": "poisonheal",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "rockslide",
+        "swordsdance",
+        "toxic",
+        "substitute"
+      ],
+      "heldItem": "toxic_orb"
+    }
+  ]
+}

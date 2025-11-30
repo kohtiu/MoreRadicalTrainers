@@ -1,0 +1,31 @@
+{
+  "parent": "rctmod:trainers/defeat_teamstar_mela",
+  "display": {
+    "title": {
+     "text": "Starfall Street"
+    },
+    "description": {
+      "text": "Defeat Team Star Atticus"
+    },
+    "icon": {
+      "id": "cobblemon:dusk_ball"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": ["teamstar_atticus"]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

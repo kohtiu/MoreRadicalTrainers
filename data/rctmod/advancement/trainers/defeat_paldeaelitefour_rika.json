@@ -1,0 +1,31 @@
+{
+  "parent": "rctmod:trainers/defeat_paldealeader_grusha",
+  "display": {
+    "title": {
+      "text": "Defeat Elite Four"
+    },
+    "description": {
+      "text": "Defeat Elite Four Rika"
+    },
+    "icon": {
+      "id": "cobblemon:great_ball"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": ["paldeaelitefour_rika"]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

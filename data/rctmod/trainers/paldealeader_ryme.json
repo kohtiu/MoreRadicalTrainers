@@ -1,0 +1,145 @@
+{
+    "name": "Gym Leader Ryme",
+  "identity": "Paldea Gym Leader",
+    "ai": {
+      "type": "rct",
+      "data": {
+        "maxSelectMargin": 0.15
+      }
+    },
+    "battleRules": {
+      "maxItemUses": 3
+    },
+    "bag": [
+      {
+        "item": "cobblemon:full_restore",
+        "quantity": 3
+      }
+    ],
+    "team": [
+      {
+        "species": "banette",
+        "level": 97,
+        "moveset": ["icywind", "suckerpunch", "shadowsneak", "skittersmack"],
+        "heldItem": "cobblemon:focus_sash",
+        "nature": "adamant",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "atk": 252,
+          "def": 4
+        }
+      },
+      {
+        "species": "mimikyu",
+        "level": 93,
+        "moveset": ["swordsdance", "shadowsneak", "drainpunch", "playrough"],
+        "heldItem": "cobblemon:life_orb",
+        "nature": "jolly",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        }
+      },
+      {
+        "species": "golurk",
+        "level": 96,
+        "moveset": ["dynamicpunch", "stompingtantrum", "stoneedge", "phantomforce"],
+        "heldItem": "cobblemon:assault_vest",
+        "nature": "adamant",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "atk": 252,
+          "def": 4
+        }
+      },
+      {
+        "species": "spiritomb",
+        "level": 93,
+        "moveset": ["protect", "suckerpunch", "painsplit", "willowisp"],
+        "heldItem": "cobblemon:leftovers",
+        "nature": "modest",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "spa": 252,
+          "spd": 4
+        }
+      },
+      {
+        "species": "houndstone",
+        "level": 95,
+        "moveset": ["playrough", "crunch", "phantomforce", "icefang"],
+        "heldItem": "cobblemon:choice_band",
+        "nature": "jolly",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        }
+      },
+      {
+        "species": "toxtricity",
+        "level": 100,
+        "moveset": ["overdrive", "hex", "boomburst", "sludgebomb"],
+        "heldItem": "cobblemon:throat_spray",
+        "nature": "modest",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "gimmicks": {
+          "tera": "ghost"
+        },
+        "evs": {
+          "spa": 252,
+          "hp": 4,
+          "spe": 252
+        }
+      }
+    ],
+    "battleFormat": "GEN_9_SINGLES"
+  }

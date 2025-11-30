@@ -1,0 +1,22 @@
+{
+    "battle_start": [
+      "You dare oppose progress? The land’s expansion is inevitable!",
+      "Witness the future—a world unshackled by seas!"
+    ],
+    "battle_lost": [
+      "Impossible… My vision… miscalculated?",
+      "Groudon’s power… misunderstood…"
+    ],
+    "battle_won": [
+      "Your extinction is a stepping stone to utopia.",
+      "The land rejects your frailty."
+    ],
+    "done_looser": [
+      "Farewell. The earth’s heartbeat… persists…",
+      "A flawed equation… but Magma’s resolve… unbroken."
+    ],
+    "done_winner": [
+      "Another soul buried under tectonic triumph.",
+      "Your existence… inconsequential to the grand design."
+    ]
+  }

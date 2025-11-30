@@ -1,0 +1,26 @@
+{
+    "battle_start": [
+      "You dare oppose me? I’ll carve your failure into history.",
+      "Your ‘heroism’ ends here. **Beg.**"
+    ],
+    "battle_lost": [
+      "IMPOSSIBLE! I am… PERFECTION!",
+      "Ngh… You wretched MISTAKE—!"
+    ],
+    "battle_won": [
+      "Grovelling suits you. *Kneel.*",
+      "Your Pokémon weep for such a pathetic master."
+    ],
+    "done_looser": [
+      "Your defiance… amuses. But I *will* bathe in your blood.",
+      "Run. Hide. My wrath is inevitable."
+    ],
+    "done_winner": [
+      "Another corpse for the pyre. How… mundane.",
+      "Your death is a footnote in my ascension."
+    ],
+    "done_generic": [
+      "**Leave.** Before I forget my… mercy.",
+      "Enough. Your existence *bores* me."
+    ]
+  }

@@ -1,0 +1,70 @@
+{
+  "name": "Ghetsis",
+  "ai": {
+    "type": "rct",
+    "data": { "maxSelectMargin": 0.05 }
+  },
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "hydreigon",
+      "level": 92,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": ["darkpulse", "dracometeor", "flamethrower", "uturn"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "bisharp",
+      "level": 92,
+      "nature": "adamant",
+      "ability": "defiant",
+      "moveset": ["ironhead", "suckerpunch", "knockoff", "swordsdance"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "black_glasses"
+    },
+    {
+      "species": "bouffalant",
+      "level": 92,
+      "nature": "adamant",
+      "ability": "reckless",
+      "moveset": ["headcharge", "earthquake", "stoneedge", "protect"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "eelektross",
+      "level": 92,
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": ["thunderbolt", "flamethrower", "gigadrain", "voltswitch"],
+      "evs": { "spa": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "assault_vest"
+    },
+    {
+      "species": "cofagrigus",
+      "level": 92,
+      "nature": "bold",
+      "ability": "mummy",
+      "moveset": ["shadowball", "willowisp", "painsplit", "protect"],
+      "evs": { "hp": 252, "def": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "seismitoad",
+      "level": 92,
+      "nature": "adamant",
+      "ability": "swiftswim",
+      "moveset": ["liquidation", "earthquake", "poisonjab", "raindance"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "leftovers"
+    }
+  ]
+}

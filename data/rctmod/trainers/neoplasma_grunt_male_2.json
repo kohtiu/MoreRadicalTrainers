@@ -1,0 +1,71 @@
+{
+  "name": "Neo Plasma Grunt",
+  "identity": "B",
+  "ai": {
+    "type": "rct",
+    "data": { "maxSelectMargin": 0.1 }
+  },
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "grimmsnarl",
+      "level": 80,
+      "nature": "adamant",
+      "ability": "prankster",
+      "moveset": ["spiritbreak", "playrough", "suckerpunch", "thunderwave"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "light_clay"
+    },
+    {
+      "species": "malamar",
+      "level": 78,
+      "nature": "adamant",
+      "ability": "contrary",
+      "moveset": ["superpower", "knockoff", "psychocut", "trickroom"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "assault_vest"
+    },
+    {
+      "species": "lokix",
+      "level": 80,
+      "nature": "jolly",
+      "ability": "tintedlens",
+      "moveset": ["firstimpression", "suckerpunch", "axekick", "throatchop"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "unfezant",
+      "level": 78,
+      "nature": "adamant",
+      "ability": "superluck",
+      "moveset": ["bravebird", "uturn", "steelwing", "roost"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "sharp_beak"
+    },
+    {
+      "species": "bisharp",
+      "level": 80,
+      "nature": "adamant",
+      "ability": "defiant",
+      "moveset": ["kowtowcleave", "ironhead", "suckerpunch", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "black_glasses"
+    },
+    {
+      "species": "scolipede",
+      "level": 80,
+      "nature": "jolly",
+      "ability": "speedboost",
+      "moveset": ["megahorn", "earthquake", "poisonjab", "protect"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "focus_band"
+    }
+  ]
+}

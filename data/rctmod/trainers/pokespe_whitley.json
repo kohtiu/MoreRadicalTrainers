@@ -1,0 +1,70 @@
+{
+  "name": "Whitley",
+  "ai": {
+    "type": "rct",
+    "data": { "maxSelectMargin": 0.15 }
+  },
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "amoonguss",
+      "level": 60,
+      "nature": "bold",
+      "ability": "regenerator",
+      "moveset": ["spore", "ragepowder", "gigadrain", "protect"],
+      "evs": { "hp": 252, "def": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "rocky_helmet"
+    },
+    {
+      "species": "delphox",
+      "level": 60,
+      "nature": "modest",
+      "ability": "magician",
+      "moveset": ["mysticalfire", "psychic", "dazzlinggleam", "nastyplot"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "wise_glasses"
+    },
+    {
+      "species": "accelgor",
+      "level": 55,
+      "nature": "timid",
+      "ability": "stickyhold",
+      "moveset": ["bugbuzz", "sludgebomb", "focusblast", "spikes"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "crustle",
+      "level": 55,
+      "nature": "adamant",
+      "ability": "sturdy",
+      "moveset": ["shellsmash", "stoneedge", "xscissor", "earthquake"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "white_herb"
+    },
+    {
+      "species": "whimsicott",
+      "level": 50,
+      "nature": "timid",
+      "ability": "prankster",
+      "moveset": ["tailwind", "moonblast", "encore", "protect"],
+      "evs": { "hp": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "light_clay"
+    },
+    {
+      "species": "leavanny",
+      "level": 50,
+      "nature": "jolly",
+      "ability": "swarm",
+      "moveset": ["leafblade", "xscissor", "knockoff", "stickyweb"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "focus_band"
+    }
+  ]
+}

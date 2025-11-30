@@ -1,0 +1,145 @@
+{
+    "name": "Paldea Champion Geeta",
+  "identity": "Paldea Champion",
+    "ai": {
+      "type": "rct",
+      "data": {
+        "maxSelectMargin": 0.15
+      }
+    },
+    "battleRules": {
+      "maxItemUses": 3
+    },
+    "bag": [
+      {
+        "item": "cobblemon:full_restore",
+        "quantity": 3
+      }
+    ],
+    "team": [
+      {
+        "species": "glimmora",
+        "level": 100,
+        "moveset": ["powergem", "sludgewave", "earthpower", "lightscreen"],
+        "heldItem": "cobblemon:focus_sash",
+        "nature": "modest",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "spa": 252,
+          "spd": 4
+        }
+      },
+      {
+        "species": "espathra",
+        "level": 100,
+        "moveset": ["luminacrash", "dazzlinggleam", "shadowball", "protect"],
+        "heldItem": "cobblemon:life_orb",
+        "nature": "timid",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "spa": 252,
+          "hp": 4,
+          "spe": 252
+        }
+      },
+      {
+        "species": "chesnaught",
+        "level": 100,
+        "moveset": ["spikyshield", "leechseed", "drainpunch", "bulkup"],
+        "heldItem": "cobblemon:leftovers",
+        "nature": "adamant",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "atk": 252,
+          "def": 4
+        }
+      },
+      {
+        "species": "avalugg",
+        "level": 100,
+        "moveset": ["avalanche", "heavyslam", "earthquake", "bodypress"],
+        "heldItem": "cobblemon:assault_vest",
+        "nature": "adamant",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "atk": 252,
+          "def": 4
+        }
+      },
+      {
+        "species": "dragapult",
+        "level": 100,
+        "moveset": ["dragondarts", "suckerpunch", "thunderbolt", "shadowball"],
+        "heldItem": "cobblemon:choice_specs",
+        "nature": "timid",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "spa": 252,
+          "hp": 4,
+          "spe": 252
+        }
+      },
+      {
+        "species": "kingambit",
+        "level": 100,
+        "moveset": ["ironhead", "kowtowcleave", "terablast", "stoneedge"],
+        "heldItem": "cobblemon:black_glasses",
+        "nature": "adamant",
+        "gimmicks": {
+        "tera": "flying"
+      },
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "atk": 252,
+          "def": 4
+        }
+      }
+    ],
+    "battleFormat": "GEN_9_SINGLES"
+  }

@@ -1,0 +1,70 @@
+{
+  "name": "White",
+  "ai": {
+    "type": "rct",
+    "data": { "maxSelectMargin": 0.1 }
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "team": [
+    {
+      "species": "serperior",
+      "level": 70,
+      "nature": "timid",
+      "ability": "contrary",
+      "moveset": ["leafstorm", "dracometeor", "gigadrain", "glare"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "miracle_seed"
+    },
+    {
+      "species": "stunfisk",
+      "level": 65,
+      "nature": "bold",
+      "ability": "static",
+      "moveset": ["earthpower", "thunderbolt", "scald", "stealthrock"],
+      "evs": { "hp": 252, "def": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "rocky_helmet"
+    },
+    {
+      "species": "alomomola",
+      "level": 65,
+      "nature": "impish",
+      "ability": "regenerator",
+      "moveset": ["wish", "protect", "toxic", "scald"],
+      "evs": { "hp": 252, "def": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "reuniclus",
+      "level": 70,
+      "nature": "quiet",
+      "ability": "magicguard",
+      "moveset": ["psychic", "focusblast", "shadowball", "trickroom"],
+      "evs": { "hp": 252, "spa": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "mandibuzz",
+      "level": 68,
+      "nature": "bold",
+      "ability": "overcoat",
+      "moveset": ["foulplay", "roost", "toxic", "defog"],
+      "evs": { "hp": 252, "def": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "sawsbuck",
+      "level": 60,
+      "nature": "jolly",
+      "ability": "sapsipper",
+      "moveset": ["hornleech", "jumpkick", "wildcharge", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    }
+  ]
+}

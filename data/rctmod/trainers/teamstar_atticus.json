@@ -1,0 +1,125 @@
+{
+  "name": "Team Star Atticus",
+"identity": "Team Star",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+      {
+        "species": "skuntank",
+        "level": 98,
+        "moveset": ["suckerpunch", "toxic", "venoshock", "flamethrower"],
+        "heldItem": "cobblemon:black_sludge",
+        "nature": "adamant",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "atk": 252,
+          "def": 4
+        }
+      },
+      {
+        "species": "muk",
+        "level": 100,
+        "moveset": ["sludgewave", "minimize", "drainpunch", "acidarmor"],
+        "heldItem": "cobblemon:assault_vest",
+        "gimmicks": {
+          "tera": "poison"
+        },
+        "nature": "adamant",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "atk": 252,
+          "def": 4
+        }
+      },
+      {
+        "species": "dragalge",
+        "level": 97,
+        "moveset": ["dragonpulse", "venoshock", "toxic", "protect"],
+        "heldItem": "cobblemon:choice_specs",
+        "nature": "modest",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "spa": 252,
+          "hp": 4,
+          "spe": 252
+        }
+      },
+      {
+        "species": "toxapex",
+        "level": 93,
+        "moveset": ["banefulbunker", "hydropump", "venoshock", "blizzard"],
+        "heldItem": "cobblemon:rocky_helmet",
+        "nature": "bold",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "def": 4,
+          "spd": 252
+        }
+      },
+      {
+        "species": "revavroom",
+        "level": 92,
+        "moveset": ["spinout", "poisonjab", "zenheadbutt", "overheat"],
+        "heldItem": "cobblemon:air_balloon",
+        "nature": "adamant",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "atk": 252,
+          "def": 4
+        }
+      }
+    ],
+  "battleFormat": "GEN_9_SINGLES"
+}

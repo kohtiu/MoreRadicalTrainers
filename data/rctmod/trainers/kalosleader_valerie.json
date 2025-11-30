@@ -1,0 +1,196 @@
+{
+    "name": "Valerie",
+  "identity": "Kalos Leader Valerie",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "sylveon",
+      "level": 98,
+      "ability": "pixilate",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 188,
+        "spa": 0,
+        "spd": 68,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "hypervoice",
+        "wish",
+        "protect",
+        "healbell"
+      ],
+      "heldItem": "leftovers",
+      "nature": "calm"
+    },
+    {
+      "species": "mawile",
+      "level": 98,
+      "ability": "hugepower",
+      "heldItem": "mega_showdown:mawilite",
+      "evs": {
+        "hp": 116,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 140
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "swordsdance",
+        "playrough",
+        "knockoff",
+        "suckerpunch"
+      ],
+      "nature": "adamant"
+    },
+    {
+      "species": "hatterene",
+      "level": 98,
+      "ability": "magicbounce",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 204,
+        "spa": 0,
+        "spd": 0,
+        "spe": 52
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "calmmind",
+        "psyshock",
+        "drainingkiss",
+        "mysticalfire"
+      ],
+      "heldItem": "leftovers",
+      "nature": "bold"
+    },
+    {
+      "species": "alcremie",
+      "level": 98,
+      "ability": "aromaveil",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "calmmind",
+        "acidarmor",
+        "drainingkiss",
+        "storedpower"
+      ],
+      "heldItem": "leftovers",
+      "nature": "modest"
+    },
+    {
+      "species": "florges",
+      "level": 98,
+      "ability": "flowerveil",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 160,
+        "spa": 0,
+        "spd": 0,
+        "spe": 96
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "calmmind",
+        "moonblast",
+        "psychicnoise",
+        "synthesis"
+      ],
+      "heldItem": "heavy_duty_boots",
+      "nature": "bold"
+    },
+    {
+      "species": "mrmime",
+      "level": 98,
+      "ability": "soundproof",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "psychic",
+        "dazzlinggleam",
+        "focusblast",
+        "healingwish"
+      ],
+      "heldItem": "choice_scarf",
+      "nature": "timid"
+    }
+  ],
+  "battleFormat": "GEN_9_SINGLES"
+}

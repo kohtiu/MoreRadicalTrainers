@@ -1,0 +1,13 @@
+{
+  "requiredDefeats": [
+    ["magma_grunt_male_cole"]
+  ], 
+  "maxTrainerWins": 5,
+    "spawnWeightFactor": 0.25,
+    "type": "team_magma",
+    "biomeTagBlacklist": ["is_water"],
+    "biomeTagWhitelist": ["is_nether"],
+    "series": [
+    "teammagma"
+  ]
+  }

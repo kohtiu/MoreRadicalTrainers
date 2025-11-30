@@ -1,0 +1,75 @@
+{
+  "name": "Plasma Grunt",
+  "identity": "Plasma Liberator",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "team": [
+    {
+      "species": "bisharp",
+      "level": 60,
+      "nature": "adamant",
+      "ability": "defiant",
+      "moveset": ["kowtowcleave", "ironhead", "suckerpunch", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "black_glasses"
+    },
+    {
+      "species": "linoone",
+      "level": 60,
+      "nature": "jolly",
+      "ability": "pickup",
+      "aspects": ["galarian"],
+      "moveset": ["obstruct", "throatchop", "pinmissile", "shadowclaw"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "sitrus_berry"
+    },
+    {
+      "species": "zoroark",
+      "level": 60,
+      "nature": "timid",
+      "ability": "illusion",
+      "aspects": ["hisuian"],
+      "moveset": ["bittermalice", "flamethrower", "nastyplot", "uturn"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "swanna",
+      "level": 60,
+      "nature": "modest",
+      "ability": "hydration",
+      "moveset": ["hurricane", "scald", "icebeam", "raindance"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "damp_rock"
+    },
+    {
+      "species": "emolga",
+      "level": 60,
+      "nature": "timid",
+      "ability": "motordrive",
+      "moveset": ["voltswitch", "airslash", "encore", "roost"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "magnet"
+    },
+    {
+      "species": "maractus",
+      "level": 60,
+      "nature": "modest",
+      "ability": "stormdrain",
+      "moveset": ["energyball", "dazzlinggleam", "suckerpunch", "spikes"],
+      "evs": { "spa": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "big_root"
+    }
+  ]
+}

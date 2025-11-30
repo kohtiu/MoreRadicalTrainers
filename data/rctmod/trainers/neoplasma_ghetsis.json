@@ -1,0 +1,71 @@
+{
+  "name": "Ghetsis",
+  "ai": {
+    "type": "rct",
+    "data": { "maxSelectMargin": 0.05 }
+  },
+  "battleFormat": "GEN_9_TRIPLES",
+  "team": [
+    {
+      "species": "kyurem",
+      "level": 96,
+      "nature": "adamant",
+      "ability": "teravolt",
+      "aspects": ["black"],
+      "moveset": ["iciclespear", "fusionbolt", "outrage", "stoneedge"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "choice_scarf"
+    },
+    {
+      "species": "hydreigon",
+      "level": 96,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": ["darkpulse", "dracometeor", "flamethrower", "uturn"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "choice_specs"
+    },
+    {
+      "species": "kingambit",
+      "level": 96,
+      "nature": "adamant",
+      "ability": "supremeoverlord",
+      "moveset": ["kowtowcleave", "ironhead", "suckerpunch", "swordsdance"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "black_glasses"
+    },
+    {
+      "species": "eelektross",
+      "level": 96,
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": ["thunderbolt", "flamethrower", "gigadrain", "voltswitch"],
+      "evs": { "spa": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "assault_vest"
+    },
+    {
+      "species": "cofagrigus",
+      "level": 96,
+      "nature": "calm",
+      "ability": "mummy",
+      "moveset": ["shadowball", "toxic", "painsplit", "hex"],
+      "evs": { "hp": 252, "spd": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "black_sludge"
+    },
+    {
+      "species": "roaringmoon",
+      "level": 96,
+      "nature": "jolly",
+      "ability": "protosynthesis",
+      "moveset": ["dragonclaw", "crunch", "earthquake", "dragondance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    }
+  ]
+}

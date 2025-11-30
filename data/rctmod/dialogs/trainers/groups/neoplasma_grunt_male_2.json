@@ -1,0 +1,35 @@
+{
+    "battle_start": [
+      "Rip ’em apart! No mercy for traitors!",
+      "You think you’re a hero? You’re **prey**.",
+      "Ghetsis promised chaos—LET’S DELIVER!"
+    ],
+    "battle_lost": [
+      "Ngh—! You’ll BURN for this!",
+      "The king’ll flay you alive! MARK MY WORDS!"
+    ],
+    "battle_won": [
+      "Pathetic! Your Pokémon **begged** for death!",
+      "Hahaha! That scream! Play it AGAIN!"
+    ],
+    "done_looser": [
+      "You’re dead! DEAD! Plasma’s coming for your corpse!",
+      "I’ll carve your name on Kyurem’s icicles!"
+    ],
+    "done_winner": [
+      "Another notch for the frostbitten throne!",
+      "Your bones’ll make fine fertilizer for the tundra!"
+    ],
+    "done_generic": [
+      "Enough. My axe needs sharpening.",
+      "Bored. Find someone else to butcher."
+    ],
+    "is_busy": [
+      "Can’t you SEE I’m skinning a Zangoose?!",
+      "Busy. Come back when your funeral’s scheduled."
+    ],
+    "on_cooldown": [
+      "Gonna nap. Dream of your demise.",
+      "Cooldown? Nah—I’m just savoring your fear."
+    ]
+  }

@@ -1,0 +1,187 @@
+{
+  "name": "Kalos Elite Four Wikstrom",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "moveBias": 0.9,
+      "statMoveBias": 0.3,
+      "switchBias": 0.7,
+      "itemBias": 0.8,
+      "maxSelectMargin": 0.2
+    }
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "aegislash",
+      "gender": "MALE",
+      "level": 100,
+      "nature": "brave",
+      "ability": "stancechange",
+      "moveset": [
+        "kingsshield",
+        "shadowsneak",
+        "ironhead",
+        "sacredsword"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 4
+      },
+      "heldItem": "cobblemon:weakness_policy"
+    },
+    {
+      "species": "scizor",
+      "gender": "MALE",
+      "level": 100,
+      "nature": "adamant",
+      "ability": "technician",
+      "heldItem": "mega_showdown:scizorite",
+      "moveset": [
+        "bulletpunch",
+        "swordsdance",
+        "uturn",
+        "superpower"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 4
+      }
+    },
+    {
+      "species": "klefki",
+      "gender": "FEMALE",
+      "level": 100,
+      "nature": "bold",
+      "ability": "prankster",
+      "moveset": [
+        "spikes",
+        "thunderwave",
+        "foulplay",
+        "dazzlinggleam"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "def": 252,
+        "spd": 4
+      },
+      "heldItem": "cobblemon:light_clay"
+    },
+    {
+      "species": "probopass",
+      "gender": "MALE",
+      "level": 100,
+      "nature": "modest",
+      "ability": "sturdy",
+      "moveset": [
+        "thunderbolt",
+        "flashcannon",
+        "earthpower",
+        "stealthrock"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spa": 252,
+        "spd": 4
+      },
+      "heldItem": "cobblemon:leftovers"
+    },
+    {
+      "species": "corviknight",
+      "gender": "MALE",
+      "level": 100,
+      "nature": "impish",
+      "ability": "pressure",
+      "moveset": [
+        "bravebird",
+        "ironhead",
+        "roost",
+        "defog"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "def": 252,
+        "spd": 4
+      },
+      "heldItem": "cobblemon:rocky_helmet"
+    },
+    {
+      "species": "kingambit",
+      "gender": "MALE",
+      "level": 100,
+      "nature": "adamant",
+      "ability": "supremeoverlord",
+      "moveset": [
+        "swordsdance",
+        "ironhead",
+        "knockoff",
+        "suckerpunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "spd": 4
+      },
+      "heldItem": "cobblemon:black_glasses"
+    }
+  ]
+}

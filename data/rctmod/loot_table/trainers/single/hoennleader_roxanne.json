@@ -1,0 +1,49 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "cobblemonpokemonbadges:stone_badge",
+            "conditions": [
+              {
+                "condition": "rctmod:defeat_count",
+                  "count": 1
+                    }
+                ]
+              } 
+            ]
+          },
+          {
+            "rolls": 1,
+            "entries": [
+                  {
+                    "type": "minecraft:item",
+                    "name": "cobblemon:hard_stone",
+                    "conditions": [
+                      {
+                        "condition": "rctmod:defeat_count",
+                          "count": 1
+                            }
+                        ]
+                      }
+                ]
+              },
+              {
+                "rolls": 1,
+                "entries": [
+                          {
+                            "type": "minecraft:item",
+                            "name": "simpletms:tm_rocktomb",
+                            "conditions": [
+                              {
+                                "condition": "rctmod:defeat_count",
+                                  "count": 1
+                                    }
+                                ]
+                              }
+                    ]
+                  }
+        ]
+      }

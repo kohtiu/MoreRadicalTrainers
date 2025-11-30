@@ -1,0 +1,192 @@
+{
+  "name": "Drayden",
+  "identity": "Unova Leader Drayden",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleFormat": "GEN_9_DOUBLES",
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+   "team": [
+    {
+      "species": "haxorus",
+"level": 70,
+      "ability": "moldbreaker",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "dragondance",
+        "closecombat",
+        "dragonclaw",
+        "earthquake"
+      ],
+      "heldItem": "choice_band"
+    },
+    {
+      "species": "hydreigon",
+"level": 71,
+      "ability": "levitate",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "dracometeor",
+        "darkpulse",
+        "fireblast",
+        "roost"
+      ],
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "salamence",
+"level": 71,
+      "ability": "intimidate",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "dragondance",
+        "earthquake",
+        "dragonclaw",
+        "roost"
+      ],
+      "heldItem": "rocky_helmet"
+    },
+    {
+      "species": "dragonite",
+"level": 73,
+      "ability": "multiscale",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "dragondance",
+        "extremespeed",
+        "earthquake",
+        "firepunch"
+      ],
+      "heldItem": "weakness_policy"
+    },
+    {
+      "species": "goodra",
+"level": 72,
+      "ability": "sapsipper",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "dracometeor",
+        "flamethrower",
+        "sludgebomb",
+        "knockoff"
+      ],
+      "heldItem": "heavy_duty_boots",
+      "nature": "timid"
+    },
+    {
+      "species": "gougingfire",
+"level": 74,
+      "ability": "protosynthesis",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "dragondance",
+        "flareblitz",
+        "scaleshot",
+        "earthquake"
+      ],
+      "heldItem": "loaded_dice",
+      "nature": "jolly"
+    }
+  ]
+}

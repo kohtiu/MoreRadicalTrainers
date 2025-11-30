@@ -1,0 +1,187 @@
+{
+  "name": "Kalos Elite Four Siebold",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "moveBias": 0.9,
+      "statMoveBias": 0.3,
+      "switchBias": 0.7,
+      "itemBias": 0.8,
+      "maxSelectMargin": 0.2
+    }
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "clawitzer",
+      "gender": "MALE",
+      "level": 100,
+      "nature": "modest",
+      "ability": "megalauncher",
+      "moveset": [
+        "waterpulse",
+        "darkpulse",
+        "aurasphere",
+        "icebeam"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spa": 252,
+        "hp": 252,
+        "def": 4
+      },
+      "heldItem": "cobblemon:choice_specs"
+    },
+    {
+      "species": "gyarados",
+      "gender": "MALE",
+      "level": 100,
+      "nature": "jolly",
+      "ability": "moxie",
+      "heldItem": "mega_showdown:gyaradosite",
+      "moveset": [
+        "dragondance",
+        "waterfall",
+        "earthquake",
+        "icefang"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spe": 252,
+        "hp": 4
+      }
+    },
+    {
+      "species": "starmie",
+      "gender": "GENDERLESS",
+      "level": 100,
+      "nature": "timid",
+      "ability": "naturalcure",
+      "moveset": [
+        "hydropump",
+        "thunderbolt",
+        "psychic",
+        "icebeam"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spa": 252,
+        "spe": 252,
+        "hp": 4
+      },
+      "heldItem": "cobblemon:life_orb"
+    },
+    {
+      "species": "barbaracle",
+      "gender": "MALE",
+      "level": 100,
+      "nature": "jolly",
+      "ability": "toughclaws",
+      "moveset": [
+        "shellsmash",
+        "liquidation",
+        "stoneedge",
+        "crosschop"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spe": 252,
+        "hp": 4
+      },
+      "heldItem": "cobblemon:white_herb"
+    },
+    {
+      "species": "barraskewda",
+      "gender": "FEMALE",
+      "level": 100,
+      "nature": "adamant",
+      "ability": "swiftswim",
+      "moveset": [
+        "liquidation",
+        "closecombat",
+        "poisonjab",
+        "drillrun"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spe": 252,
+        "def": 4
+      },
+      "heldItem": "cobblemon:choice_band"
+    },
+    {
+      "species": "wugtrio",
+      "gender": "MALE",
+      "level": 100,
+      "nature": "adamant",
+      "ability": "gooey",
+      "moveset": [
+        "jetpunch",
+        "earthquake",
+        "swordsdance",
+        "thunderpunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spe": 252,
+        "hp": 4
+      },
+      "heldItem": "cobblemon:assault_vest"
+    }
+  ]
+}

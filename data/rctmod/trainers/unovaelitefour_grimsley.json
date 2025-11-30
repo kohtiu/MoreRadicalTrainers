@@ -1,0 +1,70 @@
+{
+  "name": "Grimsley",
+  "ai": {
+    "type": "rct",
+    "data": { "maxSelectMargin": 0.05 }
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "team": [
+    {
+      "species": "greninja",
+      "level": 85,
+      "nature": "timid",
+      "ability": "protean",
+      "moveset": ["hydropump", "darkpulse", "icebeam", "uturn"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "choice_specs"
+    },
+    {
+      "species": "scrafty",
+      "level": 83,
+      "nature": "careful",
+      "ability": "intimidate",
+      "moveset": ["drainpunch", "knockoff", "icepunch", "bulkup"],
+      "evs": { "hp": 252, "spd": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "krookodile",
+      "level": 84,
+      "nature": "jolly",
+      "ability": "moxie",
+      "moveset": ["earthquake", "knockoff", "stoneedge", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "kingambit",
+      "level": 85,
+      "nature": "adamant",
+      "ability": "supremeoverlord",
+      "moveset": ["kowtowcleave", "ironhead", "suckerpunch", "swordsdance"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "black_glasses"
+    },
+    {
+      "species": "grimmsnarl",
+      "level": 83,
+      "nature": "impish",
+      "ability": "prankster",
+      "moveset": ["spiritbreak", "reflect", "lightscreen", "taunt"],
+      "evs": { "hp": 252, "def": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "light_clay"
+    },
+    {
+      "species": "zarude",
+      "level": 85,
+      "nature": "jolly",
+      "ability": "leafguard",
+      "moveset": ["powerwhip", "closecombat", "uturn", "junglehealing"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "assault_vest"
+    }
+  ]
+}

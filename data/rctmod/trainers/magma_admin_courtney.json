@@ -1,0 +1,205 @@
+{
+  "name": "Magma Admin Courtney",
+  "identity": "Team Magma Admin",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "torkoal",
+      "gender": "MALE",
+      "level": 76,
+      "nature": "calm",
+      "ability": "drought",
+      "moveset": [
+        "lavaplume",
+        "stealthrock",
+        "willowisp",
+        "bodypress"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 248,
+        "atk": 0,
+        "def": 0,
+        "spa": 12,
+        "spd": 248,
+        "spe": 0
+      },
+      "heldItem": "heat_rock"
+    },
+    {
+      "species": "ceruledge",
+      "gender": "MALE",
+      "level": 78,
+      "nature": "",
+      "ability": "flashfire",
+      "moveset": [
+        "swordsdance",
+        "bitterblade",
+        "shadowsneak",
+        "poltergeist"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "turtonator",
+      "gender": "MALE",
+      "level": 78,
+      "nature": "",
+      "ability": "shellarmor",
+      "moveset": [
+        "shellsmash",
+        "fireblast",
+        "dracometeor",
+        "flashcannon"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "heldItem": "white_herb"
+    },
+    {
+      "species": "tauros",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "closecombat",
+        "ragingbull",
+        "flareblitz",
+        "trailblaze"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "aspects": [
+        "paldean", "blaze"
+      ],
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "houndoom",
+      "gender": "MALE",
+      "heldItem": "mega_showdown:houndoominite",
+      "level": 80,
+      "nature": "timid",
+      "ability": "solarpower",
+      "moveset": [
+        "nastyplot",
+        "darkpulse",
+        "sludgebomb",
+        "flamethrower"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      }
+    },
+    {
+      "species": "maractus",
+      "gender": "FEMALE",
+      "level": 76,
+      "nature": "mild",
+      "ability": "chlorophyll",
+      "moveset": [
+        "solarbeam",
+        "knockoff",
+        "hypervoice",
+        "weatherball"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 4,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "heldItem": "assault_vest"
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

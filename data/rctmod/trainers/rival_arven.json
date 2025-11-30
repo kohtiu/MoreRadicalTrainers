@@ -1,0 +1,145 @@
+{
+    "name": "Pokemon Trainer Arven",
+    "identity": "Rival",
+    "ai": {
+      "type": "rct",
+      "data": {
+        "maxSelectMargin": 0.15
+      }
+    },
+    "battleRules": {
+      "maxItemUses": 3
+    },
+    "bag": [
+      {
+        "item": "cobblemon:full_restore",
+        "quantity": 3
+      }
+    ],
+    "team": [
+      {
+        "species": "greedent",
+        "level": 95,
+        "moveset": ["bulletseed", "bodyslam", "psychicfangs", "earthquake"],
+        "heldItem": "cobblemon:sitrus_berry",
+        "nature": "adamant",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "atk": 252,
+          "def": 4
+        }
+      },
+      {
+        "species": "cloyster",
+        "level": 98,
+        "moveset": ["rockblast", "iciclespear", "liquidation", "lightscreen"],
+        "heldItem": "cobblemon:focus_sash",
+        "gimmicks": {
+          "tera": "water"
+        },
+        "nature": "jolly",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "atk": 252,
+          "spe": 252,
+          "hp": 4
+        }
+      },
+      {
+        "species": "scovillain",
+        "level": 93,
+        "moveset": ["fireblast", "energyball", "zenheadbutt", "crunch"],
+        "heldItem": "cobblemon:expert_belt",
+        "nature": "modest",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "spa": 252,
+          "spe": 4
+        }
+      },
+      {
+        "species": "toedscruel",
+        "level": 97,
+        "moveset": ["powerwhip", "earthpower", "spore", "sludgebomb"],
+        "heldItem": "cobblemon:focus_sash",
+        "nature": "modest",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "spa": 252,
+          "spe": 4
+        }
+      },
+      {
+        "species": "garganacl",
+        "level": 92,
+        "moveset": ["stoneedge", "bodypress", "earthquake", "stealthrock"],
+        "heldItem": "cobblemon:leftovers",
+        "nature": "careful",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "def": 252,
+          "spd": 4
+        }
+      },
+      {
+        "species": "mabosstiff",
+        "level": 96,
+        "moveset": ["crunch", "psychicfangs", "firefang", "playrough"],
+        "heldItem": "cobblemon:choice_band",
+        "nature": "adamant",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "atk": 252,
+          "def": 4
+        }
+      }
+    ],
+    "battleFormat": "GEN_9_SINGLES"
+  }

@@ -1,0 +1,19 @@
+{
+  "requiredDefeats": [
+    ["neoplasma_grunt_female_1"],
+    ["neoplasma_grunt_male_2"],
+    ["neoplasma_grunt_male_3"] 
+],
+  "series": [
+      "neoteamplasma"
+    ],  
+    "type": "neoteamplasma",
+    "maxTrainerWins": 5,
+    "spawnWeightFactor": 0.25,
+    "biomeTagBlacklist": ["is_water"],
+    "biomeTagWhitelist": 
+    [
+      "is_overworld"
+    ]
+
+  }

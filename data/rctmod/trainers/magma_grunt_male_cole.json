@@ -1,0 +1,111 @@
+{
+    "name": "Magma Grunt Cole",
+    "identity": "Team Magma Grunt",
+    "ai": {
+      "type": "rct",
+      "data": {
+        "moveBias": 1,
+        "statMoveBias": 0.1,
+        "switchBias": 0.65,
+        "itemBias": 1,
+        "maxSelectMargin": 0.15
+      }
+    },
+    "battleFormat": "GEN_9_DOUBLES",
+    "bag": [
+      {
+        "item": "cobblemon:hyper_potion",
+        "quantity": 2
+      }
+    ],
+    "team": [
+      {
+        "species": "bisharp",
+        "gender": "MALE",
+        "level": 70,
+        "nature": "adamant",
+        "ability": "defiant",
+        "moveset": [
+          "swordsdance",
+          "suckerpunch",
+          "ironhead",
+          "throatchop"
+        ],
+        "evs": {
+          "hp": 80,
+          "atk": 252,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 176
+        },
+        "heldItem": "cobblemon:eviolite"
+      },
+      {
+        "species": "claydol",
+        "gender": "GENDERLESS",
+        "level": 71,
+        "nature": "bold",
+        "ability": "levitate",
+        "moveset": [
+          "rapidspin",
+          "toxic",
+          "psychic",
+          "earthpower"
+        ],
+        "evs": {
+          "hp": 252,
+          "atk": 0,
+          "def": 120,
+          "spa": 0,
+          "spd": 0,
+          "spe": 136
+        },
+        "heldItem": "cobblemon:colbur_berry"
+      },
+      {
+        "species": "diggersby",
+        "gender": "MALE",
+        "level": 73,
+        "nature": "jolly",
+        "ability": "hugepower",
+        "moveset": [
+          "earthquake",
+          "return",
+          "firepunch",
+          "quickattack"
+        ],
+        "evs": {
+          "hp": 0,
+          "atk": 252,
+          "def": 4,
+          "spa": 0,
+          "spd": 0,
+          "spe": 252
+        },
+        "heldItem": "cobblemon:choice_band"
+      },
+      {
+        "species": "blaziken",
+        "gender": "MALE",
+        "level": 75,
+        "nature": "adamant",
+        "ability": "speedboost",
+        "moveset": [
+          "swordsdance",
+          "closecombat",
+          "flareblitz",
+          "protect"
+        ],
+        "evs": {
+          "hp": 0,
+          "atk": 252,
+          "def": 4,
+          "spa": 0,
+          "spd": 0,
+          "spe": 252
+        },
+        "heldItem": "cobblemon:life_orb"
+      }
+    ]
+  }

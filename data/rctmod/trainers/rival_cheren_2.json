@@ -1,0 +1,72 @@
+{
+  "name": "Cheren",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "team": [
+    {
+      "species": "servine",
+      "level": 26,
+      "nature": "timid",
+      "ability": "overgrow",
+      "moveset": ["leaftornado", "leechseed", "megadrain", "growth"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "miracle_seed"
+    },
+    {
+      "species": "tranquill",
+      "level": 25,
+      "nature": "jolly",
+      "ability": "superluck",
+      "moveset": ["aircutter", "quickattack", "roost", "taunt"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "sharp_beak"
+    },
+    {
+      "species": "herdier",
+      "level": 25,
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": ["takedown", "crunch", "dig", "workup"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "choice_band"
+    },
+    {
+      "species": "boldore",
+      "level": 24,
+      "nature": "brave",
+      "ability": "sturdy",
+      "moveset": ["stoneedge", "irondefense", "sandstorm", "stealthrock"],
+      "evs": { "def": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "hard_stone"
+    },
+    {
+      "species": "gurdurr",
+      "level": 26,
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": ["hammerarm", "stoneedge", "bulkup", "payback"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "black_belt"
+    },
+    {
+      "species": "simipour",
+      "level": 25,
+      "nature": "modest",
+      "ability": "gluttony",
+      "moveset": ["scald", "icebeam", "crunch", "nastyplot"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "mystic_water"
+    }
+  ]
+}

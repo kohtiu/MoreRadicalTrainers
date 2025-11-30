@@ -1,0 +1,111 @@
+{
+  "name": "Aqua Grunt Angie",
+  "identity": "Team Aqua Grunt",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "moveBias": 1,
+      "statMoveBias": 0.1,
+      "switchBias": 0.65,
+      "itemBias": 1,
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleFormat": "GEN_9_DOUBLES",
+  "bag": [
+    {
+      "item": "cobblemon:hyper_potion",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "swampert",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "careful",
+      "ability": "torrent",
+      "moveset": [
+        "earthquake",
+        "waterfall",
+        "stealthrock",
+        "roar"
+      ],
+      "evs": {
+        "hp": 252,
+        "atk": 24,
+        "def": 0,
+        "spa": 0,
+        "spd": 232,
+        "spe": 0
+      },
+      "heldItem": "cobblemon:leftovers"
+    },
+    {
+      "species": "toxapex",
+      "gender": "FEMALE",
+      "level": 72,
+      "nature": "impish",
+      "ability": "regenerator",
+      "moveset": [
+        "recover",
+        "haze",
+        "toxic",
+        "toxicspikes"
+      ],
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "heldItem": "cobblemon:rocky_helmet"
+    },
+    {
+      "species": "lanturn",
+      "gender": "FEMALE",
+      "level": 71,
+      "nature": "calm",
+      "ability": "voltabsorb",
+      "moveset": [
+        "voltswitch",
+        "scald",
+        "rest",
+        "sleeptalk"
+      ],
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "heldItem": "cobblemon:heavy_duty_boots"
+    },
+    {
+      "species": "crawdaunt",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "adamant",
+      "ability": "adaptability",
+      "moveset": [
+        "swordsdance",
+        "crabhammer",
+        "knockoff",
+        "aquajet"
+      ],
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": "cobblemon:life_orb"
+    }
+  ]
+}

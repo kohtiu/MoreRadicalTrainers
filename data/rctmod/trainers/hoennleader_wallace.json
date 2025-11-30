@@ -1,0 +1,193 @@
+{
+  "name": "Leader Wallace",
+  "identity": "Leader Wallace",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+   "team": [
+    {
+      "species": "milotic",
+"level": 68,
+      "ability": "competitive",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "scald",
+        "recover",
+        "icebeam",
+        "toxic"
+      ],
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "pelipper",
+"level": 66,
+      "ability": "drizzle",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 4,
+        "spd": 252,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "scald",
+        "hurricane",
+        "uturn",
+        "roost"
+      ],
+      "heldItem": "damp_rock"
+    },
+    {
+      "species": "barraskewda",
+"level": 68,
+      "ability": "swiftswim",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "liquidation",
+        "flipturn",
+        "closecombat",
+        "psychicfangs"
+      ],
+      "heldItem": "choice_band",
+      "nature": "jolly"
+    },
+    {
+      "species": "kingdra",
+"level": 68,
+      "ability": "swiftswim",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "weatherball",
+        "dracometeor",
+        "flipturn",
+        "hydropump"
+      ],
+      "heldItem": "choice_specs",
+      "nature": "modest"
+    },
+    {
+      "species": "swampert",
+"level": 66,
+      "ability": "torrent",
+      "evs": {
+        "hp": 240,
+        "atk": 0,
+        "def": 16,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "earthquake",
+        "stealthrock",
+        "roar",
+        "flipturn"
+      ],
+      "heldItem": "leftovers",
+      "nature": "sassy"
+    },
+    {
+      "species": "walkingwake",
+"level": 70,
+      "ability": "protosynthesis",
+      "evs": {
+        "hp": 12,
+        "atk": 0,
+        "def": 0,
+        "spa": 244,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "dracometeor",
+        "hydropump",
+        "scald",
+        "flamethrower"
+      ],
+      "heldItem": "choice_specs",
+      "nature": "timid"
+    }
+  ]
+}

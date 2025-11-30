@@ -1,0 +1,11 @@
+{
+       "series": [
+         "teamplasmasevensages"
+       ],  
+       "maxTrainerWins": 2,
+       "spawnWeightFactor": 0.25,
+       "biomeTagBlacklist": ["is_water"],
+       "biomeTagWhitelist": [
+       "is_badland", 
+      "is_savanna"]
+     }

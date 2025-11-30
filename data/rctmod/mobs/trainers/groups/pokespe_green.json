@@ -1,0 +1,13 @@
+{
+  "requiredDefeats": [
+    ["pokespe_silver"], ["pokespe_emerald"], ["pokespe_platinum"]
+  ],
+  "series": [
+      "pokespe"
+    ],  
+    "type": "pokespe",
+  "maxTrainerWins": 5,
+  "spawnWeightFactor": 0.25,
+  "biomeTagBlacklist": ["is_water"],
+  "biomeTagWhitelist": ["is_overworld"]
+}

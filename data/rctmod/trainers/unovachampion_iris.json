@@ -1,0 +1,70 @@
+{
+  "name": "Iris",
+  "ai": {
+    "type": "rct",
+    "data": { "maxSelectMargin": 0.05 }
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "team": [
+    {
+      "species": "haxorus",
+      "level": 98,
+      "nature": "jolly",
+      "ability": "moldbreaker",
+      "moveset": ["outrage", "earthquake", "poisonjab", "dragondance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "lum_berry"
+    },
+    {
+      "species": "hydreigon",
+      "level": 98,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": ["darkpulse", "dracometeor", "flamethrower", "uturn"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "choice_scarf"
+    },
+    {
+      "species": "dragonite",
+      "level": 98,
+      "nature": "adamant",
+      "ability": "multiscale",
+      "moveset": ["outrage", "earthquake", "extremespeed", "roost"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "heavy_duty_boots"
+    },
+    {
+      "species": "kommoo",
+      "level": 98,
+      "nature": "jolly",
+      "ability": "bulletproof",
+      "moveset": ["clangingscales", "drainpunch", "poisonjab", "stealthrock"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "salamence",
+      "level": 98,
+      "nature": "naive",
+      "ability": "moxie",
+      "moveset": ["dracometeor", "dualwingbeat", "fireblast", "roost"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "choice_scarf"
+    },
+    {
+      "species": "dragapult",
+      "level": 98,
+      "nature": "timid",
+      "ability": "infiltrator",
+      "moveset": ["dracometeor", "shadowball", "uturn", "thunderbolt"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "choice_specs"
+    }
+  ]
+}

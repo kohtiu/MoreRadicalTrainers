@@ -1,0 +1,187 @@
+{
+  "name": "Hoenn Elite Four Phoebe",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "moveBias": 0.85,
+      "statMoveBias": 0.7,
+      "switchBias": 0.8,
+      "itemBias": 0.8,
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "banette",
+      "heldItem": "mega_showdown:banettite",
+      "gender": "FEMALE",
+      "level": 80,
+      "nature": "adamant",
+      "ability": "prankster",
+      "moveset": [
+        "shadowclaw",
+        "willowisp",
+        "knockoff",
+        "destinybond"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 28,
+        "spa": 28,
+        "spd": 28,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 248,
+        "atk": 252,
+        "spe": 8
+      }
+    },
+    {
+      "species": "mismagius",
+      "gender": "FEMALE",
+      "level": 81,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "shadowball",
+        "dazzlinggleam",
+        "nastyplot",
+        "thunderbolt"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 28,
+        "def": 28,
+        "spa": 31,
+        "spd": 28,
+        "spe": 31
+      },
+      "evs": {
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": "cobblemon:choice_specs"
+    },
+    {
+      "species": "drifblim",
+      "gender": "MALE",
+      "level": 82,
+      "nature": "modest",
+      "ability": "unburden",
+      "moveset": [
+        "shadowball",
+        "calmmind",
+        "thunderbolt",
+        "destinybond"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 28,
+        "def": 28,
+        "spa": 31,
+        "spd": 28,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spa": 252,
+        "spe": 4
+      },
+      "heldItem": "cobblemon:sitrus_berry"
+    },
+    {
+      "species": "chandelure",
+      "gender": "FEMALE",
+      "level": 83,
+      "nature": "modest",
+      "ability": "flashfire",
+      "moveset": [
+        "shadowball",
+        "flamethrower",
+        "energyball",
+        "psychic"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 28,
+        "def": 28,
+        "spa": 31,
+        "spd": 28,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": "cobblemon:choice_scarf"
+    },
+    {
+      "species": "dusknoir",
+      "gender": "MALE",
+      "level": 84,
+      "nature": "brave",
+      "ability": "pressure",
+      "moveset": [
+        "shadowpunch",
+        "earthquake",
+        "trickroom",
+        "icepunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 28,
+        "spd": 31,
+        "spe": 0
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "spd": 4
+      },
+      "heldItem": "cobblemon:life_orb"
+    },
+    {
+      "species": "sableye",
+      "gender": "MALE",
+      "level": 85,
+      "nature": "impish",
+      "ability": "prankster",
+      "moveset": [
+        "willowisp",
+        "recover",
+        "knockoff",
+        "taunt"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 28,
+        "def": 31,
+        "spa": 28,
+        "spd": 31,
+        "spe": 28
+      },
+      "evs": {
+        "hp": 252,
+        "def": 252,
+        "spd": 4
+      }
+      
+    }
+  ]
+}

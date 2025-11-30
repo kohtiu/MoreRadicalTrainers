@@ -1,0 +1,70 @@
+{
+  "name": "Blake",
+  "ai": {
+    "type": "rct",
+    "data": { "maxSelectMargin": 0.05 }
+  },
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "samurott",
+      "level": 80,
+      "nature": "adamant",
+      "ability": "shellarmor",
+      "moveset": ["razorshell", "aquajet", "sacredsword", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "mystic_water"
+    },
+    {
+      "species": "genesect",
+      "level": 80,
+      "nature": "hasty",
+      "ability": "download",
+      "moveset": ["uturn", "ironhead", "flamethrower", "icebeam"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "choice_scarf"
+    },
+    {
+      "species": "keldeo",
+      "level": 80,
+      "nature": "timid",
+      "ability": "justified",
+      "moveset": ["hydropump", "secretsword", "icywind", "calmmind"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "kabutops",
+      "level": 75,
+      "nature": "jolly",
+      "ability": "swiftswim",
+      "moveset": ["liquidation", "stoneedge", "aquajet", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "damp_rock"
+    },
+    {
+      "species": "gliscor",
+      "level": 75,
+      "nature": "impish",
+      "ability": "poisonheal",
+      "moveset": ["earthquake", "toxic", "protect", "roost"],
+      "evs": { "hp": 252, "def": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "toxic_orb"
+    },
+    {
+      "species": "escavalier",
+      "level": 70,
+      "nature": "brave",
+      "ability": "overcoat",
+      "moveset": ["megahorn", "ironhead", "drillrun", "swordsdance"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "assault_vest"
+    }
+  ]
+}

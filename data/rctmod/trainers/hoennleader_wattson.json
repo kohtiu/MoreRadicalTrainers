@@ -1,0 +1,192 @@
+{
+  "name": "Leader Wattson",
+  "identity": "Leader Wattson",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "manectric",
+"level": 40,
+      "ability": "lightningrod",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 120,
+        "spd": 0,
+        "spe": 40
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "thunderbolt",
+        "voltswitch",
+        "flamethrower",
+        "protect"
+      ],
+      "heldItem": "choice_specs"
+    },
+    {
+      "species": "magnezone",
+"level": 38,
+      "ability": "magnetpull",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 120,
+        "spd": 0,
+        "spe": 40
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "discharge",
+        "flashcannon",
+        "steelbeam",
+        "triattack"
+      ],
+      "heldItem": "choice_specs"
+    },
+    {
+      "species": "electrode",
+"level": 38,
+      "ability": "static",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 80,
+        "spd": 0,
+        "spe": 120
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "thunderbolt",
+        "voltswitch",
+        "thunderwave",
+        "signalbeam"
+      ],
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "rotom",
+"level": 38,
+      "ability": "levitate",
+      "evs": {
+        "hp": 100,
+        "atk": 0,
+        "def": 0,
+        "spa": 4,
+        "spd": 80,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "hydropump",
+        "thunderbolt",
+        "willowisp",
+        "painsplit"
+      ],
+      "heldItem": "leftovers",
+      "aspects": [
+        "wash"
+      ]
+    },
+    {
+      "species": "jolteon",
+"level": 38,
+      "ability": "voltabsorb",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 100,
+        "spd": 0,
+        "spe": 100
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "thunderbolt",
+        "shadowball",
+        "calmmind",
+        "signalbeam"
+      ],
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "ampharos",
+"level": 36,
+      "ability": "static",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 100,
+        "spd": 60,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "thunderbolt",
+        "focusblast",
+        "voltswitch",
+        "signalbeam"
+      ],
+      "heldItem": "choice_specs"
+    }
+  ]
+}

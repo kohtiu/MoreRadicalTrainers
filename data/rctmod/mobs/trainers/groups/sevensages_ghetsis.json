@@ -1,0 +1,13 @@
+{
+  "requiredDefeats": [
+       ["sevensages_bronius"], ["sevensages_giallo"], ["sevensages_ryoku"],
+       ["sevensages_rood"], ["sevensages_gorm"], ["sevensages_zinzolin"]
+     ],
+       "series": [
+         "teamplasmasevensages"
+       ],  
+       "maxTrainerWins": 2,
+       "spawnWeightFactor": 0.25,
+       "biomeTagBlacklist": ["is_water"],
+       "biomeTagWhitelist": ["is_overworld"]
+     }

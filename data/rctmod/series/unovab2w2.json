@@ -1,0 +1,12 @@
+{
+    "description": "Battle the Gym leaders and Champion from Pokemon B2W2!",
+    "difficulty": 6,
+    "requiredSeries": [
+      [
+        "unovagymchallenge",
+        "unovaleague"
+      ]
+    ],
+    "title": "Unova (B2W2) Challenge"
+  }
+  

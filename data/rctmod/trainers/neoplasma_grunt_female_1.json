@@ -1,0 +1,71 @@
+{
+  "name": "Neo Plasma Grunt",
+  "identity": "A",
+  "ai": {
+    "type": "rct",
+    "data": { "maxSelectMargin": 0.1 }
+  },
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "krookodile",
+      "level": 80,
+      "nature": "jolly",
+      "ability": "moxie",
+      "moveset": ["earthquake", "knockoff", "stoneedge", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "mandibuzz",
+      "level": 78,
+      "nature": "bold",
+      "ability": "overcoat",
+      "moveset": ["foulplay", "roost", "toxic", "defog"],
+      "evs": { "hp": 252, "def": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "grimmsnarl",
+      "level": 78,
+      "nature": "impish",
+      "ability": "prankster",
+      "moveset": ["spiritbreak", "reflect", "lightscreen", "thunderwave"],
+      "evs": { "hp": 252, "def": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "light_clay"
+    },
+    {
+      "species": "obstagoon",
+      "level": 80,
+      "nature": "adamant",
+      "ability": "defiant",
+      "moveset": ["obstruct", "knockoff", "closecombat", "facade"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "flame_orb"
+    },
+    {
+      "species": "oranguru",
+      "level": 78,
+      "nature": "calm",
+      "ability": "telepathy",
+      "moveset": ["psychic", "instruct", "trickroom", "protect"],
+      "evs": { "hp": 252, "spd": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "sitrus_berry"
+    },
+    {
+      "species": "honchkrow",
+      "level": 80,
+      "nature": "adamant",
+      "ability": "moxie",
+      "moveset": ["bravebird", "suckerpunch", "superpower", "roost"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "sharp_beak"
+    }
+  ]
+}

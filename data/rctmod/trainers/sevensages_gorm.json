@@ -1,0 +1,70 @@
+{
+  "name": "Gorm",
+  "ai": {
+    "type": "rct",
+    "data": { "maxSelectMargin": 0.05 }
+  },
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "cofagrigus",
+      "level": 80,
+      "nature": "calm",
+      "ability": "mummy",
+      "moveset": ["shadowball", "toxic", "painsplit", "willowisp"],
+      "evs": { "hp": 252, "spd": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "sigilyph",
+      "level": 80,
+      "nature": "timid",
+      "ability": "magicguard",
+      "moveset": ["psychic", "airslash", "heatwave", "calmmind"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "maractus",
+      "level": 80,
+      "nature": "modest",
+      "ability": "stormdrain",
+      "moveset": ["energyball", "dazzlinggleam", "suckerpunch", "spikes"],
+      "evs": { "spa": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "big_root"
+    },
+    {
+      "species": "drifblim",
+      "level": 80,
+      "nature": "modest",
+      "ability": "unburden",
+      "moveset": ["shadowball", "thunderbolt", "calmmind", "strengthsap"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "psychic_seed"
+    },
+    {
+      "species": "mienshao",
+      "level": 80,
+      "nature": "jolly",
+      "ability": "regenerator",
+      "moveset": ["highjumpkick", "uturn", "poisonjab", "fakeout"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "fluttermane",
+      "level": 80,
+      "nature": "timid",
+      "ability": "protosynthesis",
+      "moveset": ["moonblast", "shadowball", "mysticalfire", "protect"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    }
+  ]
+}

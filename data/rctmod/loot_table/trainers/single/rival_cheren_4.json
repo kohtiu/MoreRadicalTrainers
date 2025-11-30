@@ -1,0 +1,195 @@
+{
+    "pools": [
+      {
+        "rolls": {
+          "min": 1,
+          "max": 6
+        },
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:calcium",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:black_sludge"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:choice_band"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:choice_scarf"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:choice_specs"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:flame_orb"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:leftovers"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:life_orb"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:toxic_orb"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:carbos",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:dawn_stone"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:dusk_stone"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:moon_stone"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:shiny_stone"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:sun_stone"
+          },
+
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:clever_feather",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:genius_feather",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:health_feather",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:hp_up",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:iron",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:muscle_feather",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:resist_feather",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:swift_feather",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Bronius",
+  "ai": {
+    "type": "rct",
+    "data": { "maxSelectMargin": 0.05 }
+  },
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "virizion",
+      "level": 80,
+      "nature": "jolly",
+      "ability": "justified",
+      "moveset": ["sacredsword", "leafblade", "stoneedge", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "toedscruel",
+      "level": 80,
+      "nature": "bold",
+      "ability": "myceliummight",
+      "moveset": ["spore", "gigadrain", "earthpower", "ragepowder"],
+      "evs": { "hp": 252, "def": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "big_root"
+    },
+    {
+      "species": "parasect",
+      "level": 80,
+      "nature": "adamant",
+      "ability": "dryskin",
+      "moveset": ["spore", "leechlife", "seedbomb", "protect"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "shiinotic",
+      "level": 80,
+      "nature": "calm",
+      "ability": "effectspore",
+      "moveset": ["spore", "moonblast", "strengthsap", "ragepowder"],
+      "evs": { "hp": 252, "spd": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "breloom",
+      "level": 80,
+      "nature": "jolly",
+      "ability": "technician",
+      "moveset": ["machpunch", "bulletseed", "spore", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "loaded_dice"
+    },
+    {
+      "species": "brutebonnet",
+      "level": 80,
+      "nature": "adamant",
+      "ability": "protosynthesis",
+      "moveset": ["crunch", "seedbomb", "suckerpunch", "protect"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "parent": "rctmod:trainers/defeat_paldealeader_katy",
+  "display": {
+    "title": {
+      "text": "Grass Badge"
+    },
+    "description": {
+      "text": "Defeat Leader Brassius"
+    },
+    "icon": {
+      "id": "cobblemon:poke_ball"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": ["paldealeader_brassius"]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

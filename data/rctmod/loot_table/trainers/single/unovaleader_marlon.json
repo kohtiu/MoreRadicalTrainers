@@ -1,0 +1,69 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemonpokemonbadges:cascade_badge",
+          "conditions": [
+            {
+              "condition": "rctmod:defeat_count",
+                "count": 1
+                  }
+              ]
+            } 
+          ]
+        },
+        {
+          "rolls": 4,
+          "entries": [
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:dive_rod"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:fossilized_fish"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:lure_rod"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:net_rod"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:pokerod_smithing_template"
+            },
+            {
+                  "type": "minecraft:item",
+                  "name": "minecraft:tide_armor_trim_smithing_template",
+                  "conditions": [
+                    {
+                      "condition": "rctmod:defeat_count",
+                        "count": 1
+                          }
+                      ]
+                    }
+              ]
+            },
+            {
+              "rolls": 1,
+              "entries": [
+                        {
+                          "type": "minecraft:item",
+                          "name": "simpletms:tm_acrobatics",
+                          "conditions": [
+                            {
+                              "condition": "rctmod:defeat_count",
+                                "count": 1
+                                  }
+                              ]
+                            }
+                  ]
+                }
+      ]
+    }

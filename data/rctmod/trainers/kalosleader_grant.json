@@ -1,0 +1,197 @@
+{
+    "name": "Grant",
+  "identity": "Kalos Leader Grant",
+    "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "lycanroc",
+      "level": 92,
+      "aspects": ["dusk"],
+      "ability": "toughclaws",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "stoneedge",
+        "accelerock",
+        "closecombat",
+        "psychicfangs"
+      ],
+      "heldItem": "choice_band",
+      "nature": "jolly"
+    },
+    {
+      "species": "tyrantrum",
+      "level": 92,
+      "ability": "rockhead",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "dragondance",
+        "scaleshot",
+        "headsmash",
+        "closecombat"
+      ],
+      "heldItem": "lum_berry",
+      "nature": "jolly"
+    },
+    {
+      "species": "archeops",
+      "level": 92,
+      "ability": "defeatist",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "meteorbeam",
+        "airslash",
+        "earthpower",
+        "stealthrock"
+      ],
+      "heldItem": "power_herb",
+      "nature": "timid"
+    },
+    {
+      "species": "carracosta",
+      "level": 92,
+      "ability": "solidrock",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 4,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "shellsmash",
+        "stoneedge",
+        "aquajet",
+        "icebeam"
+      ],
+      "heldItem": "white_herb",
+      "nature": "naive"
+    },
+    {
+      "species": "barbaracle",
+      "level": 92,
+      "ability": "toughclaws",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "shellsmash",
+        "liquidation",
+        "stoneedge",
+        "grassknot"
+      ],
+      "heldItem": "white_herb",
+      "nature": "jolly"
+    },
+    {
+      "species": "diancie",
+      "level": 94,
+      "heldItem": "mega_showdown:diancite",
+"ability": "magicbounce",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "moonblast",
+        "mysticalfire",
+        "earthpower",
+        "diamondstorm"
+      ],
+      "nature": "naive"
+    }
+  ],
+  "battleFormat": "GEN_9_SINGLES"
+}

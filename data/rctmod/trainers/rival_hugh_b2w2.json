@@ -1,0 +1,71 @@
+{
+  "name": "Hugh",
+  "ai": {
+    "type": "rct",
+    "data": { "maxSelectMargin": 0.05 }
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "team": [
+    {
+      "species": "emboar",
+      "level": 82,
+      "nature": "adamant",
+      "ability": "reckless",
+      "moveset": ["flareblitz", "wildcharge", "headsmash", "superpower"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "choice_band"
+    },
+    {
+      "species": "eelektross",
+      "level": 82,
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": ["thunderbolt", "flamethrower", "gigadrain", "uturn"],
+      "evs": { "spa": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "assault_vest"
+    },
+    {
+      "species": "excadrill",
+      "level": 82,
+      "nature": "jolly",
+      "ability": "moldbreaker",
+      "moveset": ["earthquake", "ironhead", "rockslide", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "lilligant",
+      "level": 82,
+      "nature": "timid",
+      "ability": "chlorophyll",
+      "aspects": ["hisuian"],
+      "moveset": ["victorydance", "leafstorm", "icebeam", "sleeppowder"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "haxorus",
+      "level": 82,
+      "nature": "jolly",
+      "ability": "moldbreaker",
+      "moveset": ["outrage", "earthquake", "poisonjab", "dragondance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "lum_berry"
+    },
+    {
+      "species": "zeraora",
+      "level": 82,
+      "nature": "jolly",
+      "ability": "voltabsorb",
+      "moveset": ["plasmafists", "closecombat", "voltswitch", "blazekick"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "magnet"
+    }
+  ]
+}

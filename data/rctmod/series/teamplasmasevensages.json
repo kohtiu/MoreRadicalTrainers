@@ -1,0 +1,12 @@
+{
+    "description": "Hunt down the Seven Sages of Team Plasma to put an end to their crimes for good!",
+    "difficulty": 6,
+    "requiredSeries": [
+      [
+        "unovaleague",
+        "teamplasma"
+      ]
+    ],
+    "title": "Team Plasma's Seven Sages"
+  }
+  

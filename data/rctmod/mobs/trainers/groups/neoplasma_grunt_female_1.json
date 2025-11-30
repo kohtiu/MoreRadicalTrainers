@@ -1,0 +1,16 @@
+{
+    "series": [
+      "neoteamplasma"
+    ],  
+    "type": "neoteamplasma",
+    "maxTrainerWins": 5,
+    "spawnWeightFactor": 0.25,
+    "biomeTagBlacklist": ["is_water"],
+    "biomeTagWhitelist": 
+    [
+      "has_structure/igloo",
+      "has_structure/village_snowy",
+      "is_cold"
+    ]
+
+  }

@@ -1,0 +1,194 @@
+{
+  "name": "Leader Roark",
+  "identity": "Leader Roark",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleFormat": "GEN_9_DOUBLES",
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:hyper_potion",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "golem",
+"level": 28,
+      "ability": "galvanize",
+      "evs": {
+        "hp": 0,
+        "atk": 100,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 60
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "wildcharge",
+        "stoneedge",
+        "earthquake",
+        "explosion"
+      ],
+      "aspects": [
+        "alolan"
+      ],
+      "heldItem": "choice_band"
+    },
+    {
+      "species": "pupitar",
+"level": 28,
+      "ability": "shedskin",
+      "evs": {
+        "hp": 100,
+        "atk": 4,
+        "def": 0,
+        "spa": 0,
+        "spd": 60,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "sandstorm",
+        "rockslide",
+        "stealthrock",
+        "protect"
+      ],
+      "heldItem": "smooth_rock",
+      "nature": "careful"
+    },
+    {
+      "species": "rampardos",
+"level": 30,
+      "ability": "moldbreaker",
+      "evs": {
+        "hp": 0,
+        "atk": 100,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 40
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "headsmash",
+        "earthquake",
+        "protect",
+        "stealthrock"
+      ],
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "kleavor",
+"level": 28,
+      "ability": "swarm",
+      "evs": {
+        "hp": 0,
+        "atk": 100,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 60
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "protect",
+        "stoneaxe",
+        "xscissor",
+        "closecombat"
+      ],
+      "heldItem": "hard_stone"
+    },
+    {
+      "species": "gigalith",
+"level": 26,
+      "ability": "sandforce",
+      "evs": {
+        "hp": 0,
+        "atk": 60,
+        "def": 4,
+        "spa": 0,
+        "spd": 40,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "stealthrock",
+        "sandstorm",
+        "protect",
+        "rockslide"
+      ],
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "rhyperior",
+      "ability": "solidrock",
+"level": 27,
+      "evs": {
+        "hp": 100,
+        "atk": 4,
+        "def": 0,
+        "spa": 0,
+        "spd": 60,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "rockslide",
+        "stealthrock",
+        "protect",
+        "surf"
+      ],
+      "heldItem": "rocky_helmet"
+    }
+  ]
+}

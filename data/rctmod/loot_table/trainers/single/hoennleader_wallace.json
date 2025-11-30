@@ -1,0 +1,49 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "cobblemonpokemonbadges:rain_badge",
+            "conditions": [
+              {
+                "condition": "rctmod:defeat_count",
+                  "count": 1
+                    }
+                ]
+              } 
+            ]
+          },
+          {
+            "rolls": 1,
+            "entries": [
+                  {
+                    "type": "minecraft:item",
+                    "name": "cobblemon:mystic_water",
+                    "conditions": [
+                      {
+                        "condition": "rctmod:defeat_count",
+                          "count": 1
+                            }
+                        ]
+                      }
+                ]
+              },
+              {
+                "rolls": 1,
+                "entries": [
+                          {
+                            "type": "minecraft:item",
+                            "name": "simpletms:tm_waterpulse",
+                            "conditions": [
+                              {
+                                "condition": "rctmod:defeat_count",
+                                  "count": 1
+                                    }
+                                ]
+                              }
+                    ]
+                  }
+        ]
+      }

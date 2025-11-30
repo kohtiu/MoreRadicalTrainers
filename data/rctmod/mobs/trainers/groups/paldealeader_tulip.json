@@ -1,0 +1,10 @@
+{
+  "series": [
+    "paldeagymchallenge"
+  ],  
+  "type": "gymleader_paldea",
+  "maxTrainerWins": 5,
+  "spawnWeightFactor": 0.25,
+  "biomeTagBlacklist": ["is_water"],
+  "biomeTagWhitelist": ["is_overworld"]
+}

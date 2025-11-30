@@ -1,0 +1,11 @@
+{
+  "requiredDefeats": [
+    ["magma_admin_tabitha"], ["magma_admin_courtney"], ["magma_admin_blaise"]
+  ],
+    "maxTrainerWins": 2,
+    "type": "team_magma",
+    "spawnWeightFactor": 0.25,
+    "series": ["teammagma"],
+    "biomeTagBlacklist": ["is_water"],
+    "biomeTagWhitelist": ["is_nether"]
+  }

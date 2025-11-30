@@ -1,0 +1,175 @@
+{
+  "name": "Rival Hugh",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "moveBias": 0.95,
+      "statMoveBias": 0.25,
+      "switchBias": 0.75,
+      "itemBias": 0.85
+    }
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "bag": [
+    {
+      "item": "cobblemon:super_potion",
+      "quantity": 1
+    },
+    {
+      "item": "cobblemon:oran_berry",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "tepig",
+      "gender": "MALE",
+      "level": 15,
+      "nature": "adamant",
+      "ability": "blaze",
+      "moveset": [
+        "tackle",
+        "tailwhip",
+        "ember",
+        "odorsleuth"
+      ],
+      "ivs": {
+        "hp": 22,
+        "atk": 24,
+        "def": 20,
+        "spa": 20,
+        "spd": 20,
+        "spe": 20
+      },
+      "evs": {
+        "atk": 20,
+        "hp": 16
+      }
+    },
+    {
+      "species": "blitzle",
+      "gender": "MALE",
+      "level": 14,
+      "nature": "jolly",
+      "ability": "lightningrod",
+      "moveset": [
+        "quickattack",
+        "tailwhip",
+        "charge",
+        "shockwave"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 22,
+        "def": 19,
+        "spa": 20,
+        "spd": 19,
+        "spe": 24
+      },
+      "evs": {
+        "atk": 16,
+        "spe": 16
+      }
+    },
+    {
+      "species": "drilbur",
+      "gender": "MALE",
+      "level": 14,
+      "nature": "adamant",
+      "ability": "sandrush",
+      "moveset": [
+        "scratch",
+        "mudslap",
+        "rapidspin",
+        "furyswipes"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 24,
+        "def": 22,
+        "spa": 18,
+        "spd": 18,
+        "spe": 20
+      },
+      "evs": {
+        "atk": 16,
+        "spe": 16
+      }
+    },
+    {
+      "species": "tympole",
+      "gender": "FEMALE",
+      "level": 13,
+      "nature": "modest",
+      "ability": "swiftswim",
+      "moveset": [
+        "bubble",
+        "supersonic",
+        "round",
+        "mudshot"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 18,
+        "def": 19,
+        "spa": 23,
+        "spd": 19,
+        "spe": 21
+      },
+      "evs": {
+        "spa": 16,
+        "spe": 8
+      }
+    },
+    {
+      "species": "tynamo",
+      "gender": "FEMALE",
+      "level": 13,
+      "nature": "jolly",
+      "ability": "levitate",
+      "moveset": [
+        "tackle",
+        "thunderwave",
+        "spark",
+        "chargebeam"
+      ],
+      "ivs": {
+        "hp": 19,
+        "atk": 22,
+        "def": 19,
+        "spa": 19,
+        "spd": 19,
+        "spe": 23
+      },
+      "evs": {
+        "atk": 16,
+        "spe": 8
+      }
+    },
+    {
+      "species": "pansage",
+      "gender": "MALE",
+      "level": 14,
+      "nature": "jolly",
+      "ability": "gluttony",
+      "moveset": [
+        "scratch",
+        "leer",
+        "lick",
+        "vinewhip"
+      ],
+      "ivs": {
+        "hp": 20,
+        "atk": 22,
+        "def": 19,
+        "spa": 20,
+        "spd": 19,
+        "spe": 22
+      },
+      "evs": {
+        "atk": 16,
+        "spe": 16
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "parent": "rctmod:trainers/defeat_hoennleader_flannery",
+  "display": {
+    "title": {
+      "text": "Balance Badge"
+    },
+    "description": {
+      "text": "Defeat Leader Norman"
+    },
+    "icon": {
+      "id": "cobblemonpokemonbadges:balance_badge"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": ["hoennleader_norman"]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

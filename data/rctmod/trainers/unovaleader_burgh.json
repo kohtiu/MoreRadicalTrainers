@@ -1,0 +1,189 @@
+{
+  "name": "Burgh",
+  "identity": "Unova Leader Burgh",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "scolipede",
+"level": 38,
+      "ability": "speedboost",
+      "evs": {
+        "hp": 0,
+        "atk": 100,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 60
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "megahorn",
+        "protect",
+        "rockslide",
+        "batonpass"
+      ],
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "galvantula",
+"level": 38,
+      "ability": "compoundeyes",
+      "evs": {
+        "hp": 40,
+        "atk": 0,
+        "def": 4,
+        "spa": 100,
+        "spd": 40,
+        "spe": 60
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "discharge",
+        "bugbuzz",
+        "voltswitch",
+        "stickyweb"
+      ],
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "leavanny",
+"level": 38,
+      "ability": "chlorophyll",
+      "evs": {
+        "hp": 0,
+        "atk": 100,
+        "def": 4,
+        "spa": 0,
+        "spd": 40,
+        "spe": 80
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "leafblade",
+        "xscissor",
+        "knockoff",
+        "stickyweb"
+      ],
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "ribombee",
+"level": 38,
+      "ability": "honeygather",
+      "evs": {
+        "hp": 60,
+        "atk": 0,
+        "def": 4,
+        "spa": 100,
+        "spd": 60,
+        "spe": 60
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "bugbuzz",
+        "psychic",
+        "stickyweb",
+        "dazzlinggleam"
+      ],
+      "heldItem": "choice_specs"
+    },
+    {
+      "species": "frosmoth",
+"level": 38,
+      "ability": "icescales",
+      "evs": {
+        "hp": 60,
+        "atk": 0,
+        "def": 60,
+        "spa": 40,
+        "spd": 252,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "hurricane",
+        "bugbuzz",
+        "quiverdance",
+        "substitute"
+      ],
+      "heldItem": "heavy_duty_boots"
+    },
+    {
+      "species": "vivillon",
+"level": 38,
+      "ability": "compoundeyes",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 100,
+        "spd": 0,
+        "spe": 100
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "hurricane",
+        "substitute",
+        "sleeppowder",
+        "quiverdance"
+      ],
+      "heldItem": "leftovers"
+    }
+  ]
+}

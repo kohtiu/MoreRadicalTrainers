@@ -1,0 +1,125 @@
+{
+  "name": "Team Star Mela",
+"identity": "Team Star",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+      {
+        "species": "torkoal",
+        "level": 98,
+        "moveset": ["bodypress", "yawn", "flareblitz", "stoneedge"],
+        "heldItem": "cobblemon:heat_rock",
+        "nature": "brave",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "atk": 252,
+          "def": 4
+        }
+      },
+      {
+        "species": "coalossal",
+        "level": 99,
+        "moveset": ["heatcrash", "rockblast", "bodypress", "earthquake"],
+        "heldItem": "cobblemon:weakness_policy",
+        "nature": "brave",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "atk": 252,
+          "def": 4
+        }
+      },
+      {
+        "species": "houndoom",
+        "level": 92,
+        "moveset": ["fireblast", "darkpulse", "sludgebomb", "thunderfang"],
+        "heldItem": "cobblemon:choice_specs",
+        "nature": "timid",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "spa": 252,
+          "hp": 4,
+          "spe": 252
+        }
+      },
+      {
+        "species": "arcanine",
+        "level": 97,
+        "moveset": ["flareblitz", "extremespeed", "closecombat", "overheat"],
+        "heldItem": "cobblemon:charcoal_stick",
+        "nature": "jolly",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        }
+      },
+      {
+        "species": "armarouge",
+        "level": 100,
+        "moveset": ["aurasphere", "armorcannon", "energyball", "psychic"],
+        "heldItem": "cobblemon:focus_sash",
+         "gimmicks": {
+          "tera": "fire"
+        },
+        "nature": "modest",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "spa": 252,
+          "hp": 4,
+          "spe": 252
+        }
+      }
+    ],
+  "battleFormat": "GEN_9_SINGLES"
+}

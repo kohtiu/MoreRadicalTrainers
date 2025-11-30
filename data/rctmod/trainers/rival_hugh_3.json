@@ -1,0 +1,72 @@
+{
+  "name": "Hugh",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "team": [
+    {
+      "species": "emboar",
+      "level": 64,
+      "nature": "adamant",
+      "ability": "blaze",
+      "moveset": ["flareblitz", "hammerarm", "headsmash", "wildcharge"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "charcoal_stick"
+    },
+    {
+      "species": "zebstrika",
+      "level": 64,
+      "nature": "jolly",
+      "ability": "motordrive",
+      "moveset": ["wildcharge", "flamecharge", "overheat", "voltswitch"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "magnet"
+    },
+    {
+      "species": "excadrill",
+      "level": 64,
+      "nature": "adamant",
+      "ability": "sandrush",
+      "moveset": ["earthquake", "ironhead", "rockslide", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "seismitoad",
+      "level": 64,
+      "nature": "adamant",
+      "ability": "swiftswim",
+      "moveset": ["liquidation", "earthquake", "poisonjab", "raindance"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "mystic_water"
+    },
+    {
+      "species": "eelektross",
+      "level": 64,
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": ["thunderbolt", "flamethrower", "gigadrain", "uturn"],
+      "evs": { "spa": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "expert_belt"
+    },
+    {
+      "species": "lilligant",
+      "level": 64,
+      "nature": "timid",
+      "ability": "chlorophyll",
+      "moveset": ["petaldance", "quiverdance", "sleeppowder", "sunnyday"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    }
+  ]
+}

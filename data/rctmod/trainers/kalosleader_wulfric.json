@@ -1,0 +1,199 @@
+{
+    "name": "Wulfric",
+  "identity": "Kalos Leader Wulfric",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "abomasnow",
+      "level": 99,
+      "heldItem": "mega_showdown:abomasite",
+      "ability": "snowwarning",
+      "evs": {
+        "hp": 248,
+        "atk": 8,
+        "def": 0,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "blizzard",
+        "gigadrain",
+        "earthquake",
+        "substitute"
+      ],
+      "nature": "quiet"
+    },
+    {
+      "species": "avalugg",
+      "level": 99,
+      "ability": "sturdy",
+      "evs": {
+        "hp": 252,
+        "atk": 4,
+        "def": 252,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "recover",
+        "avalanche",
+        "protect",
+        "bodypress"
+      ],
+      "heldItem": "heavy_duty_boots",
+      "nature": "impish"
+    },
+    {
+      "species": "cetitan",
+      "level": 99,
+      "ability": "slushrush",
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "bellydrum",
+        "iciclecrash",
+        "earthquake",
+        "protect"
+      ],
+      "heldItem": "sitrus_berry",
+      "nature": "jolly"
+    },
+    {
+      "species": "darmanitan",
+      "level": 98,
+      "ability": "gorillatactics",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "iciclecrash",
+        "flareblitz",
+        "earthquake",
+        "uturn"
+      ],
+      "aspects": [
+        "galarian"
+      ],
+      "heldItem": "choice_scarf",
+      "nature": "jolly"
+    },
+    {
+      "species": "mrrime",
+      "level": 98,
+      "ability": "icebody",
+      "evs": {
+        "hp": 240,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 16
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "protect",
+        "slackoff",
+        "freezedry",
+        "futuresight"
+      ],
+      "heldItem": "heavy_duty_boots",
+      "nature": "modest"
+    },
+    {
+      "species": "aurorus",
+      "level": 99,
+      "ability": "snowwarning",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "meteorbeam",
+        "blizzard",
+        "earthpower",
+        "stealthrock"
+      ],
+      "heldItem": "power_herb",
+      "nature": "modest"
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

@@ -1,0 +1,20 @@
+{
+  "requiredDefeats": [
+    ["aqua_admin_matt"], ["aqua_admin_shelly"], ["aqua_admin_amber"]
+  ],
+    "maxTrainerWins": 2,
+    "type": "team_aqua",
+    "series": ["teamaqua"],
+    "spawnWeightFactor": 0.25,
+    "biomeTagBlacklist": [
+    "is_void",
+    "is_underground",
+    "is_nether",
+    "is_end"
+  ],
+  "biomeTagWhitelist": [
+      "is_wet",
+      "is_water",
+      "is_river",
+      "is_beach"
+    ]}

@@ -1,0 +1,26 @@
+{
+    "battle_start": [
+      "Let us test your ‘bond.’ Will it shatter under truth’s weight?",
+      "The path to enlightenment is paved with shattered illusions."
+    ],
+    "battle_lost": [
+      "Hmm… Your conviction surprises. But is it *righteous*?",
+      "A flawed heart… yet persistent. We shall watch."
+    ],
+    "battle_won": [
+      "Your defeat nourishes our noble cause. Rejoice.",
+      "Truth prevails. Your Pokémon… pity you."
+    ],
+    "done_looser": [
+      "Stubborn child. The future belongs to Plasma.",
+      "Your persistence… intrigues. But truth cannot be unwritten."
+    ],
+    "done_winner": [
+      "Another soul shackled. How… predictable.",
+      "Your victory is a pebble in the river of destiny."
+    ],
+    "done_generic": [
+      "Enough. The gears of fate turn without you.",
+      "Your presence… disrupts harmony. Depart."
+    ]
+  }

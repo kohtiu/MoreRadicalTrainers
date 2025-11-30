@@ -1,0 +1,197 @@
+{
+    "name": "Olympia",
+  "identity": "Kalos Leader Olympia",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "sigilyph",
+      "level": 98,
+      "ability": "magicguard",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "expandingforce",
+        "heatwave",
+        "roost",
+        "defog"
+      ],
+      "heldItem": "life_orb",
+      "nature": "timid"
+    },
+    {
+      "species": "screamtail",
+      "level": 97,
+      "ability": "protosynthesis",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "calmmind",
+        "flamethrower",
+        "boomburst",
+        "expandingforce"
+      ],
+      "heldItem": "leftovers",
+      "nature": "timid"
+    },
+    {
+      "species": "alakazam",
+      "level": 98,
+      "heldItem": "mega_showdown:alakazite",
+      "ability": "trace",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "expandingforce",
+        "focusblast",
+        "shadowball",
+        "energyball"
+      ],
+      "nature": "timid"
+    },
+    {
+      "species": "malamar",
+      "level": 98,
+      "ability": "contrary",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "knockoff",
+        "superpower",
+        "psychocut",
+        "switcheroo"
+      ],
+      "heldItem": "choice_scarf",
+      "nature": "jolly"
+    },
+    {
+      "species": "delphox",
+      "level": 97,
+      "ability": "blaze",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "nastyplot",
+        "fireblast",
+        "expandingforce",
+        "encore"
+      ],
+      "heldItem": "heavy_duty_boots",
+      "nature": "timid"
+    },
+    {
+      "species": "indeedee",
+      "level": 96,
+      "gender": "FEMALE",
+      "ability": "psychicsurge",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 4,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "expandingforce",
+        "lightscreen",
+        "reflect",
+        "aromatherapy"
+      ],
+      "heldItem": "terrain_extender",
+      "nature": "timid"
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

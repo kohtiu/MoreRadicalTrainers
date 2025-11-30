@@ -1,0 +1,73 @@
+{
+  "name": "Hugh",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "team": [
+    {
+      "species": "pignite",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "adamant",
+      "ability": "blaze",
+      "moveset": ["flamecharge", "armthrust", "tackle", "rockslide"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "charcoal_stick"
+    },
+    {
+      "species": "zebstrika",
+      "level": 25,
+      "nature": "jolly",
+      "ability": "lightningrod",
+      "moveset": ["spark", "quickattack", "flamecharge", "thunderwave"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "magnet"
+    },
+    {
+      "species": "excadrill",
+      "level": 26,
+      "nature": "adamant",
+      "ability": "sandrush",
+      "moveset": ["metalclaw", "dig", "rockslide", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "soft_sand"
+    },
+    {
+      "species": "palpitoad",
+      "level": 24,
+      "nature": "modest",
+      "ability": "hydration",
+      "moveset": ["bubblebeam", "mudshot", "supersonic", "raindance"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "mystic_water"
+    },
+    {
+      "species": "eelektrik",
+      "level": 25,
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": ["thunderbolt", "acidspray", "crunch", "thunderwave"],
+      "evs": { "spa": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "magnet"
+    },
+    {
+      "species": "simisage",
+      "level": 25,
+      "nature": "jolly",
+      "ability": "gluttony",
+      "moveset": ["seedbomb", "bite", "rockslide", "leer"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "miracle_seed"
+    }
+  ]
+}

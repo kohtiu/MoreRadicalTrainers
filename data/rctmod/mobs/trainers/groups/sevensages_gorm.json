@@ -1,0 +1,12 @@
+{
+       "series": [
+         "teamplasmasevensages"
+       ],  
+       "maxTrainerWins": 2,
+       "spawnWeightFactor": 0.25,
+       "biomeTagBlacklist": ["is_water"],
+       "biomeTagWhitelist": [
+        "is_nether",
+        "has_structure/desert_pyramid",
+      "has_structure/village_desert" ]
+     }

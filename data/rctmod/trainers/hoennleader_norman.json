@@ -1,0 +1,190 @@
+{
+  "name": "Leader Norman",
+  "identity": "Leader Norman",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "slaking",
+"level": 50,
+      "ability": "truant",
+      "evs": {
+        "hp": 252,
+        "atk": 4,
+        "def": 0,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "earthquake",
+        "gigaimpact",
+        "nightslash",
+        "bulkup"
+      ],
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "grafaiai",
+"level": 50,
+      "ability": "unburden",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "knockoff",
+        "doodle",
+        "poisonjab",
+        "acrobatics"
+      ],
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "maushold",
+"level": 50,
+      "ability": "technician",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "populationbomb",
+        "tidyup",
+        "playrough",
+        "bulletseed"
+      ],
+      "heldItem": "loaded_dice",
+      "nature": "jolly"
+    },
+    {
+      "species": "obstagoon",
+"level": 52,
+      "ability": "guts",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "facade",
+        "closecombat",
+        "knockoff",
+        "icepunch"
+      ],
+      "heldItem": "flame_orb"
+    },
+    {
+      "species": "exploud",
+"level": 48,
+      "ability": "soundproof",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "boomburst",
+        "fireblast",
+        "surf",
+        "focusblast"
+      ],
+      "heldItem": "choice_specs"
+    },
+    {
+      "species": "blissey",
+"level": 48,
+      "ability": "naturalcure",
+      "evs": {
+        "hp": 252,
+        "atk": 1,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "healpulse",
+        "seismictoss",
+        "stealthrock",
+        "toxic"
+      ],
+      "heldItem": "leftovers"
+    }
+  ]
+}

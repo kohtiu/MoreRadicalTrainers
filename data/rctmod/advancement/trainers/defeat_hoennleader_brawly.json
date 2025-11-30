@@ -1,0 +1,31 @@
+{
+  "parent": "rctmod:trainers/defeat_hoennleader_roxanne",
+  "display": {
+    "title": {
+      "text": "Knuckle Badge"
+    },
+    "description": {
+      "text": "Defeat Leader Brawly"
+    },
+    "icon": {
+      "id": "cobblemonpokemonbadges:knuckle_badge"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": ["hoennleader_brawly"]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

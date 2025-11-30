@@ -1,0 +1,73 @@
+{
+  "name": "Plasma Grunt",
+  "identity": "Plasma Fighter",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1
+    }
+  },
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "liepard",
+      "level": 72,
+      "nature": "jolly",
+      "ability": "limber",
+      "moveset": ["nightslash", "playrough", "uturn", "taunt"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "black_glasses"
+    },
+    {
+      "species": "perrserker",
+      "level": 72,
+      "nature": "adamant",
+      "ability": "toughclaws",
+      "moveset": ["ironhead", "closecombat", "uturn", "swordsdance"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "metal_coat"
+    },
+    {
+      "species": "purugly",
+      "level": 72,
+      "nature": "jolly",
+      "ability": "defiant",
+      "moveset": ["fakeout", "bodyslam", "uturn", "playrough"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "silk_scarf"
+    },
+    {
+      "species": "meowscarada",
+      "level": 72,
+      "nature": "jolly",
+      "ability": "overgrow",
+      "moveset": ["flowertrick", "knockoff", "uturn", "suckerpunch"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "incineroar",
+      "level": 72,
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": ["flareblitz", "darkestlariat", "earthquake", "partingshot"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "assault_vest"
+    },
+    {
+      "species": "pyroar",
+      "level": 72,
+      "nature": "modest",
+      "ability": "unnerve",
+      "moveset": ["flamethrower", "hypervoice", "darkpulse", "willowisp"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "charcoal_stick"
+    }
+  ]
+}

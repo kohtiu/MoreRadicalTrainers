@@ -1,0 +1,202 @@
+{
+  "name": "Platinum",
+  "identity": "PokeSpe Trainer",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "empoleon",
+      "gender": "FEMALE",
+      "level": 80,
+      "nature": "modest",
+      "ability": "competitive",
+      "moveset": [
+        "surf",
+        "icebeam",
+        "grassknot",
+        "roost"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 144,
+        "atk": 0,
+        "def": 0,
+        "spa": 148,
+        "spd": 0,
+        "spe": 216
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "rapidash",
+      "gender": "FEMALE",
+      "level": 80,
+      "nature": "jolly",
+      "ability": "flashfire",
+      "moveset": [
+        "flareblitz",
+        "wildcharge",
+        "highhorsepower",
+        "morningsun"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "lopunny",
+      "gender": "FEMALE",
+      "level": 80,
+      "nature": "jolly",
+      "ability": "scrappy",
+      "heldItem": "mega_showdown:lopunnite",
+      "moveset": [
+        "switcheroo",
+        "healingwish",
+        "uturn",
+        "thunderwave"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      }
+    },
+    {
+      "species": "froslass",
+      "gender": "GENDERLESS",
+      "level": 80,
+      "nature": "jolly",
+      "ability": "cursedbody",
+      "moveset": [
+        "tripleaxel",
+        "poltergeist",
+        "taunt",
+        "spikes"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": "heavy_duty_boots"
+    },
+    {
+      "species": "cherrim",
+      "gender": "FEMALE",
+      "level": 80,
+      "nature": "timid",
+      "ability": "flowergift",
+      "moveset": [
+        "sunnyday",
+        "aromatherapy",
+        "energyball",
+        "dazzlinggleam"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": "heat_rock"
+    },
+    {
+      "species": "pachirisu",
+      "gender": "FEMALE",
+      "level": 80,
+      "nature": "impish",
+      "ability": "voltabsorb",
+      "moveset": [
+        "nuzzle",
+        "toxic",
+        "uturn",
+        "superfang"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "heldItem": "leftovers"
+    }
+  ],
+  "battleFormat": "GEN_9_SINGLES"
+}

@@ -1,0 +1,74 @@
+{
+  "name": "Plasma Grunt",
+  "identity": "Plasma Liberator",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1
+    }
+  },
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "mabosstiff",
+      "level": 70,
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": ["crunch", "playrough", "firefang", "psychicfangs"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "assault_vest"
+    },
+    {
+      "species": "stoutland",
+      "level": 70,
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": ["retaliate", "wildcharge", "crunch", "workup"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "arcanine",
+      "level": 70,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": ["flareblitz", "extremespeed", "wildcharge", "morningsun"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "choice_band"
+    },
+    {
+      "species": "boltund",
+      "level": 70,
+      "nature": "timid",
+      "ability": "strongjaw",
+      "moveset": ["thunderbolt", "voltswitch", "crunch", "icefang"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "magnet"
+    },
+    {
+      "species": "lycanroc",
+      "level": 70,
+      "nature": "jolly",
+      "ability": "sandrush",
+      "aspects": ["midday"],
+      "moveset": ["stoneedge", "accelerock", "closecombat", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "houndstone",
+      "level": 70,
+      "nature": "impish",
+      "ability": "fluffy",
+      "moveset": ["shadowball", "bodypress", "willowisp", "rest"],
+      "evs": { "def": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "rocky_helmet"
+    }
+  ]
+}

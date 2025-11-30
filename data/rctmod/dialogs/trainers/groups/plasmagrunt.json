@@ -1,0 +1,35 @@
+{
+    "battle_start": [
+      "Surrender your Pokémon. Liberation is mercy.",
+      "You cling to chains. We break them.",
+      "Our cause is pure. Your resistance is futile."
+    ],
+    "battle_lost": [
+      "This... is a temporary setback for the greater good.",
+      "Even in loss, Plasma’s truth spreads."
+    ],
+    "battle_won": [
+      "Another soul freed from human tyranny.",
+      "Your Pokémon thank us. You just don’t know it yet."
+    ],
+    "done_looser": [
+      "Ghetsis’s vision cannot be unwritten.",
+      "Your ‘victory’ only delays enlightenment."
+    ],
+    "done_winner": [
+      "Return to your cage. We’ll dismantle it soon.",
+      "A hollow triumph. Plasma’s tide cannot be dammed."
+    ],
+    "done_generic": [
+      "Enough. The sages will enlighten you.",
+      "Depart. Your ignorance wearies me."
+    ],
+    "is_busy": [
+      "Interrupting sacred work? How... *human*.",
+      "Our rituals require focus. Vanish."
+    ],
+    "on_cooldown": [
+      "Even shadows rest. Return later.",
+      "Regrouping. The light of Plasma endures."
+    ]
+  }

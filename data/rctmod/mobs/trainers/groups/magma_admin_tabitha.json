@@ -1,0 +1,11 @@
+{
+  "requiredDefeats": [
+    ["magma_grunt_female_micah"]
+  ],
+    "maxTrainerWins": 5,
+    "series": ["teammagma"],
+    "type": "team_magma",
+    "spawnWeightFactor": 0.25,
+    "biomeTagBlacklist": ["is_water"],
+    "biomeTagWhitelist": ["is_nether"]
+  }

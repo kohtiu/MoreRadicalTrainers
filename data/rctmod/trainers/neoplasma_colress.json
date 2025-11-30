@@ -1,0 +1,71 @@
+{
+  "name": "Colress",
+  "ai": {
+    "type": "rct",
+    "data": { "maxSelectMargin": 0.05 }
+  },
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "kyurem",
+      "level": 90,
+      "nature": "timid",
+      "ability": "turboblaze",
+      "aspects": ["white"],
+      "moveset": ["icebeam", "fusionflare", "earthpower", "dracometeor"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "choice_scarf"
+    },
+    {
+      "species": "klinklang",
+      "level": 90,
+      "nature": "adamant",
+      "ability": "clearbody",
+      "moveset": ["geargrind", "voltswitch", "shiftgear", "wildcharge"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "metal_coat"
+    },
+    {
+      "species": "magnezone",
+      "level": 90,
+      "nature": "modest",
+      "ability": "magnetpull",
+      "moveset": ["thunderbolt", "flashcannon", "voltswitch", "triattack"],
+      "evs": { "spa": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "choice_specs"
+    },
+    {
+      "species": "beheeyem",
+      "level": 90,
+      "nature": "quiet",
+      "ability": "telepathy",
+      "moveset": ["psychic", "thunderbolt", "trickroom", "recover"],
+      "evs": { "spa": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "twisted_spoon"
+    },
+    {
+      "species": "porygonz",
+      "level": 90,
+      "nature": "timid",
+      "ability": "adaptability",
+      "moveset": ["triattack", "darkpulse", "thunderbolt", "nastyplot"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "ironvaliant",
+      "level": 90,
+      "nature": "jolly",
+      "ability": "quarkdrive",
+      "moveset": ["spiritbreak", "closecombat", "leafblade", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    }
+  ]
+}

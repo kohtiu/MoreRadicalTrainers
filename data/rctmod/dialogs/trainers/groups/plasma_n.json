@@ -1,0 +1,26 @@
+{
+    "battle_start": [
+      "Let us fight. My heart aches for their liberation.",
+      "I’ll show you the beauty of a world where Pokémon are free."
+    ],
+    "battle_lost": [
+      "Your resolve… It’s stronger than I imagined.",
+      "Perhaps… there’s another path. But I cannot yield yet."
+    ],
+    "battle_won": [
+      "This victory… it feels hollow. Can’t you see why?",
+      "Your Pokémon… They deserve better than this."
+    ],
+    "done_looser": [
+      "Don’t give up. For them… keep trying.",
+      "Your heart… it’s conflicted. Seek clarity, for their sake."
+    ],
+    "done_winner": [
+      "I’m sorry. But this is… for their future.",
+      "Your loss pains me. But it’s… necessary."
+    ],
+    "done_generic": [
+      "Farewell. May we meet again in a better world.",
+      "Our paths diverge… but perhaps not forever."
+    ]
+  }

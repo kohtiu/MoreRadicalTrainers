@@ -1,0 +1,34 @@
+{  
+  "battle_start": [  
+    "... ...Mission parameters set. Eliminate target.",  
+    "No words. Only shadows. Begin."  
+  ],  
+  "battle_lost": [  
+    "... ...Retreat protocol engaged.",  
+    "Unanticipated variable. Lord Ghetsis... will adjust."  
+  ],  
+  "battle_won": [  
+    "... ...Target neutralized.",  
+    "Fate aligns with Plasma’s design."  
+  ],  
+  "done_looser": [  
+    "... ...Lord Ghetsis’s vision persists. You delay, not deny.",  
+    "A shadow cannot be extinguished."  
+  ],  
+  "done_winner": [  
+    "... ...Another pawn erased. Irrelevant.",  
+    "Your light fades. The dark remains."  
+  ],  
+  "done_generic": [  
+    "... ...Disengaging.",  
+    "No further data required. Depart."  
+  ],  
+  "is_busy": [  
+    "... ...Prioritizing Lord Ghetsis’s directives.",  
+    "Interruption non-permissible. Vanish."  
+  ],  
+  "on_cooldown": [  
+    "... ...Recharging in umbral folds.",  
+    "Silence. Regrouping."  
+  ]  
+}  

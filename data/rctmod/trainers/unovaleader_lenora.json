@@ -1,0 +1,191 @@
+{
+  "name": "Lenora",
+  "identity": "Unova Leader Lenora",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "watchog",
+"level": 30,
+      "ability": "analytic",
+      "evs": {
+        "hp": 0,
+        "atk": 160,
+        "def": 4,
+        "spa": 0,
+        "spd": 40,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 0
+      },
+      "moveset": [
+        "return",
+        "swordsdance",
+        "zenheadbutt",
+        "revenge"
+      ],
+      "heldItem": "iron_ball",
+      "nature": "brave"
+    },
+    {
+      "species": "stoutland",
+"level": 30,
+      "ability": "intimidate",
+      "evs": {
+        "hp": 0,
+        "atk": 100,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 60
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "return",
+        "wildcharge",
+        "crunch",
+        "superpower"
+      ],
+      "heldItem": "choice_band"
+    },
+    {
+      "species": "audino",
+"level": 30,
+      "ability": "regenerator",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 0,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "wish",
+        "protect",
+        "healpulse",
+        "dazzlinggleam"
+      ],
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "braviary",
+"level": 30,
+      "ability": "sheerforce",
+      "evs": {
+        "hp": 0,
+        "atk": 100,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 60
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "bravebird",
+        "ironhead",
+        "roost",
+        "crushclaw"
+      ],
+      "heldItem": "life_orb",
+      "nature": "jolly"
+    },
+    {
+      "species": "sawsbuck",
+"level": 30,
+      "ability": "serenegrace",
+      "evs": {
+        "hp": 0,
+        "atk": 100,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 60
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "bodyslam",
+        "jumpkick",
+        "naturepower",
+        "zenheadbutt"
+      ],
+      "heldItem": "expert_belt"
+    },
+    {
+      "species": "cinccino",
+"level": 30,
+      "ability": "skilllink",
+      "evs": {
+        "hp": 0,
+        "atk": 60,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 40
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "tailslap",
+        "rockblast",
+        "bulletseed",
+        "uturn"
+      ],
+      "heldItem": "loaded_dice"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "name": "Aqua Admin Shelly",
+  "identity": "Team Aqua Admin",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "gyarados",
+      "heldItem": "mega_showdown:gyaradosite",
+      "gender": "MALE",
+      "level": 80,
+      "nature": "adamant",
+      "ability": "moldbreaker",
+      "moveset": [
+        "substitute",
+        "dragondance",
+        "waterfall",
+        "earthquake"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 8,
+        "spe": 248
+      }
+    },
+    {
+      "species": "pelipper",
+      "gender": "FEMALE",
+      "level": 76,
+      "nature": "bold",
+      "ability": "keeneye",
+      "moveset": [
+        "toxic",
+        "roost",
+        "uturn",
+        "scald"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 244,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 12,
+        "spe": 0
+      },
+      "heldItem": "damp_rock"
+    },
+    {
+      "species": "muk",
+      "gender": "MALE",
+      "level": 77,
+      "nature": "adamant",
+      "ability": "poisontouch",
+      "moveset": [
+        "knockoff",
+        "poisonfang",
+        "rest",
+        "sleeptalk"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "aspects": [
+        "alolan"
+      ],
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "kingdra",
+      "gender": "MALE",
+      "level": 78,
+      "nature": "timid",
+      "ability": "swiftswim",
+      "moveset": [
+        "weatherball",
+        "dracometeor",
+        "flipturn",
+        "hurricane"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 248
+      },
+      "heldItem": "choice_specs"
+    },
+    {
+      "species": "huntail",
+      "gender": "MALE",
+      "level": 77,
+      "nature": "naughty",
+      "ability": "swiftswim",
+      "moveset": [
+        "shellsmash",
+        "waterfall",
+        "icebeam",
+        "suckerpunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 4,
+        "spd": 0,
+        "spe": 252
+      },
+      "heldItem": "white_herb"
+    },
+    {
+      "species": "walrein",
+      "gender": "FEMALE",
+      "level": 76,
+      "nature": "calm",
+      "ability": "oblivious",
+      "moveset": [
+        "roar",
+        "toxic",
+        "surf",
+        "protect"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 248,
+        "atk": 0,
+        "def": 8,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "heldItem": "leftovers"
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

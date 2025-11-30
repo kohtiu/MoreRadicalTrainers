@@ -1,0 +1,22 @@
+{
+    "battle_start": [
+      "Ahyahyahya! Let’s see if your skills match your audacity!",
+      "Obnoxious child! Prepare for *thorough* coaching!"
+    ],
+    "battle_lost": [
+      "Hyuhn?! Unanticipated… but irrelevant!",
+      "Hehehe… Leader Maxie’s plans are unstoppable!"
+    ],
+    "battle_won": [
+      "Ahyahya! Stress relief achieved!",
+      "Crushed like a pebble under Magma’s boot!"
+    ],
+    "done_looser": [
+      "Hyuhn… Twilight falls regardless of your meddling!",
+      "Leader Maxie’s Desolate Land awaits… Ahya!"
+    ],
+    "done_winner": [
+      "Ahyahya! Another stressor eliminated!",
+      "Return to your nursery. Adults are working."
+    ]
+  }

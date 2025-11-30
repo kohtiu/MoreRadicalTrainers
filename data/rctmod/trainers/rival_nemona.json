@@ -1,0 +1,145 @@
+{
+    "name": "Champion Nemona",
+    "identity": "Rival",
+    "ai": {
+      "type": "rct",
+      "data": {
+        "maxSelectMargin": 0.15
+      }
+    },
+    "battleRules": {
+      "maxItemUses": 3
+    },
+    "bag": [
+      {
+        "item": "cobblemon:full_restore",
+        "quantity": 3
+      }
+    ],
+    "team": [
+      {
+        "species": "lycanroc",
+        "level": 95,
+        "moveset": ["accelerock", "drillrun", "playrough", "stealthrock"],
+        "heldItem": "cobblemon:focus_sash",
+        "nature": "jolly",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "atk": 252,
+          "spe": 252,
+          "hp": 4
+        }
+      },
+      {
+        "species": "kommoo",
+        "level": 92,
+        "moveset": ["clangoroussoul", "drainpunch", "thunderpunch", "earthquake"],
+        "heldItem": "cobblemon:throat_spray",
+        "nature": "adamant",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "atk": 252,
+          "def": 4
+        }
+      },
+      {
+        "species": "decidueye",
+        "level": 95,
+        "moveset": ["spiritshackle", "leafblade", "dualwingbeat", "suckerpunch"],
+        "heldItem": "cobblemon:scope_lens",
+        "nature": "adamant",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "atk": 252,
+          "spe": 4
+        }
+      },
+      {
+        "species": "ribombee",
+        "level": 95,
+        "moveset": ["bugbuzz", "moonblast", "energyball", "psychic"],
+        "heldItem": "cobblemon:focus_sash",
+        "nature": "timid",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "spa": 252,
+          "spe": 252,
+          "hp": 4
+        }
+      },
+      {
+        "species": "pawmot",
+        "level": 91,
+        "moveset": ["doubleshock", "closecombat", "icepunch", "machpunch"],
+        "heldItem": "cobblemon:life_orb",
+        "nature": "jolly",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "atk": 252,
+          "spe": 252,
+          "hp": 4
+        }
+      },
+      {
+        "species": "quaquaval",
+        "level": 100,
+        "moveset": ["aquastep", "brickbreak", "aerialace", "tripleaxel"],
+        "heldItem": "cobblemon:loaded_dice",
+        "gimmicks": {
+          "tera": "water"
+        },
+        "nature": "jolly",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "atk": 252,
+          "spe": 252,
+          "hp": 4
+        }
+      }
+    ],
+    "battleFormat": "GEN_9_SINGLES"
+  }

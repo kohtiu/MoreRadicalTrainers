@@ -1,0 +1,75 @@
+{
+  "name": "Plasma Grunt",
+  "identity": "Plasma Warrior",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.1
+    }
+  },
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "scrafty",
+      "level": 68,
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": ["drainpunch", "knockoff", "fakeout", "icepunch"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "assault_vest"
+    },
+    {
+      "species": "garbodor",
+      "level": 68,
+      "nature": "impish",
+      "ability": "aftermath",
+      "moveset": ["gunkshot", "spikes", "toxicspikes", "explosion"],
+      "evs": { "def": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "black_sludge"
+    },
+    {
+      "species": "lokix",
+      "level": 68,
+      "nature": "jolly",
+      "ability": "tintedlens",
+      "moveset": ["firstimpression", "suckerpunch", "throatchop", "axekick"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "basculin",
+      "level": 68,
+      "nature": "adamant",
+      "ability": "adaptability",
+      "aspects": ["red_stripe"],
+      "moveset": ["aquajet", "liquidation", "crunch", "psychicfangs"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "mystic_water"
+    },
+    {
+      "species": "swoobat",
+      "level": 68,
+      "nature": "timid",
+      "ability": "simple",
+      "moveset": ["airslash", "psychic", "heatwave", "calmmind"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "wise_glasses"
+    },
+    {
+      "species": "lilligant",
+      "level": 68,
+      "nature": "timid",
+      "ability": "chlorophyll",
+      "aspects": ["hisuian"],
+      "moveset": ["victorydance", "leafstorm", "icebeam", "sleeppowder"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    }
+  ]
+}

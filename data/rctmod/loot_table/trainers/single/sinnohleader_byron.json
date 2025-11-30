@@ -1,0 +1,79 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemonpokemonbadges:mine_badge",
+          "conditions": [
+            {
+              "condition": "rctmod:defeat_count",
+                "count": 1
+                  }
+              ]
+            } 
+          ]
+        },
+        {
+          "rolls": 1,
+          "entries": [
+                {
+                  "type": "minecraft:item",
+                  "name": "minecraft:diamond_shovel",
+                  "conditions": [
+                    {
+                      "condition": "rctmod:defeat_count",
+                        "count": 1
+                          }
+                      ]
+                    }
+              ]
+            },
+            {
+              "rolls": 1,
+              "entries": [
+                    {
+                      "type": "minecraft:item",
+                      "name": "minecraft:diamond_pickaxe",
+                      "conditions": [
+                        {
+                          "condition": "rctmod:defeat_count",
+                            "count": 1
+                              }
+                          ]
+                        }
+                  ]
+                },
+                {
+                  "rolls": 1,
+                  "entries": [
+                        {
+                          "type": "minecraft:item",
+                          "name": "cobblemon:metal_coat",
+                          "conditions": [
+                            {
+                              "condition": "rctmod:defeat_count",
+                                "count": 1
+                                  }
+                              ]
+                            }
+                      ]
+                    },
+            {
+              "rolls": 1,
+              "entries": [
+                        {
+                          "type": "minecraft:item",
+                          "name": "simpletms:tm_flashcannon",
+                          "conditions": [
+                            {
+                              "condition": "rctmod:defeat_count",
+                                "count": 1
+                                  }
+                              ]
+                            }
+                  ]
+                }
+      ]
+    }

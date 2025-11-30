@@ -1,0 +1,72 @@
+{
+  "name": "Neo Plasma Grunt",
+  "identity": "B",
+  "ai": {
+    "type": "rct",
+    "data": { "maxSelectMargin": 0.1 }
+  },
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "kingambit",
+      "level": 80,
+      "nature": "adamant",
+      "ability": "supremeoverlord",
+      "moveset": ["kowtowcleave", "ironhead", "suckerpunch", "swordsdance"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "black_glasses"
+    },
+    {
+      "species": "archaludon",
+      "level": 80,
+      "nature": "modest",
+      "ability": "stamina",
+      "moveset": ["dracometeor", "flashcannon", "thunderbolt", "stealthrock"],
+      "evs": { "spa": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "assault_vest"
+    },
+    {
+      "species": "hydrapple",
+      "level": 80,
+      "nature": "calm",
+      "ability": "regenerator",
+      "moveset": ["appleacid", "recover", "dragonpulse", "leechseed"],
+      "evs": { "hp": 252, "spd": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "hydreigon",
+      "level": 80,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": ["darkpulse", "dracometeor", "flamethrower", "uturn"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "choice_scarf"
+    },
+    {
+      "species": "druddigon",
+      "level": 78,
+      "nature": "brave",
+      "ability": "roughskin",
+      "moveset": ["outrage", "earthquake", "gunkshot", "glare"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "rocky_helmet"
+    },
+    {
+      "species": "braviary",
+      "level": 80,
+      "nature": "jolly",
+      "ability": "defiant",
+      "aspects": ["hisuian"],
+      "moveset": ["bravebird", "esperwing", "uturn", "roost"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "sharp_beak"
+    }
+  ]
+}

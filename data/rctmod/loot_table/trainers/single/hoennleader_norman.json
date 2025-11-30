@@ -1,0 +1,49 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "cobblemonpokemonbadges:balance_badge",
+            "conditions": [
+              {
+                "condition": "rctmod:defeat_count",
+                  "count": 1
+                    }
+                ]
+              } 
+            ]
+          },
+          {
+            "rolls": 1,
+            "entries": [
+                  {
+                    "type": "minecraft:item",
+                    "name": "cobblemon:silk_scarf",
+                    "conditions": [
+                      {
+                        "condition": "rctmod:defeat_count",
+                          "count": 1
+                            }
+                        ]
+                      }
+                ]
+              },
+              {
+                "rolls": 1,
+                "entries": [
+                          {
+                            "type": "minecraft:item",
+                            "name": "simpletms:tm_facade",
+                            "conditions": [
+                              {
+                                "condition": "rctmod:defeat_count",
+                                  "count": 1
+                                    }
+                                ]
+                              }
+                    ]
+                  }
+        ]
+      }

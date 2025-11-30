@@ -1,0 +1,17 @@
+{
+  "requiredDefeats": [
+      ["paldealeader_brassius"], ["paldealeader_grusha"], 
+      ["paldealeader_iono"], ["paldealeader_katy"],
+      ["paldealeader_kofu"], ["paldealeader_larry"], 
+      ["paldealeader_ryme"], ["paldealeader_tulip"],
+      ["rival_arven"]
+       ],
+  "series": [
+    "paldeagymchallenge"
+  ],  
+  "type": "rival",
+  "maxTrainerWins": 5,
+  "spawnWeightFactor": 0.25,
+  "biomeTagBlacklist": ["is_water"],
+  "biomeTagWhitelist": ["is_overworld"]
+}

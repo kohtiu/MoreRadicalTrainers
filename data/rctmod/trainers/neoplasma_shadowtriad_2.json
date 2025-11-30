@@ -1,0 +1,70 @@
+{
+  "name": "Shadow Triad",
+  "ai": {
+    "type": "rct",
+    "data": { "maxSelectMargin": 0.05 }
+  },
+  "battleFormat": "GEN_9_TRIPLES",
+  "team": [
+    {
+      "species": "bisharp",
+      "level": 85,
+      "nature": "adamant",
+      "ability": "defiant",
+      "moveset": ["kowtowcleave", "ironhead", "suckerpunch", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "black_glasses"
+    },
+    {
+      "species": "armarouge",
+      "level": 85,
+      "nature": "modest",
+      "ability": "flashfire",
+      "moveset": ["armorcannon", "psychic", "energyball", "trickroom"],
+      "evs": { "spa": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "choice_specs"
+    },
+    {
+      "species": "greninja",
+      "level": 85,
+      "nature": "timid",
+      "ability": "protean",
+      "moveset": ["hydropump", "darkpulse", "icebeam", "uturn"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "choice_specs"
+    },
+    {
+      "species": "ceruledge",
+      "level": 85,
+      "nature": "adamant",
+      "ability": "flashfire",
+      "moveset": ["bitterblade", "shadowclaw", "closecombat", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "charcoal_stick"
+    },
+    {
+      "species": "bisharp",
+      "level": 85,
+      "nature": "adamant",
+      "ability": "defiant",
+      "moveset": ["kowtowcleave", "ironhead", "suckerpunch", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "black_glasses"
+    },
+    {
+      "species": "kingambit",
+      "level": 85,
+      "nature": "adamant",
+      "ability": "supremeoverlord",
+      "moveset": ["kowtowcleave", "ironhead", "suckerpunch", "swordsdance"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "black_glasses"
+    }
+  ]
+}

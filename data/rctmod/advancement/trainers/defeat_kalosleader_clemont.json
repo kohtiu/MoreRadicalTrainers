@@ -1,0 +1,31 @@
+{
+  "parent": "rctmod:trainers/defeat_kalosleader_ramos",
+  "display": {
+    "title": {
+      "text": "Voltage Badge"
+    },
+    "description": {
+      "text": "Defeat Leader Clemont"
+    },
+    "icon": {
+      "id": "cobblemonpokemonbadges:voltage_badge"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": ["kalosleader_clemont"]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

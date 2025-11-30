@@ -1,0 +1,70 @@
+{
+  "name": "Alder",
+  "ai": {
+    "type": "rct",
+    "data": { "maxSelectMargin": 0.05 }
+  },
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "accelgor",
+      "level": 90,
+      "nature": "timid",
+      "ability": "stickyhold",
+      "moveset": ["bugbuzz", "focusblast", "spikes", "finalgambit"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "bouffalant",
+      "level": 88,
+      "nature": "adamant",
+      "ability": "reckless",
+      "moveset": ["headcharge", "earthquake", "stoneedge", "swordsdance"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "druddigon",
+      "level": 88,
+      "nature": "brave",
+      "ability": "roughskin",
+      "moveset": ["outrage", "earthquake", "gunkshot", "glare"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "rocky_helmet"
+    },
+    {
+      "species": "vanilluxe",
+      "level": 89,
+      "nature": "modest",
+      "ability": "snowwarning",
+      "moveset": ["blizzard", "freezedry", "flashcannon", "auroraveil"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "never_melt_ice"
+    },
+    {
+      "species": "escavalier",
+      "level": 89,
+      "nature": "brave",
+      "ability": "overcoat",
+      "moveset": ["ironhead", "megahorn", "drillrun", "swordsdance"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "assault_vest"
+    },
+    {
+      "species": "volcarona",
+      "level": 90,
+      "nature": "timid",
+      "ability": "flamebody",
+      "moveset": ["fierydance", "bugbuzz", "quiverdance", "roost"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "heavy_duty_boots"
+    }
+  ]
+}

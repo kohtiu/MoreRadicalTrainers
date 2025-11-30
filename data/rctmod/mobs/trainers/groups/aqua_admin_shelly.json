@@ -1,0 +1,20 @@
+{
+  "requiredDefeats": [
+    ["aqua_grunt_female_inky"]
+  ],
+    "maxTrainerWins": 5,
+    "series": ["teamaqua"],
+    "type": "team_aqua",
+    "spawnWeightFactor": 0.25,
+    "biomeTagBlacklist": [
+    "is_void",
+    "is_underground",
+    "is_nether",
+    "is_end"
+  ],
+  "biomeTagWhitelist": [
+      "is_wet",
+      "is_water",
+      "is_river",
+      "is_beach"
+    ]}

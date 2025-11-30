@@ -1,0 +1,64 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemonpokemonbadges:freeze_badge",
+          "conditions": [
+            {
+              "condition": "rctmod:defeat_count",
+                "count": 1
+                  }
+              ]
+            } 
+          ]
+        },
+            {
+              "rolls": 1,
+              "entries": [
+                    {
+                      "type": "minecraft:item",
+                      "name": "cobblemon:ice_stone",
+                      "conditions": [
+                        {
+                          "condition": "rctmod:defeat_count",
+                            "count": 1
+                              }
+                          ]
+                        }
+                  ]
+                },
+                {
+                  "rolls": 1,
+                  "entries": [
+                        {
+                          "type": "minecraft:item",
+                          "name": "cobblemon:icy_rock",
+                          "conditions": [
+                            {
+                              "condition": "rctmod:defeat_count",
+                                "count": 1
+                                  }
+                              ]
+                            }
+                      ]
+                    },
+            {
+              "rolls": 1,
+              "entries": [
+                        {
+                          "type": "minecraft:item",
+                          "name": "simpletms:tm_frostbreath",
+                          "conditions": [
+                            {
+                              "condition": "rctmod:defeat_count",
+                                "count": 1
+                                  }
+                              ]
+                            }
+                  ]
+                }
+      ]
+    }

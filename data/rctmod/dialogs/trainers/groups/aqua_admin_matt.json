@@ -1,0 +1,22 @@
+{
+    "battle_start": [
+      "Oh ho! Let’s see if you’re worth my bro’s time!",
+      "You’re shark chum! Let’s mix it up!"
+    ],
+    "battle_lost": [
+      "Muwahaha! Lost, but I ain’t sunk yet!",
+      "Oh ho! My bro Archie’ll finish what I started!"
+    ],
+    "battle_won": [
+      "Oh ho! Crushed like a tin-can submarine!",
+      "That’s how Team Aqua rolls, punk!"
+    ],
+    "done_looser": [
+      "Oh ho! The sea’s still rising, kid!",
+      "My bro’s vision’s bigger than your petty wins!"
+    ],
+    "done_winner": [
+      "Oh ho! Another barnacle scraped off!",
+      "Don’t cry—the ocean’s got room for your tears!"
+    ]
+  }

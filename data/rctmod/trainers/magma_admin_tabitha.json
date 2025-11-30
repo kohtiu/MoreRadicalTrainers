@@ -1,0 +1,204 @@
+{
+  "name": "Magma Admin Tabitha",
+  "identity": "Team Magma Admin",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "gigalith",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "adamant",
+      "ability": "sandstream",
+      "moveset": [
+        "earthquake",
+        "stoneedge",
+        "curse",
+        "bodypress"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "heldItem": "smooth_rock"
+    },
+    {
+      "species": "dugtrio",
+      "gender": "MALE",
+      "level": 78,
+      "nature": "jolly",
+      "ability": "sandveil",
+      "moveset": [
+        "protect",
+        "earthquake",
+        "stoneedge",
+        "ironhead"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 248
+      },
+      "aspects": [
+        "alolan"
+      ],
+      "heldItem": "air_balloon"
+    },
+    {
+      "species": "maractus",
+      "gender": "FEMALE",
+      "level": 76,
+      "nature": "sassy",
+      "ability": "stormdrain",
+      "moveset": [
+        "gigadrain",
+        "knockoff",
+        "leechseed",
+        "spikyshield"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 4,
+        "def": 0,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "heldItem": "assault_vest"
+    },
+    {
+      "species": "armarouge",
+      "gender": "FEMALE",
+      "level": 79,
+      "nature": "modest",
+      "ability": "flashfire",
+      "moveset": [
+        "armorcannon",
+        "protect",
+        "calmmind",
+        "energyball"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "excadrill",
+      "gender": "MALE",
+      "level": 78,
+      "nature": "jolly",
+      "ability": "sandforce",
+      "moveset": [
+        "earthquake",
+        "protect",
+        "poisonjab",
+        "ironhead"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 248,
+        "def": 0,
+        "spa": 0,
+        "spd": 8,
+        "spe": 252
+      },
+      "heldItem": "air_balloon"
+    },
+    {
+      "species": "steelix",
+      "gender": "MALE",
+      "level": 80,
+      "nature": "impish",
+      "ability": "sturdy",
+      "moveset": [
+        "curse",
+        "heavyslam",
+        "rest",
+        "sleeptalk"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 4,
+        "def": 0,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      }
+    }
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
+}

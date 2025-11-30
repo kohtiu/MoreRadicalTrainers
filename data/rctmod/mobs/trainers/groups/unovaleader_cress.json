@@ -1,0 +1,14 @@
+{
+  "requiredDefeats": [
+    ["rival_hugh_1"]
+  ],     
+
+  "series": [
+       "unovagymchallenge"
+     ],  
+     "type": "gymleader_unova",
+     "maxTrainerWins": 5,
+     "spawnWeightFactor": 0.25,
+     "biomeTagBlacklist": ["is_water"],
+     "biomeTagWhitelist": ["is_overworld"]
+   }

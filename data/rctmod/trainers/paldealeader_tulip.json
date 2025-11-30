@@ -1,0 +1,145 @@
+{
+    "name": "Gym Leader Tulip",
+  "identity": "Paldea Gym Leader",
+    "ai": {
+      "type": "rct",
+      "data": {
+        "maxSelectMargin": 0.15
+      }
+    },
+    "battleRules": {
+      "maxItemUses": 3
+    },
+    "bag": [
+      {
+        "item": "cobblemon:full_restore",
+        "quantity": 3
+      }
+    ],
+    "team": [
+      {
+        "species": "farigiraf",
+        "level": 95,
+        "moveset": ["shadowball", "expandingforce", "psychicterrain", "thunderbolt"],
+        "heldItem": "cobblemon:twisted_spoon",
+        "nature": "modest",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "spa": 252,
+          "spd": 4
+        }
+      },
+      {
+        "species": "gardevoir",
+        "level": 96,
+        "moveset": ["expandingforce", "dazzlinggleam", "energyball", "mysticalfire"],
+        "heldItem": "cobblemon:choice_specs",
+        "nature": "timid",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "spa": 252,
+          "hp": 4,
+          "spe": 252
+        }
+      },
+      {
+        "species": "espathra",
+        "level": 96,
+        "moveset": ["luminacrash", "flashcannon", "shadowball", "dazzlinggleam"],
+        "heldItem": "cobblemon:life_orb",
+        "nature": "timid",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "spa": 252,
+          "hp": 4,
+          "spe": 252
+        }
+      },
+      {
+        "species": "gallade",
+        "level": 99,
+        "moveset": ["psychocut", "leafblade", "xscissor", "closecombat"],
+        "heldItem": "cobblemon:focus_sash",
+        "nature": "jolly",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        }
+      },
+      {
+        "species": "delphox",
+        "level": 95,
+        "moveset": ["flamethrower", "shadowball", "psychic", "scorchingsands"],
+        "heldItem": "cobblemon:leftovers",
+        "nature": "timid",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "spa": 252,
+          "hp": 4,
+          "spe": 252
+        }
+      },
+      {
+        "species": "florges",
+        "level": 100,
+        "moveset": ["psychic", "moonblast", "gigadrain", "calmmind"],
+        "heldItem": "cobblemon:big_root",
+        "nature": "modest",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "gimmicks": {
+          "tera": "psychic"
+        },
+        "evs": {
+          "hp": 252,
+          "spa": 252,
+          "spd": 4
+        }
+      }
+    ],
+    "battleFormat": "GEN_9_SINGLES"
+  }

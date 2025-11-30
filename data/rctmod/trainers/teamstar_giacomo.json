@@ -1,0 +1,125 @@
+{
+  "name": "Team Star Giacomo",
+"identity": "Team Star",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+      {
+        "species": "cacturne",
+        "level": 98,
+        "moveset": ["bulletseed", "suckerpunch", "spikyshield", "thunderpunch"],
+        "heldItem": "cobblemon:life_orb",
+        "nature": "adamant",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        }
+      },
+      {
+        "species": "honchkrow",
+        "level": 99,
+        "moveset": ["hurricane", "darkpulse", "psychic", "tailwind"],
+        "heldItem": "cobblemon:choice_scarf",
+        "nature": "jolly",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        }
+      },
+      {
+        "species": "mabosstiff",
+        "level": 96,
+        "moveset": ["playrough", "crunch", "payback", "icefang"],
+        "heldItem": "cobblemon:leftovers",
+        "gimmicks": {
+          "tera": "dark"
+        },
+        "nature": "adamant",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "atk": 252,
+          "def": 4
+        }
+      },
+      {
+        "species": "krookodile",
+        "level": 95,
+        "moveset": ["earthquake", "crunch", "dragonclaw", "firefang"],
+        "heldItem": "cobblemon:expert_belt",
+        "nature": "jolly",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        }
+      },
+      {
+        "species": "kingambit",
+        "level": 100,
+        "moveset": ["kowtowcleave", "ironhead", "swordsdance", "stoneedge"],
+        "heldItem": "cobblemon:assault_vest",
+        "nature": "adamant",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "atk": 252,
+          "def": 4
+        }
+      }
+    ],
+  "battleFormat": "GEN_9_SINGLES"
+}

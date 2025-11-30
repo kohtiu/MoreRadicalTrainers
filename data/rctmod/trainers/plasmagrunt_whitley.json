@@ -1,0 +1,75 @@
+{
+  "name": "Plasma Grunt Whitley",
+  "identity": "Plasma Warrior",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.05
+    }
+  },
+  "battleFormat": "GEN_9_DOUBLES",
+  "team": [
+    {
+      "species": "garbodor",
+      "level": 75,
+      "nature": "impish",
+      "ability": "aftermath",
+      "moveset": ["gunkshot", "spikes", "toxicspikes", "explosion"],
+      "evs": { "def": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "black_sludge"
+    },
+    {
+      "species": "muk",
+      "level": 75,
+      "nature": "careful",
+      "ability": "stench",
+      "moveset": ["poisonjab", "shadowsneak", "curse", "rest"],
+      "evs": { "hp": 252, "spd": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "black_sludge"
+    },
+    {
+      "species": "muk",
+      "level": 75,
+      "nature": "adamant",
+      "ability": "poisontouch",
+      "aspects": ["alolan"],
+      "moveset": ["gunkshot", "knockoff", "firepunch", "curse"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "black_sludge"
+    },
+    {
+      "species": "weezing",
+      "level": 75,
+      "nature": "bold",
+      "ability": "levitate",
+      "moveset": ["sludgebomb", "willowisp", "painsplit", "toxicspikes"],
+      "evs": { "def": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "weezing",
+      "level": 75,
+      "nature": "calm",
+      "ability": "mistysurge",
+      "aspects": ["galarian"],
+      "moveset": ["strangesteam", "defog", "fireblast", "toxicspikes"],
+      "evs": { "hp": 252, "spd": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "misty_seed"
+    },
+    {
+      "species": "revavroom",
+      "level": 75,
+      "nature": "adamant",
+      "ability": "overcoat",
+      "moveset": ["shiftgear", "ironhead", "wildcharge", "highhorsepower"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    }
+  ]
+}

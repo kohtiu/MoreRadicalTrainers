@@ -1,0 +1,53 @@
+{
+  "name": "Plasma Grunt",
+  "identity": "Plasma Fighter",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.2
+    }
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "team": [
+    {
+      "species": "liepard",
+      "level": 52,
+      "nature": "jolly",
+      "ability": "limber",
+      "moveset": ["nightslash", "playrough", "uturn", "taunt"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "black_glasses"
+    },
+    {
+      "species": "krookodile",
+      "level": 52,
+      "nature": "jolly",
+      "ability": "moxie",
+      "moveset": ["earthquake", "crunch", "stoneedge", "swordsdance"],
+      "evs": { "atk": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "thievul",
+      "level": 52,
+      "nature": "timid",
+      "ability": "unburden",
+      "moveset": ["darkpulse", "psychic", "nastyplot", "grassknot"],
+      "evs": { "spa": 252, "spe": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "psychic_seed"
+    },
+    {
+      "species": "toucannon",
+      "level": 52,
+      "nature": "adamant",
+      "ability": "skilllink",
+      "moveset": ["bulletseed", "beakblast", "brickbreak", "bulletseed"],
+      "evs": { "atk": 252, "hp": 252 },
+      "ivs": { "hp": 31, "atk": 31, "def": 31, "spa": 31, "spd": 31, "spe": 31 },
+      "heldItem": "sharp_beak"
+    }
+  ]
+}

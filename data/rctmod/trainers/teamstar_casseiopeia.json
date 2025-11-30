@@ -1,0 +1,145 @@
+{
+    "name": "Team Star Penny",
+    "identity": "Team Star",
+    "ai": {
+      "type": "rct",
+      "data": {
+        "maxSelectMargin": 0.15
+      }
+    },
+    "battleRules": {
+      "maxItemUses": 3
+    },
+    "bag": [
+      {
+        "item": "cobblemon:full_restore",
+        "quantity": 3
+      }
+    ],
+    "team": [
+      {
+        "species": "umbreon",
+        "level": 100,
+        "moveset": ["darkpulse", "quickattack", "babydolleyes", "psychic"],
+        "heldItem": "cobblemon:leftovers",
+        "nature": "calm",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "def": 4,
+          "spd": 252
+        }
+      },
+      {
+        "species": "vaporeon",
+        "level": 100,
+        "moveset": ["hydropump", "quickattack", "babydolleyes", "aurorabeam"],
+        "heldItem": "cobblemon:leftovers",
+        "nature": "modest",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "def": 4,
+          "spa": 252
+        }
+      },
+      {
+        "species": "jolteon",
+        "level": 100,
+        "moveset": ["thunder", "quickattack", "babydolleyes", "pinmissile"],
+        "heldItem": "cobblemon:choice_specs",
+        "nature": "timid",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "spa": 252,
+          "hp": 4,
+          "spe": 252
+        }
+      },
+      {
+        "species": "flareon",
+        "level": 100,
+        "moveset": ["flareblitz", "quickattack", "babydolleyes", "firespin"],
+        "heldItem": "cobblemon:life_orb",
+        "nature": "adamant",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        }
+      },
+      {
+        "species": "leafeon",
+        "level": 100,
+        "moveset": ["leafblade", "quickattack", "babydolleyes", "xscissor"],
+        "heldItem": "cobblemon:miracle_seed",
+        "nature": "jolly",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        }
+      },
+      {
+        "species": "sylveon",
+        "level": 100,
+        "moveset": ["moonblast", "quickattack", "babydolleyes", "shadowball"],
+        "heldItem": "cobblemon:fairy_feather",
+        "gimmicks": {
+          "tera": "fairy"
+        },
+        "nature": "modest",
+        "ivs": {
+          "hp": 31,
+          "atk": 31,
+          "def": 31,
+          "spa": 31,
+          "spd": 31,
+          "spe": 31
+        },
+        "evs": {
+          "hp": 252,
+          "def": 4,
+          "spa": 252
+        }
+      }
+    ],
+    "battleFormat": "GEN_9_SINGLES"
+  }

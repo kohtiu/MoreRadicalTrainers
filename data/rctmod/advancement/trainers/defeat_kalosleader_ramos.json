@@ -1,0 +1,31 @@
+{
+  "parent": "rctmod:trainers/defeat_kalosleader_korrina",
+  "display": {
+    "title": {
+      "text": "Plant Badge"
+    },
+    "description": {
+      "text": "Defeat Leader Ramos"
+    },
+    "icon": {
+      "id": "cobblemonpokemonbadges:plant_badge"
+    },
+    "announce_to_chat": true,
+    "show_toast": true,
+    "hidden": false,
+    "frame": "goal"
+  },
+  "criteria": {
+    "first_defeat": {
+      "conditions": {
+        "trainer_ids": ["kalosleader_ramos"]
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "requirements": [
+    [
+      "first_defeat"
+    ]
+  ]
+}

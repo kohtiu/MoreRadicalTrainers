@@ -1,0 +1,13 @@
+{
+    "requiredDefeats": [
+      ["plasmagrunt_male_7"], ["plasmagrunt_female_8"], ["plasmagrunt_whitley"] 
+    ],
+      "series": [
+        "teamplasma"
+      ],  
+      "type": "teamplasma",
+      "maxTrainerWins": 5,
+      "spawnWeightFactor": 0.25,
+      "biomeTagBlacklist": ["is_water"],
+      "biomeTagWhitelist": ["is_overworld"]
+    }

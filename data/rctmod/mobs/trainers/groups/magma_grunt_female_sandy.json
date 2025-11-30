@@ -1,0 +1,11 @@
+{
+  "requiredDefeats": [
+    ["magma_grunt_male_ignio"]
+  ],
+  "maxTrainerWins": 1,
+  "series": ["teammagma"],
+  "type": "team_magma",
+  "spawnWeightFactor": 0.25,
+  "biomeTagBlacklist": ["is_water"],
+  "biomeTagWhitelist": ["is_nether"]
+}

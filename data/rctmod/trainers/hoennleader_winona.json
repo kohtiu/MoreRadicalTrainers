@@ -1,0 +1,192 @@
+{
+  "name": "Leader Winona",
+  "identity": "Leader Winona",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "altaria",
+"level": 58,
+      "ability": "naturalcure",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "roost",
+        "moonblast",
+        "dragondance",
+        "hurricane"
+      ],
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "swellow",
+"level": 54,
+      "ability": "guts",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "bravebird",
+        "doubleedge",
+        "quickattack",
+        "facade"
+      ],
+      "heldItem": "choice_band"
+    },
+    {
+      "species": "pelipper",
+"level": 54,
+      "ability": "drizzle",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 4,
+        "spd": 252,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "scald",
+        "hurricane",
+        "uturn",
+        "roost"
+      ],
+      "heldItem": "damp_rock"
+    },
+    {
+      "species": "kilowattrel",
+"level": 55,
+      "ability": "windpower",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "hurricane",
+        "thunderbolt",
+        "voltswitch",
+        "airslash"
+      ],
+      "heldItem": "choice_specs"
+    },
+    {
+      "species": "braviary",
+"level": 57,
+      "ability": "tintedlens",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "dazzlinggleam",
+        "hurricane",
+        "esperwing",
+        "calmmind"
+      ],
+      "aspects": [
+        "hisuian"
+      ],
+      "heldItem": "choice_band"
+    },
+    {
+      "species": "skarmory",
+"level": 57,
+      "ability": "sturdy",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "roost",
+        "spikes",
+        "bravebird",
+        "bodypress"
+      ],
+      "heldItem": "rocky_helmet"
+    }
+  ]
+}

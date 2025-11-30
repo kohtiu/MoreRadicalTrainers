@@ -1,0 +1,189 @@
+{
+  "name": "Leader Flannery",
+  "identity": "Leader Flannery",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "torkoal",
+"level": 44,
+      "ability": "drought",
+      "evs": {
+        "hp": 120,
+        "atk": 0,
+        "def": 60,
+        "spa": 0,
+        "spd": 120,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "lavaplume",
+        "solarbeam",
+        "stealthrock",
+        "amnesia"
+      ],
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "camerupt",
+"level": 46,
+      "ability": "solidrock",
+      "evs": {
+        "hp": 60,
+        "atk": 0,
+        "def": 4,
+        "spa": 120,
+        "spd": 120,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "eruption",
+        "fireblast",
+        "earthpower",
+        "solarbeam"
+      ],
+      "heldItem": "choice_specs"
+    },
+    {
+      "species": "cinderace",
+"level": 44,
+      "ability": "blaze",
+      "evs": {
+        "hp": 0,
+        "atk": 120,
+        "def": 60,
+        "spa": 0,
+        "spd": 0,
+        "spe": 100
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "pyroball",
+        "highjumpkick",
+        "suckerpunch",
+        "gunkshot"
+      ],
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "blaziken",
+"level": 46,
+      "ability": "speedboost",
+      "evs": {
+        "hp": 0,
+        "atk": 100,
+        "def": 80,
+        "spa": 0,
+        "spd": 0,
+        "spe": 100
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "flareblitz",
+        "closecombat",
+        "knockoff",
+        "thunderpunch"
+      ],
+      "heldItem": "choice_band"
+    },
+    {
+      "species": "chandelure",
+"level": 45,
+      "ability": "flashfire",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 180,
+        "spd": 0,
+        "spe": 60
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "fireblast",
+        "shadowball",
+        "energyball",
+        "psychic"
+      ],
+      "heldItem": "choice_scarf"
+    },
+    {
+      "species": "houndoom",
+"level": 42,
+      "ability": "flashfire",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 120,
+        "spd": 0,
+        "spe": 40
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moveset": [
+        "darkpulse",
+        "fireblast",
+        "nastyplot",
+        "solarbeam"
+      ],
+      "heldItem": "life_orb"
+    }
+  ]
+}
